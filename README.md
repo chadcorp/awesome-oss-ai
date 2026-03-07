@@ -2,7 +2,7 @@
 
 A curated list of the best open-source AI tools, models, frameworks, and libraries. Updated daily.
 
-[ossaihub.com](https://www.ossaihub.com) — The official directory with AI search, comparisons, and verified reviews.
+[ossaihub.com](https://www.ossaihub.com) — **[Visit the full directory → ossaihub.com](https://ossaihub.com)**
 
 ## Contents
 - [LLMs & Foundation Models](#llms--foundation-models)
