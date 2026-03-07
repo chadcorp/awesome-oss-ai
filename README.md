@@ -6,7 +6,7 @@ The official hub with AI-powered search, side-by-side comparisons, verified use 
 ## Explore Categories on OSS AI Hub
 
 - **[All Categories Overview](https://www.ossaihub.com/Categories)** — Browse all 895+ tools across curated categories
-- **[LLMs & Foundation Models](https://www.ossaihub.com/CategoryDetail?slug=llms-foundation-models)** — Large language models and foundation architectures
+- **[LLMs & Foundation Models](https://www.ossaihub.com/CategoryDetail?slug=llms-foundation-models](https://ossaihub.com/CategoryDetail?slug=llms-foundation))** — Large language models and foundation architectures
 - **[Agent Frameworks](https://www.ossaihub.com/CategoryDetail?slug=agent-frameworks)** — Frameworks for building autonomous AI agents and workflows
 - **[Computer Vision](https://www.ossaihub.com/CategoryDetail?slug=computer-vision)** — Image recognition, object detection, segmentation, and visual AI
 - **[Multimodal](https://www.ossaihub.com/CategoryDetail?slug=multimodal)** — AI combining text, image, audio, video, and more
