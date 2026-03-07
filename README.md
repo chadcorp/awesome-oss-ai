@@ -18,4 +18,4 @@ The official hub with AI-powered search, side-by-side comparisons, verified use 
 - **[Audio & Music AI](https://www.ossaihub.com/CategoryDetail?slug=audio-music-ai)**
 - **[Embodied Robotics AI](https://ossaihub.com/CategoryDetail?slug=embodied-robotics)** 
 
-We’ll build out a better, more detailed list here later. For now — head to the directory above to browse 895+ tools.
+We’ll build out a better, more detailed list here later. For now — head to the directory above to browse 1000+ tools.
