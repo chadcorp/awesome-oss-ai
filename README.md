@@ -15,6 +15,7 @@ The official hub with AI-powered search, side-by-side comparisons, verified use 
 - **[Multimodal](https://www.ossaihub.com/CategoryDetail?slug=multimodal)**  
 - **[MLOps & Deployment](https://www.ossaihub.com/CategoryDetail?slug=mlops-deployment)**  
 - **[Ethics & Safety](https://www.ossaihub.com/CategoryDetail?slug=ethics-safety)**  
-- **[Audio & Music AI](https://www.ossaihub.com/CategoryDetail?slug=audio-music-ai)**  
+- **[Audio & Music AI](https://www.ossaihub.com/CategoryDetail?slug=audio-music-ai)**
+- **[Embodied Robotics AI](https://ossaihub.com/CategoryDetail?slug=embodied-robotics)** 
 
 We’ll build out a better, more detailed list here later. For now — head to the directory above to browse 895+ tools.
