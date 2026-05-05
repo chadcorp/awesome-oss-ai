@@ -1,0 +1,163 @@
+Type,Make,Model,Serial #,# of Units (each),Notes,Assigned To
+Cal Block,IIW ASTM E164,IIW ASTM E164,A12095,1,,SN
+Cal Block,IIW,MINI IIW STEEL,14-4740,1,,SN
+Cal Block,DSC,DSC TEST BLOCK,06-1001,1,,SN
+Cal Block,NA,1018 STEEL,59323,1,Stepblock,SN
+Cal Block,0,DSC Block,15-4529,1,,DC
+Cal Block,0,Step Wedge CS,10-1581,1,,DC
+Cal Block,0,Step Wedge SS,55243,1,,DC
+Cal Block,,,13-1579,1,,BS
+Cal Block,DSC,,,1,,BS
+Cal Block,ASME DAC Block,,4139 23,1,,BS
+Cal Block,Step Block,,14-2522,1,,BS
+Cal Block,Step Block SS,,0049-17,1,,BS
+Cal Block,Step Block AL,,22-1912,1,,BS
+Cal Block,10 Step,,19-1242,1,Metric,BP
+Cal Block,DSC,,15-1003,1,Metric,BP
+Cal Block,Mini IIW,,18-3073,1,Metric,BP
+Cal Block,10LB Cal blocks Western Instruments,W-PT,1405-1409,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,2152-21527,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,21518,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,21519,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,21520,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,21521,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,21522,,,
+Cal Block,10LB Cal blocks Parker Research,TB-10,10920,,,
+Coatings,DFT,Delfasko 6000,764478,1,Thickness Gauge,BP
+Coatings,Elcometer,Dial Micrometre,SED593,1,,BP
+Coatings,,Infrared Thermometre,130707612,1,,BP
+Coatings,Tinker & Rasor,M1 Holiday Tester,,3,,
+Coatings,Delfasko,DFT Gauge,,3,,
+Coatings,Holiday detector -High voltage,,,1,,
+Coatings,Adhesion tester posi test AT-M,,,1,,
+Coatings,Handheld portable tester,,,1,,
+Coatings,Environmental meters,,,3,,
+Flaw Detector,USM-GO,,GOPLS19070196,1,,SN
+Flaw Detector,GE,USMGO,USMGO12105418,1,,DC
+Flaw Detector,Olympus,Epoch 650,170369403,1,,BS
+Flaw Detector,Sonotest Wave,,I021387,1,,BP
+HSE,,Harness,,1,,MS
+HSE,,Lanyard,,2,,MS
+HSE,Kosto,CDK005,BO22071166,1,,SN
+HSE,SALA,1102000C,4035017AAFC0E,1,,SN
+HSE,Sala,Full Body Harness,SN8561456,1,,DC
+HSE,,6' Lanyard,,1,,DC
+HSE,3M,Harness,20060907,1,,BS
+HSE,,Double Lanyard,,1,,BS
+HSE,,Single Retractable,,1,,BS
+HSE,,Double Retractable,,1,,BS
+HSE,MSA,actable Double Lanyard,,1,,BP
+HSE,MSA,Harness,10196642,1,,CS
+HSE,MSA,Lanyard,63011-24-4,1,,CS
+Probe,FH2E-D,,14K009WT,1,,SN
+Probe,YUSHI TC510,,72118,1,,SN
+Probe,P2.25-13MD,,12400028R,1,,SN
+Probe,U11FIL,,SNI00-011090,1,,SN
+Probe,GAMMA,,S000060,1,,SN
+Probe,Benchmark,,14G00LUL,1,,SN
+Probe,Benchmark,,14A02LEA,1,,SN
+Probe,FH2E,,21G0J6H5,1,,SN
+Probe,0,TC510,73169,1,,DC
+Probe,Tru-Sonics,KU-2.25-050,25-33869,1,,DC
+Probe,Technisonic,"1"" - 2.25MHz",C-0208-GP,1,,BS
+Probe,Panametrics,"1/2"" - 5MHz",1019057,1,,BS
+Probe,GE,"1/2"" - 2.25MHz",19L0076J,1,,BS
+Probe,SNI,"1/2"" - 2.25MHz",U11ZRR,1,,BS
+Probe,Stresstel,"1/4"" - 5MHz - Dual",20J022HR,1,,BS
+Probe,GE,"1/2"" - 2.25MHz",0114H9,1,Shear wave,BS
+Probe,GE,"1/2"" - 2.25MHz",SE2584,1,Shear wave,BS
+Probe,GE,"1/2"" - 2.25MHz",023PLP,1,Shear wave,BS
+Probe,Technisonic,"1/2"" - 2.25MHz",ABFQ-0204-GP,1,Shear wave,BS
+Probe,GE,"1/2"" - 5MHz",01D7VW,1,,BS
+Probe,GE,Unsure,01PJDN,1,Shear wave,BS
+Probe,BMC,"2.25 MHz 0.5""",20B00AJE,1,Shear wave,BP
+Probe,Shear Wave,"2.25 MHz 0.5""",18141861-6300,1,Shear wave,BP
+Probe,Shear Wave,"2.25 MHz 0.5""",14K00ZYU,1,Gamma,BP
+Probe,GE,"7.5 MHz 0.125""",15A00448,1,Pencil Probe,BP
+Probe,GE,,,,,
+Probe,GE,"2.25 MHz 0.5""",19L0076J,1,Alpha Straight,BP
+Probe,GE,"7.5 MHz 0.375""",19K01H02,1,Thickness Probe,BP
+Probe,Benchmark,"2.25 MHz 0.5""",SE 2633,1,Shear wave,BP
+Test Weight,Parker,"2.25 MHz 0.75 x 0.75""",007P5Y,1,Shear wave,BP
+Test Weight,Parker Research,10 Lbs,10920,1,,MS
+Test Weight,Parker Research,10 Lbs,21523,1,,SN
+Test Weight,Parker Research,10 Lbs,21524,1,,SN
+Test Weight,Parker Research,10 Lbs,21525,1,,SN
+Test Weight,Parker Research,10 Lbs,21526,1,,SN
+Test Weight,Parker Research,10 Lbs,21527,1,,SN
+Test Weight,Parker Research,TB10,21521,1,,DC
+Test Weight,Parker,TB-10,21520,1,,BS
+Test Weight,,TB10 Weight,29034,1,,CS
+Tools,Bluetti,EB3A 600W,29079-EB3A01,1,Battery Pack,MS
+Tools,Milwaukee,Handheld light,,1,,MS
+Tools,Lambino,"Headlamp, black",65547,1,,SN
+Tools,Mikwaukee,Flashlight,60A92040000710,1,,BS
+Tools,,Eliminator Powerpack,,1,,BS
+Tools,,Cree Blacklight,101396,1,,BS
+Tools,,Cam Gauge,,1,,BS
+Tools,,Fillet Gauges,,1,,BS
+Tools,,Ammeter,,1,,BS
+Tools,,Temp Gun,,1,,BS
+Tools,Mikwaukee,Grinder,33CD1738 06222,1,Cordless,BP
+Tools,Mikwaukee,Blower,24AF2104 03683,1,Cordless,BP
+Tools,Mikwaukee,Worklight,50A92040000076U,1,Cordless,BP
+Tools,MasterCraft,95PC Socket Set,,1,,BP
+Tools,Bluetti,AC2A,300W,1,,CS
+Tools,MasterCraft,Extendable Ladder,,1,,CS
+Tools,,4ft level,,1,,CS
+Tools,,Chipping Hammer,,1,,CS
+Tools,,Wire brushes,,2,,CS
+Tools,,Soft brushes,,2,,CS
+Tools,,Tape measure,,1,,CS
+Tools,,Large File,,1,,CS
+Tools,Bluetti,Power Station,22530001127865,1,600W,MVD
+Yoke,Magnaflux,Y6,N3252,1,,MS
+Yoke,Western Instrument,DC,3870,1,,MS
+Yoke,KDE,A2,2083,1,,MS
+Yoke,Western Instruments,Western Instruments,2772,1,DC,SN
+Yoke,WE-3LT,WE-3LT,2444,1,AC,SN
+Yoke,Parker Research,Parker Research,30142,1,AC,SN
+Yoke,Western Instruments,WC-9,2771,1,,DC
+Yoke,KDE,,MP-2080,1,,DC
+Yoke,Parker Research,B-100,13734,1,,DC
+Yoke,Magnaflux,Y6,N/A - No Sticker,1,,BS
+Yoke,KDE,MP-A2,MP 2084,1,,BS
+Yoke,Western Instrument,WC-9,3961,1,,BS
+Yoke,Parker Research,,10787,1,AC,BP
+Yoke,Western Instruments,,3858,1,DC,BP
+Yoke,KDE,,MP2083,1,AC,BP
+Yoke,Parker Research,10 Lbs,21518,1,,BP
+Yoke,Magnaflux,Y2,MAGNAFLUX Y2,1,,CS
+Yoke,OMWON,MY2,2104072,1,,CS
+Yoke,Parker,B100,3371,1,,CS
+Yoke,KDE,,MP 2082,1,,MVD
+Yoke,AC/DC Magnaflux Yoke,Y7,517750,,,
+Yoke,DC Western Instruments Yoke,WC-9,3961,,,
+Yoke,DC Western Instruments Yoke,WC-9,3870,,,
+Yoke,AC Parker Research Yoke,B100,3047,,,
+Yoke,AC Parker Research Yoke,B100,13735,,,
+Yoke,AC Western Instruments Yoke,WE-3LT,2444,,,
+Yoke,AC Western Instruments Yoke,WE-3LT,2612,,,
+Yoke,DC Western Instruments Yoke,WC-9,2772,,,
+Yoke,AC Western Instruments Yoke,WE-3LT,2841,,,
+Yoke,AC Western Instruments Yoke,WE-3LT,2445,,,
+Yoke,DC Western Instruments Yoke,WC-9,2271,,,
+Yoke,AC KDE Yoke,MP-A2,2082,,,
+Yoke,AC KDE Yoke,MP-A2,2079,,,
+Yoke,DC Western Instruments Yoke,WC-9,2768,,,
+Yoke,AC KDE Yoke,MP-A2,2080,,,
+Yoke,DC Western Instruments Yoke,WC-9,2442,,,
+Yoke,AC Parker Research Yoke,B300,10787,,,
+Yoke,DC Western Instruments Yoke,WC-9,3858,,,
+Yoke,AC KDE Yoke,MP-A2,2083,,,
+Yoke,AC Parker Research Yoke,B100,13734,,,
+Yoke,AC KDE Yoke,MP-A2,2081,,,
+Yoke,AC KDE Yoke,WC-9,4311,,,
+Yoke,DC Western Instruments Yoke,MY-2,???,,,
+Yoke,AC KDE Yoke,B300,18696,,,
+Yoke,AC Parker Research Yoke,Y2,N3266,,,
+Yoke,AC Magnaflux Yoke,,,,,
+Yoke,AC Magnaflux Yoke,Y2,N3256,,,
+Yoke,AC Magnaflux Yoke,Y2,N3254,,,
+Yoke,AC Magnaflux Yoke,Y3,N3253,,,
+Yoke,Elcometer 106 adhesion tester,,,1,,
