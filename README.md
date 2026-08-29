@@ -1,6 +1,6 @@
 # Awesome Open-Source AI
 
-![tools](https://img.shields.io/badge/tools_tracked-2%2C443-a3e635) ![sweep](https://img.shields.io/badge/nightly_sweep-21%3A53_CST-5b8cff) ![data](https://img.shields.io/badge/last_sweep-2026--08--28-8b5cf6)
+![tools](https://img.shields.io/badge/tools_tracked-2%2C443-a3e635) ![sweep](https://img.shields.io/badge/nightly_sweep-21%3A53_CST-5b8cff) ![data](https://img.shields.io/badge/last_sweep-2026--08--29-8b5cf6)
 
 > The **measured** awesome list: every entry below is ranked by real GitHub stars with live 7-day velocity from a fixed nightly sweep — not editorial taste, and never pay-to-rank. Maintained by [OSS AI Hub](https://ossaihub.com), the signal layer for open-source AI.
 
@@ -46,25 +46,25 @@ Top 20 of [160 tracked Time Series Forecasting tools](https://ossaihub.com/categ
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [redis](https://github.com/redis/redis) | 76,132 | ▲ +64 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and mos… [↗](https://ossaihub.com/tool/redis-redis) |
-| [qlib](https://github.com/microsoft/qlib) | 48,015 | ▲ +215 | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exp… [↗](https://ossaihub.com/tool/microsoft-qlib) |
-| [timesfm](https://github.com/google-research/timesfm) | 28,286 | ▲ +223 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Resea… [↗](https://ossaihub.com/tool/google-research-timesfm) |
-| [prophet](https://github.com/facebook/prophet) | 20,375 | ▲ +10 | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or n… [↗](https://ossaihub.com/tool/facebook-prophet) |
-| [FinRL](https://github.com/ai4finance-foundation/finrl) | 16,127 | ▲ +73 | FinRL®: Financial Reinforcement Learning. 🔥 [↗](https://ossaihub.com/tool/ai4finance-foundation-finrl) |
-| [Time-Series-Library](https://github.com/thuml/time-series-library) | 12,792 | ▲ +31 | A Library for Advanced Deep Time Series Models for General Time Series Analysis. [↗](https://ossaihub.com/tool/thuml-time-series-library) |
-| [statsmodels](https://github.com/statsmodels/statsmodels) | 11,595 | ▲ +12 | Statsmodels: statistical modeling and econometrics in Python [↗](https://ossaihub.com/tool/statsmodels-statsmodels) |
-| [autogluon](https://github.com/autogluon/autogluon) | 10,620 | ▲ +9 | Fast and Accurate ML in 3 Lines of Code [↗](https://ossaihub.com/tool/autogluon-autogluon) |
-| [pyod](https://github.com/yzhao062/pyod) | 9,977 | ▲ +6 | A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detector… [↗](https://ossaihub.com/tool/yzhao062-pyod) |
-| [sktime](https://github.com/sktime/sktime) | 9,970 | ▲ +15 | A unified framework for machine learning with time series [↗](https://ossaihub.com/tool/sktime-sktime) |
-| [darts](https://github.com/unit8co/darts) | 9,510 | ▲ +14 | A python library for user-friendly forecasting and anomaly detection on time series. [↗](https://ossaihub.com/tool/unit8co-darts) |
-| [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) | 9,370 | ▲ +6 | Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works! [↗](https://ossaihub.com/tool/yzhao062-anomaly-detection-resources) |
+| [redis](https://github.com/redis/redis) | 76,137 | ▲ +69 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and mos… [↗](https://ossaihub.com/tool/redis-redis) |
+| [qlib](https://github.com/microsoft/qlib) | 48,027 | ▲ +208 | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exp… [↗](https://ossaihub.com/tool/microsoft-qlib) |
+| [timesfm](https://github.com/google-research/timesfm) | 28,301 | ▲ +223 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Resea… [↗](https://ossaihub.com/tool/google-research-timesfm) |
+| [prophet](https://github.com/facebook/prophet) | 20,379 | ▲ +14 | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or n… [↗](https://ossaihub.com/tool/facebook-prophet) |
+| [FinRL](https://github.com/ai4finance-foundation/finrl) | 16,133 | ▲ +69 | FinRL®: Financial Reinforcement Learning. 🔥 [↗](https://ossaihub.com/tool/ai4finance-foundation-finrl) |
+| [Time-Series-Library](https://github.com/thuml/time-series-library) | 12,795 | ▲ +30 | A Library for Advanced Deep Time Series Models for General Time Series Analysis. [↗](https://ossaihub.com/tool/thuml-time-series-library) |
+| [statsmodels](https://github.com/statsmodels/statsmodels) | 11,598 | ▲ +15 | Statsmodels: statistical modeling and econometrics in Python [↗](https://ossaihub.com/tool/statsmodels-statsmodels) |
+| [autogluon](https://github.com/autogluon/autogluon) | 10,623 | ▲ +12 | Fast and Accurate ML in 3 Lines of Code [↗](https://ossaihub.com/tool/autogluon-autogluon) |
+| [pyod](https://github.com/yzhao062/pyod) | 9,977 | ▲ +5 | A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detector… [↗](https://ossaihub.com/tool/yzhao062-pyod) |
+| [sktime](https://github.com/sktime/sktime) | 9,972 | ▲ +13 | A unified framework for machine learning with time series [↗](https://ossaihub.com/tool/sktime-sktime) |
+| [darts](https://github.com/unit8co/darts) | 9,510 | ▲ +13 | A python library for user-friendly forecasting and anomaly detection on time series. [↗](https://ossaihub.com/tool/unit8co-darts) |
+| [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) | 9,370 | ▲ +5 | Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works! [↗](https://ossaihub.com/tool/yzhao062-anomaly-detection-resources) |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | 9,301 | ▲ +8 | Automatic extraction of relevant features from time series: [↗](https://ossaihub.com/tool/blue-yonder-tsfresh) |
-| [vectorbt](https://github.com/polakowo/vectorbt) | 8,877 | ▲ +132 | The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others… [↗](https://ossaihub.com/tool/polakowo-vectorbt) |
-| [Kats](https://github.com/facebookresearch/kats) | 6,464 | ▲ +14 | Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework… [↗](https://ossaihub.com/tool/facebookresearch-kats) |
-| [PlotJuggler](https://github.com/plotjuggler/plotjuggler) | 6,134 | ▲ +11 | Fast, intuitive desktop tool for visualizing and analyzing time-series data from files and live streams. [↗](https://ossaihub.com/tool/plotjuggler-plotjuggler) |
+| [vectorbt](https://github.com/polakowo/vectorbt) | 8,893 | ▲ +139 | The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others… [↗](https://ossaihub.com/tool/polakowo-vectorbt) |
+| [Kats](https://github.com/facebookresearch/kats) | 6,466 | ▲ +16 | Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework… [↗](https://ossaihub.com/tool/facebookresearch-kats) |
+| [PlotJuggler](https://github.com/plotjuggler/plotjuggler) | 6,135 | ▲ +11 | Fast, intuitive desktop tool for visualizing and analyzing time-series data from files and live streams. [↗](https://ossaihub.com/tool/plotjuggler-plotjuggler) |
 | [tsai](https://github.com/timeseriesai/tsai) | 6,113 | ▲ +6 | Time series Timeseries Deep Learning Machine Learning Python Pytorch fastai \| State-of-the-art Deep Learning… [↗](https://ossaihub.com/tool/timeseriesai-tsai) |
-| [graphite-web](https://github.com/graphite-project/graphite-web) | 6,111 | ▲ +6 | A highly scalable real-time graphing system [↗](https://ossaihub.com/tool/graphite-project-graphite-web) |
-| [chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) | 5,771 | ▲ +41 | Chronos: Pretrained Models for Time Series Forecasting [↗](https://ossaihub.com/tool/amazon-science-chronos-forecasting) |
+| [graphite-web](https://github.com/graphite-project/graphite-web) | 6,111 | ▲ +4 | A highly scalable real-time graphing system [↗](https://ossaihub.com/tool/graphite-project-graphite-web) |
+| [chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) | 5,771 | ▲ +39 | Chronos: Pretrained Models for Time Series Forecasting [↗](https://ossaihub.com/tool/amazon-science-chronos-forecasting) |
 | [gluonts](https://github.com/awslabs/gluonts) | 5,232 | ▲ +5 | Probabilistic time series modeling in Python [↗](https://ossaihub.com/tool/awslabs-gluonts) |
 
 ## Agent Frameworks
@@ -73,26 +73,26 @@ Top 20 of [155 tracked Agent Frameworks tools](https://ossaihub.com/categories/a
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Hermes Agent](https://github.com/nousresearch/hermes-agent) | 237,644 | ▲ +4,021 | Nous Research's advanced agent framework for reasoning-heavy, tool-using agents — built around the Hermes mod… [↗](https://ossaihub.com/tool/hermes-agent) |
-| [Opencode](https://github.com/anomalyco/opencode) | 202,131 | ▲ +2,512 | Open-source coding agent framework with massive adoption for autonomous code generation, refactoring, task ex… [↗](https://ossaihub.com/tool/opencode-anomalyco) |
-| [Langflow](https://github.com/langflow-ai/langflow) | 153,793 | ▲ +272 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow) |
-| [Dify](https://github.com/langgenius/dify) | 153,760 | ▲ +681 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify-langgenius-2) |
-| [LangChain](https://github.com/langchain-ai/langchain) | 145,189 | ▲ +513 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-3) |
-| [open-design](https://github.com/nexu-io/open-design) | 92,312 | ▲ +2,477 | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design S… [↗](https://ossaihub.com/tool/nexu-io-open-design) |
-| [Deer-Flow](https://github.com/bytedance/deer-flow) | 81,054 | ▲ +621 | ByteDance's high-velocity multi-agent orchestration with real-time collaboration [↗](https://ossaihub.com/tool/deer-flow) |
-| [Front-End-Checklist](https://github.com/thedaviddias/front-end-checklist) | 73,929 | ▲ +337 | 🗂 The essential checklist for modern web development, for humans and AI agents [↗](https://ossaihub.com/tool/thedaviddias-front-end-checklist) |
-| [daytona](https://github.com/daytonaio/daytona) | 71,861 | ▼ -80 | Secure elastic infrastructure runtime for executing AI-generated code and agent workflows in isolated sandbox… [↗](https://ossaihub.com/tool/daytonaio-daytona) |
-| [MetaGPT](https://github.com/foundationagents/metagpt) | 70,081 | ▲ +162 | Multi-agent framework that simulates a software company with PM, architect, engineer, and QA roles [↗](https://ossaihub.com/tool/metagpt) |
-| [ruflo](https://github.com/ruvnet/ruflo) | 69,614 | ▲ +1,094 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate aut… [↗](https://ossaihub.com/tool/ruvnet-ruflo) |
-| [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,471 | ▲ +291 | Multi-model AI agent framework orchestrating Claude, GPT, Kimi, GLM for autonomous code generation and task c… [↗](https://ossaihub.com/tool/code-yeongyu-oh-my-openagent) |
-| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,175 | ▲ +88 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-5) |
-| [Microsoft AutoGen Studio](https://github.com/microsoft/autogen) | 60,671 | ▲ +123 | Microsoft's conversational multi-agent systems with event-driven architecture, tool use, code execution, grou… [↗](https://ossaihub.com/tool/autogen-studio) |
-| [llm-app](https://github.com/pathwaycom/llm-app) | 58,980 | ▼ -42 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡… [↗](https://ossaihub.com/tool/pathwaycom-llm-app) |
-| [CrewAI](https://github.com/joaomdmoura/crewai) | 57,739 | ▲ +337 | Framework for orchestrating role-playing autonomous AI agents [↗](https://ossaihub.com/tool/crewai-joaomdmoura) |
-| [goose](https://github.com/aaif-goose/goose) | 53,609 | ▲ +514 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with… [↗](https://ossaihub.com/tool/aaif-goose-goose) |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | 51,906 | ▲ +131 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-run-llama-3) |
-| [Aider](https://github.com/paul-gauthier/aider) | 48,549 | ▲ +181 | Leading open-source AI pair-programming agent that works directly in your terminal or IDE. Edits code in your… [↗](https://ossaihub.com/tool/aider-paul-gauthier) |
-| [nanobot](https://github.com/hkuds/nanobot) | 47,492 | ▲ +253 | Ultra-lightweight open-source AI agent framework with multi-channel support, MCP integration, and practical d… [↗](https://ossaihub.com/tool/hkuds-nanobot) |
+| [Hermes Agent](https://github.com/nousresearch/hermes-agent) | 237,900 | ▲ +3,859 | Nous Research's advanced agent framework for reasoning-heavy, tool-using agents — built around the Hermes mod… [↗](https://ossaihub.com/tool/hermes-agent) |
+| [Opencode](https://github.com/anomalyco/opencode) | 202,277 | ▲ +2,245 | Open-source coding agent framework with massive adoption for autonomous code generation, refactoring, task ex… [↗](https://ossaihub.com/tool/opencode-anomalyco) |
+| [Langflow](https://github.com/langflow-ai/langflow) | 153,838 | ▲ +299 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow) |
+| [Dify](https://github.com/langgenius/dify) | 153,800 | ▲ +646 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify-langgenius-2) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 145,230 | ▲ +488 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-3) |
+| [open-design](https://github.com/nexu-io/open-design) | 92,497 | ▲ +2,286 | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design S… [↗](https://ossaihub.com/tool/nexu-io-open-design) |
+| [Deer-Flow](https://github.com/bytedance/deer-flow) | 81,074 | ▲ +561 | ByteDance's high-velocity multi-agent orchestration with real-time collaboration [↗](https://ossaihub.com/tool/deer-flow) |
+| [Front-End-Checklist](https://github.com/thedaviddias/front-end-checklist) | 73,930 | ▲ +323 | 🗂 The essential checklist for modern web development, for humans and AI agents [↗](https://ossaihub.com/tool/thedaviddias-front-end-checklist) |
+| [daytona](https://github.com/daytonaio/daytona) | 71,862 | ▼ -67 | Secure elastic infrastructure runtime for executing AI-generated code and agent workflows in isolated sandbox… [↗](https://ossaihub.com/tool/daytonaio-daytona) |
+| [MetaGPT](https://github.com/foundationagents/metagpt) | 70,091 | ▲ +149 | Multi-agent framework that simulates a software company with PM, architect, engineer, and QA roles [↗](https://ossaihub.com/tool/metagpt) |
+| [ruflo](https://github.com/ruvnet/ruflo) | 69,689 | ▲ +1,003 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate aut… [↗](https://ossaihub.com/tool/ruvnet-ruflo) |
+| [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,489 | ▲ +286 | Multi-model AI agent framework orchestrating Claude, GPT, Kimi, GLM for autonomous code generation and task c… [↗](https://ossaihub.com/tool/code-yeongyu-oh-my-openagent) |
+| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,179 | ▲ +74 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-5) |
+| [Microsoft AutoGen Studio](https://github.com/microsoft/autogen) | 60,686 | ▲ +120 | Microsoft's conversational multi-agent systems with event-driven architecture, tool use, code execution, grou… [↗](https://ossaihub.com/tool/autogen-studio) |
+| [llm-app](https://github.com/pathwaycom/llm-app) | 58,976 | ▼ -36 | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡… [↗](https://ossaihub.com/tool/pathwaycom-llm-app) |
+| [CrewAI](https://github.com/joaomdmoura/crewai) | 57,780 | ▲ +337 | Framework for orchestrating role-playing autonomous AI agents [↗](https://ossaihub.com/tool/crewai-joaomdmoura) |
+| [goose](https://github.com/aaif-goose/goose) | 53,639 | ▲ +441 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with… [↗](https://ossaihub.com/tool/aaif-goose-goose) |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 51,909 | ▲ +118 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-run-llama-3) |
+| [Aider](https://github.com/paul-gauthier/aider) | 48,567 | ▲ +172 | Leading open-source AI pair-programming agent that works directly in your terminal or IDE. Edits code in your… [↗](https://ossaihub.com/tool/aider-paul-gauthier) |
+| [nanobot](https://github.com/hkuds/nanobot) | 47,517 | ▲ +251 | Ultra-lightweight open-source AI agent framework with multi-channel support, MCP integration, and practical d… [↗](https://ossaihub.com/tool/hkuds-nanobot) |
 
 ## NLP Speech
 
@@ -100,26 +100,26 @@ Top 20 of [150 tracked NLP Speech tools](https://ossaihub.com/categories/nlp-spe
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Hugging Face Transformers](https://github.com/huggingface/transformers) | 164,561 | ▲ +272 | The definitive library for state-of-the-art NLP, vision, and audio models — 500k+ pretrained models on the Hub [↗](https://ossaihub.com/tool/huggingface-transformers) |
-| [OpenAI Whisper](https://github.com/openai/whisper) | 108,065 | ▲ +369 | OpenAI's general-purpose speech recognition model trained on 680,000 hours of multilingual audio — 99 languag… [↗](https://ossaihub.com/tool/openai-whisper) |
-| [Real-Time-Voice-Cloning](https://github.com/corentinj/real-time-voice-cloning) | 60,116 | ▲ +23 | Real-time voice cloning using transfer learning from speaker verification to multi-speaker text-to-speech syn… [↗](https://ossaihub.com/tool/corentinj-real-time-voice-cloning) |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | 53,257 | ▲ +190 | Blazing-fast C/C++ inference for Whisper speech-to-text; enables real-time STT in local LLM agents and multim… [↗](https://ossaihub.com/tool/whisper-cpp-ggerganov) |
-| [Coqui TTS](https://github.com/coqui-ai/tts) | 45,966 | ▲ +42 | Deep learning toolkit for Text-to-Speech synthesis with 1100+ pre-trained voices and fine-tuning support [↗](https://ossaihub.com/tool/tts-coqui-ai) |
-| [Bark](https://github.com/suno-ai/bark) | 39,254 | ▲ +10 | Expressive audio synthesis with multilingual support, emotion control, and non-verbal sounds [↗](https://ossaihub.com/tool/bark) |
-| [langextract](https://github.com/google/langextract) | 38,499 | ▲ +42 | A Python library for extracting structured information from unstructured text using LLMs with precise source… [↗](https://ossaihub.com/tool/google-langextract) |
-| [MockingBird](https://github.com/babysor/MockingBird) | 36,911 | ▲ +1 | Chinese text-to-speech voice cloning tool using speaker verification and neural synthesis. [↗](https://ossaihub.com/tool/babysor-mockingbird) |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | 164,591 | ▲ +270 | The definitive library for state-of-the-art NLP, vision, and audio models — 500k+ pretrained models on the Hub [↗](https://ossaihub.com/tool/huggingface-transformers) |
+| [OpenAI Whisper](https://github.com/openai/whisper) | 108,104 | ▲ +349 | OpenAI's general-purpose speech recognition model trained on 680,000 hours of multilingual audio — 99 languag… [↗](https://ossaihub.com/tool/openai-whisper) |
+| [Real-Time-Voice-Cloning](https://github.com/corentinj/real-time-voice-cloning) | 60,116 | ▲ +18 | Real-time voice cloning using transfer learning from speaker verification to multi-speaker text-to-speech syn… [↗](https://ossaihub.com/tool/corentinj-real-time-voice-cloning) |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | 53,270 | ▲ +177 | Blazing-fast C/C++ inference for Whisper speech-to-text; enables real-time STT in local LLM agents and multim… [↗](https://ossaihub.com/tool/whisper-cpp-ggerganov) |
+| [Coqui TTS](https://github.com/coqui-ai/tts) | 45,966 | ▲ +35 | Deep learning toolkit for Text-to-Speech synthesis with 1100+ pre-trained voices and fine-tuning support [↗](https://ossaihub.com/tool/tts-coqui-ai) |
+| [Bark](https://github.com/suno-ai/bark) | 39,253 | ▲ +7 | Expressive audio synthesis with multilingual support, emotion control, and non-verbal sounds [↗](https://ossaihub.com/tool/bark) |
+| [langextract](https://github.com/google/langextract) | 38,502 | ▲ +36 | A Python library for extracting structured information from unstructured text using LLMs with precise source… [↗](https://ossaihub.com/tool/google-langextract) |
+| [MockingBird](https://github.com/babysor/MockingBird) | 36,911 | ▼ -2 | Chinese text-to-speech voice cloning tool using speaker verification and neural synthesis. [↗](https://ossaihub.com/tool/babysor-mockingbird) |
 | [jieba](https://github.com/fxsjy/jieba) | 35,135 | ▲ +13 | Most popular Chinese text segmentation library with custom dictionaries, HMM, and TF-IDF keyword extraction. [↗](https://ossaihub.com/tool/jieba) |
-| [spaCy](https://github.com/explosion/spacy) | 33,858 | ▲ +22 | Industrial-strength NLP in Python — fast, production-ready pipelines for text processing, NER, POS tagging, a… [↗](https://ossaihub.com/tool/spacy) |
-| [Spleeter](https://github.com/deezer/spleeter) | 28,403 | ▲ +8 | Separates music into stems (vocals, drums, bass, other) with 4/5-stem models at state-of-the-art quality. [↗](https://ossaihub.com/tool/spleeter) |
-| [Haystack](https://github.com/deepset-ai/haystack) | 26,349 | ▲ +84 | Open-source orchestration for LLM pipelines with prompt templating & structured RAG [↗](https://ossaihub.com/tool/haystack-deepset-ai-3) |
-| [Faster Whisper](https://github.com/systran/faster-whisper) | 25,125 | ▲ +111 | Reimplementation of Whisper using CTranslate2 — up to 4x faster than OpenAI's original with lower memory usage [↗](https://ossaihub.com/tool/faster-whisper) |
-| [readest](https://github.com/readest/readest) | 23,832 | ▲ +239 | Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform acc… [↗](https://ossaihub.com/tool/readest-readest) |
-| [WhisperX](https://github.com/m-bain/whisperx) | 23,786 | ▲ +120 | Fast automatic speech recognition with word-level timestamps, speaker diarization, and voice activity detecti… [↗](https://ossaihub.com/tool/whisperx) |
-| [CV](https://github.com/accumulatemore/cv) | 23,431 | ▲ +67 | ✔（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 [↗](https://ossaihub.com/tool/accumulatemore-cv) |
-| [Awesome-Chinese-LLM](https://github.com/hqwu-hitcs/awesome-chinese-llm) | 22,751 | ▲ +2 | Curated collection of 100+ Chinese LLM resources: models, applications, datasets, and tutorials. [↗](https://ossaihub.com/tool/hqwu-hitcs-awesome-chinese-llm) |
-| [Awesome-Chinese-LLM](https://github.com/aihubcn/awesome-chinese-llm) | 22,751 | ▲ +2 | Curated collection of 100+ Chinese LLM models, applications, datasets, and tutorials. [↗](https://ossaihub.com/tool/aihubcn-awesome-chinese-llm) |
-| [Rasa](https://github.com/rasahq/rasa) | 21,311 | ▲ +13 | Open-source machine learning framework for building production-grade conversational AI and chatbots [↗](https://ossaihub.com/tool/rasa) |
-| [FinGPT](https://github.com/ai4finance-foundation/fingpt) | 21,168 | ▲ +51 | FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on Hugging… [↗](https://ossaihub.com/tool/ai4finance-foundation-fingpt) |
+| [spaCy](https://github.com/explosion/spacy) | 33,860 | ▲ +22 | Industrial-strength NLP in Python — fast, production-ready pipelines for text processing, NER, POS tagging, a… [↗](https://ossaihub.com/tool/spacy) |
+| [Spleeter](https://github.com/deezer/spleeter) | 28,403 | ▲ +7 | Separates music into stems (vocals, drums, bass, other) with 4/5-stem models at state-of-the-art quality. [↗](https://ossaihub.com/tool/spleeter) |
+| [Haystack](https://github.com/deepset-ai/haystack) | 26,354 | ▲ +81 | Open-source orchestration for LLM pipelines with prompt templating & structured RAG [↗](https://ossaihub.com/tool/haystack-deepset-ai-3) |
+| [Faster Whisper](https://github.com/systran/faster-whisper) | 25,132 | ▲ +105 | Reimplementation of Whisper using CTranslate2 — up to 4x faster than OpenAI's original with lower memory usage [↗](https://ossaihub.com/tool/faster-whisper) |
+| [readest](https://github.com/readest/readest) | 23,855 | ▲ +234 | Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform acc… [↗](https://ossaihub.com/tool/readest-readest) |
+| [WhisperX](https://github.com/m-bain/whisperx) | 23,794 | ▲ +108 | Fast automatic speech recognition with word-level timestamps, speaker diarization, and voice activity detecti… [↗](https://ossaihub.com/tool/whisperx) |
+| [CV](https://github.com/accumulatemore/cv) | 23,435 | ▲ +63 | ✔（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 [↗](https://ossaihub.com/tool/accumulatemore-cv) |
+| [Awesome-Chinese-LLM](https://github.com/hqwu-hitcs/awesome-chinese-llm) | 22,751 | ▲ +4 | Curated collection of 100+ Chinese LLM resources: models, applications, datasets, and tutorials. [↗](https://ossaihub.com/tool/hqwu-hitcs-awesome-chinese-llm) |
+| [Awesome-Chinese-LLM](https://github.com/aihubcn/awesome-chinese-llm) | 22,751 | ▲ +4 | Curated collection of 100+ Chinese LLM models, applications, datasets, and tutorials. [↗](https://ossaihub.com/tool/aihubcn-awesome-chinese-llm) |
+| [Rasa](https://github.com/rasahq/rasa) | 21,311 | ▲ +10 | Open-source machine learning framework for building production-grade conversational AI and chatbots [↗](https://ossaihub.com/tool/rasa) |
+| [FinGPT](https://github.com/ai4finance-foundation/fingpt) | 21,173 | ▲ +44 | FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on Hugging… [↗](https://ossaihub.com/tool/ai4finance-foundation-fingpt) |
 
 ## LLMs Foundation
 
@@ -127,26 +127,26 @@ Top 20 of [148 tracked LLMs Foundation tools](https://ossaihub.com/categories/ll
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 243,901 | ▲ +2,399 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de… [↗](https://ossaihub.com/tool/affaan-m-everything-claude-code) |
-| [ECC](https://github.com/affaan-m/ecc) | 243,901 | ▲ +2,399 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de… [↗](https://ossaihub.com/tool/affaan-m-ecc) |
-| [Ollama](https://github.com/ollama/ollama) | 179,637 | ▲ +565 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-2) |
-| [firecrawl](https://github.com/firecrawl/firecrawl) | 173,492 | ▲ +3,333 | API to search, scrape, and interact with the web at scale, powering AI agents with clean data. [↗](https://ossaihub.com/tool/firecrawl-firecrawl) |
-| [HuggingFace Transformers](https://github.com/huggingface/transformers) | 164,561 | ▲ +272 | The definitive library for state-of-the-art NLP, vision, and audio models — 500k+ pretrained models on the Hub [↗](https://ossaihub.com/tool/transformers) |
-| [Open WebUI](https://github.com/open-webui/open-webui) | 150,222 | ▲ +815 | Self-hosted ChatGPT-style interface for local/remote LLMs with RAG, voice I/O, custom personas, and OpenAI-co… [↗](https://ossaihub.com/tool/open-webui-open-webui) |
-| [LangChain](https://github.com/langchain-ai/langchain) | 145,189 | ▲ +513 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-4) |
-| [llama.cpp](https://github.com/ggml-org/llama.cpp) | 126,076 | ▲ +1,160 | Most popular C/C++ inference engine for LLMs; quantize any Hugging Face model to GGUF and run on CPU, GPU, or… [↗](https://ossaihub.com/tool/llama-cpp) |
-| [DeepSeek-V3](https://github.com/deepseek-ai/deepseek-v3) | 104,423 | ▲ +61 | First open-sourced GPT-4o level MoE model with 671B total parameters and 37B active [↗](https://ossaihub.com/tool/deepseek-v3) |
-| [TradingAgents](https://github.com/tauricresearch/tradingagents) | 101,555 | ▲ +2,479 | Multi-agent LLM framework that simulates trading firms with specialized AI agents analyzing markets and makin… [↗](https://ossaihub.com/tool/tauricresearch-tradingagents) |
-| [DeepSeek-R1](https://github.com/deepseek-ai/deepseek-r1) | 92,039 | ▲ +5 | First-generation reasoning model from DeepSeek with performance matching OpenAI o1 [↗](https://ossaihub.com/tool/deepseek-r1) |
-| [vLLM](https://github.com/vllm-project/vllm) | 90,313 | ▲ +725 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm) |
-| [OpenHands](https://github.com/all-hands-ai/openhands) | 85,428 | ▲ +777 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/openhands) |
-| [llm-course](https://github.com/mlabonne/llm-course) | 82,057 | ▲ +173 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. [↗](https://ossaihub.com/tool/mlabonne-llm-course) |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 77,397 | ▼ -5 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all) |
-| [Unsloth](https://github.com/unslothai/unsloth) | 75,041 | ▲ +916 | Fine-tune LLMs 2× faster with 70% less VRAM; run 70B models on 24GB GPU or free Colab with LoRA, DPO, GRPO su… [↗](https://ossaihub.com/tool/unsloth-unslothai) |
-| [LlamaFactory](https://github.com/hiyouga/llamafactory) | 74,425 | ▲ +159 | Unified platform for training 100+ LLMs/VLMs with zero-code Gradio UI, YAML configs, SFT/DPO/RLHF, and cloud… [↗](https://ossaihub.com/tool/llamafactory) |
-| [gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,265 | ▲ +47 | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支… [↗](https://ossaihub.com/tool/binary-husky-gpt-academic) |
-| [MetaGPT](https://github.com/foundationagents/metagpt) | 70,081 | ▲ +162 | Multi-agent framework that simulates a software company with PM, architect, engineer, and QA roles [↗](https://ossaihub.com/tool/metagpt-foundationagents) |
-| [open-interpreter](https://github.com/openinterpreter/open-interpreter) | 68,175 | ▲ +88 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-2) |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 244,051 | ▲ +2,215 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de… [↗](https://ossaihub.com/tool/affaan-m-everything-claude-code) |
+| [ECC](https://github.com/affaan-m/ecc) | 244,051 | ▲ +2,215 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de… [↗](https://ossaihub.com/tool/affaan-m-ecc) |
+| [Ollama](https://github.com/ollama/ollama) | 179,690 | ▲ +553 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-2) |
+| [firecrawl](https://github.com/firecrawl/firecrawl) | 173,809 | ▲ +3,182 | API to search, scrape, and interact with the web at scale, powering AI agents with clean data. [↗](https://ossaihub.com/tool/firecrawl-firecrawl) |
+| [HuggingFace Transformers](https://github.com/huggingface/transformers) | 164,591 | ▲ +270 | The definitive library for state-of-the-art NLP, vision, and audio models — 500k+ pretrained models on the Hub [↗](https://ossaihub.com/tool/transformers) |
+| [Open WebUI](https://github.com/open-webui/open-webui) | 150,287 | ▲ +759 | Self-hosted ChatGPT-style interface for local/remote LLMs with RAG, voice I/O, custom personas, and OpenAI-co… [↗](https://ossaihub.com/tool/open-webui-open-webui) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 145,230 | ▲ +488 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-4) |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | 126,176 | ▲ +1,107 | Most popular C/C++ inference engine for LLMs; quantize any Hugging Face model to GGUF and run on CPU, GPU, or… [↗](https://ossaihub.com/tool/llama-cpp) |
+| [DeepSeek-V3](https://github.com/deepseek-ai/deepseek-v3) | 104,432 | ▲ +48 | First open-sourced GPT-4o level MoE model with 671B total parameters and 37B active [↗](https://ossaihub.com/tool/deepseek-v3) |
+| [TradingAgents](https://github.com/tauricresearch/tradingagents) | 101,638 | ▲ +2,450 | Multi-agent LLM framework that simulates trading firms with specialized AI agents analyzing markets and makin… [↗](https://ossaihub.com/tool/tauricresearch-tradingagents) |
+| [DeepSeek-R1](https://github.com/deepseek-ai/deepseek-r1) | 92,036 | ▲ +1 | First-generation reasoning model from DeepSeek with performance matching OpenAI o1 [↗](https://ossaihub.com/tool/deepseek-r1) |
+| [vLLM](https://github.com/vllm-project/vllm) | 90,379 | ▲ +708 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm) |
+| [OpenHands](https://github.com/all-hands-ai/openhands) | 85,510 | ▲ +764 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/openhands) |
+| [llm-course](https://github.com/mlabonne/llm-course) | 82,073 | ▲ +173 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. [↗](https://ossaihub.com/tool/mlabonne-llm-course) |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 77,396 | ▼ -3 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all) |
+| [Unsloth](https://github.com/unslothai/unsloth) | 75,110 | ▲ +820 | Fine-tune LLMs 2× faster with 70% less VRAM; run 70B models on 24GB GPU or free Colab with LoRA, DPO, GRPO su… [↗](https://ossaihub.com/tool/unsloth-unslothai) |
+| [LlamaFactory](https://github.com/hiyouga/llamafactory) | 74,435 | ▲ +150 | Unified platform for training 100+ LLMs/VLMs with zero-code Gradio UI, YAML configs, SFT/DPO/RLHF, and cloud… [↗](https://ossaihub.com/tool/llamafactory) |
+| [gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,271 | ▲ +47 | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支… [↗](https://ossaihub.com/tool/binary-husky-gpt-academic) |
+| [MetaGPT](https://github.com/foundationagents/metagpt) | 70,091 | ▲ +149 | Multi-agent framework that simulates a software company with PM, architect, engineer, and QA roles [↗](https://ossaihub.com/tool/metagpt-foundationagents) |
+| [open-interpreter](https://github.com/openinterpreter/open-interpreter) | 68,179 | ▲ +74 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-2) |
 
 ## MCP Tool Infrastructure
 
@@ -154,26 +154,26 @@ Top 20 of [140 tracked MCP Tool Infrastructure tools](https://ossaihub.com/categ
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [AutoGPT](https://github.com/significant-gravitas/autogpt) | 186,964 | ▲ +272 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/autogpt-mcp) |
-| [JavaGuide](https://github.com/snailclimb/javaguide) | 158,102 | ▲ +190 | Comprehensive Java backend interview guide covering fundamentals, frameworks, databases, and system design. [↗](https://ossaihub.com/tool/snailclimb-javaguide) |
-| [Langflow](https://github.com/langflow-ai/langflow) | 153,793 | ▲ +272 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow-langflow-ai) |
-| [Dify](https://github.com/langgenius/dify) | 153,760 | ▲ +681 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify) |
-| [LangChain](https://github.com/langchain-ai/langchain) | 145,189 | ▲ +513 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain) |
-| [cc-switch](https://github.com/farion1231/cc-switch) | 129,892 | ▲ +1,340 | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. [↗](https://ossaihub.com/tool/farion1231-cc-switch) |
-| [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | 92,961 | ▲ +331 | The definitive curated list of MCP servers — databases, dev tools, web scraping, file systems, and hundreds m… [↗](https://ossaihub.com/tool/awesome-mcp-servers) |
-| [MCP Servers (Official)](https://github.com/modelcontextprotocol/servers) | 89,932 | ▲ +205 | Anthropic's official collection of reference Model Context Protocol servers — filesystem, GitHub, Google Driv… [↗](https://ossaihub.com/tool/mcp-servers-official) |
-| [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) | 89,932 | ▲ +205 | Official Slack MCP server — gives agents the ability to send messages, read channels, manage threads, search… [↗](https://ossaihub.com/tool/slack-mcp) |
-| [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) | 89,932 | ▲ +205 | Production-ready MCP server for PostgreSQL — enables safe, read/write database operations, schema inspection,… [↗](https://ossaihub.com/tool/postgresql-mcp) |
-| [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | 89,932 | ▲ +205 | Structured reasoning MCP server that breaks complex problems into steps, revises thoughts, branches alternati… [↗](https://ossaihub.com/tool/sequential-thinking-mcp) |
-| [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | 89,932 | ▲ +205 | Lightweight MCP server for fetching and cleaning web pages into structured markdown - perfect for fast, brows… [↗](https://ossaihub.com/tool/fetch-mcp) |
-| [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | 89,932 | ▲ +205 | Official MCP server for Brave Search - delivers fast, privacy-focused web and local search results with AI su… [↗](https://ossaihub.com/tool/brave-search-mcp) |
-| [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) | 89,932 | ▲ +205 | Reliable browser automation MCP server powered by Puppeteer — perfect for complex web interactions, scraping,… [↗](https://ossaihub.com/tool/puppeteer-mcp) |
-| [Wikipedia MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/wikipedia) | 89,932 | ▲ +205 | Comprehensive MCP server for Wikipedia — gives agents access to millions of articles, summaries, search, cate… [↗](https://ossaihub.com/tool/wikipedia-mcp) |
-| [OpenDevin](https://github.com/all-hands-ai/openhands) | 85,428 | ▲ +777 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/opendevin) |
-| [lobehub](https://github.com/lobehub/lobehub) | 82,069 | ▲ +195 | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with yo… [↗](https://ossaihub.com/tool/lobehub-lobehub) |
-| [netdata](https://github.com/netdata/netdata) | 80,335 | ▲ +89 | Real-time, zero-configuration infrastructure monitoring with per-second metrics, ML-powered anomaly detection… [↗](https://ossaihub.com/tool/netdata-netdata) |
-| [Scrapling](https://github.com/d4vinci/scrapling) | 76,913 | ▲ +1,338 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! [↗](https://ossaihub.com/tool/d4vinci-scrapling) |
-| [Strapi MCP](https://github.com/strapi/strapi) | 73,030 | ▲ +47 | Headless CMS MCP server — flexible content management with custom APIs and webhooks for agent content workflo… [↗](https://ossaihub.com/tool/strapi-mcp) |
+| [AutoGPT](https://github.com/significant-gravitas/autogpt) | 186,969 | ▲ +235 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/autogpt-mcp) |
+| [JavaGuide](https://github.com/snailclimb/javaguide) | 158,108 | ▲ +172 | Comprehensive Java backend interview guide covering fundamentals, frameworks, databases, and system design. [↗](https://ossaihub.com/tool/snailclimb-javaguide) |
+| [Langflow](https://github.com/langflow-ai/langflow) | 153,838 | ▲ +299 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow-langflow-ai) |
+| [Dify](https://github.com/langgenius/dify) | 153,800 | ▲ +646 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 145,230 | ▲ +488 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain) |
+| [cc-switch](https://github.com/farion1231/cc-switch) | 130,014 | ▲ +1,266 | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. [↗](https://ossaihub.com/tool/farion1231-cc-switch) |
+| [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | 93,018 | ▲ +351 | The definitive curated list of MCP servers — databases, dev tools, web scraping, file systems, and hundreds m… [↗](https://ossaihub.com/tool/awesome-mcp-servers) |
+| [MCP Servers (Official)](https://github.com/modelcontextprotocol/servers) | 89,947 | ▲ +184 | Anthropic's official collection of reference Model Context Protocol servers — filesystem, GitHub, Google Driv… [↗](https://ossaihub.com/tool/mcp-servers-official) |
+| [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) | 89,947 | ▲ +184 | Official Slack MCP server — gives agents the ability to send messages, read channels, manage threads, search… [↗](https://ossaihub.com/tool/slack-mcp) |
+| [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) | 89,947 | ▲ +184 | Production-ready MCP server for PostgreSQL — enables safe, read/write database operations, schema inspection,… [↗](https://ossaihub.com/tool/postgresql-mcp) |
+| [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | 89,947 | ▲ +184 | Structured reasoning MCP server that breaks complex problems into steps, revises thoughts, branches alternati… [↗](https://ossaihub.com/tool/sequential-thinking-mcp) |
+| [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | 89,947 | ▲ +184 | Lightweight MCP server for fetching and cleaning web pages into structured markdown - perfect for fast, brows… [↗](https://ossaihub.com/tool/fetch-mcp) |
+| [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | 89,947 | ▲ +184 | Official MCP server for Brave Search - delivers fast, privacy-focused web and local search results with AI su… [↗](https://ossaihub.com/tool/brave-search-mcp) |
+| [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) | 89,947 | ▲ +184 | Reliable browser automation MCP server powered by Puppeteer — perfect for complex web interactions, scraping,… [↗](https://ossaihub.com/tool/puppeteer-mcp) |
+| [Wikipedia MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/wikipedia) | 89,947 | ▲ +184 | Comprehensive MCP server for Wikipedia — gives agents access to millions of articles, summaries, search, cate… [↗](https://ossaihub.com/tool/wikipedia-mcp) |
+| [OpenDevin](https://github.com/all-hands-ai/openhands) | 85,510 | ▲ +764 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/opendevin) |
+| [lobehub](https://github.com/lobehub/lobehub) | 82,082 | ▲ +170 | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with yo… [↗](https://ossaihub.com/tool/lobehub-lobehub) |
+| [netdata](https://github.com/netdata/netdata) | 80,343 | ▲ +86 | Real-time, zero-configuration infrastructure monitoring with per-second metrics, ML-powered anomaly detection… [↗](https://ossaihub.com/tool/netdata-netdata) |
+| [Scrapling](https://github.com/d4vinci/scrapling) | 77,029 | ▲ +1,304 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! [↗](https://ossaihub.com/tool/d4vinci-scrapling) |
+| [Strapi MCP](https://github.com/strapi/strapi) | 73,037 | ▲ +43 | Headless CMS MCP server — flexible content management with custom APIs and webhooks for agent content workflo… [↗](https://ossaihub.com/tool/strapi-mcp) |
 
 ## MLOps Deployment
 
@@ -181,26 +181,26 @@ Top 20 of [123 tracked MLOps Deployment tools](https://ossaihub.com/categories/m
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Ollama](https://github.com/ollama/ollama) | 179,637 | ▲ +565 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama) |
-| [FastAPI](https://github.com/tiangolo/fastapi) | 101,902 | ▲ +165 | Modern, high-performance Python web framework for building production ML APIs — automatic OpenAPI docs, async… [↗](https://ossaihub.com/tool/fastapi-tiangolo) |
-| [vLLM](https://github.com/vllm-project/vllm) | 90,313 | ▲ +725 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm-vllm-project) |
-| [Grafana](https://github.com/grafana/grafana) | 76,461 | ▲ +126 | Open observability platform turning Prometheus metrics into beautiful dashboards for ML model performance, pi… [↗](https://ossaihub.com/tool/grafana) |
-| [Prometheus](https://github.com/prometheus/prometheus) | 65,875 | ▲ +110 | Industry-standard monitoring and alerting toolkit for MLOps infrastructure — collects metrics from models, pi… [↗](https://ossaihub.com/tool/prometheus) |
-| [Made-With-ML](https://github.com/gokumohandas/made-with-ml) | 49,252 | ▲ +80 | Comprehensive MLOps course teaching ML design, development, deployment, and iteration with production-grade b… [↗](https://ossaihub.com/tool/gokumohandas-made-with-ml) |
-| [Apache Airflow](https://github.com/apache/airflow) | 46,629 | ▲ +68 | Platform to programmatically author, schedule, and monitor complex ML and data pipelines as directed acyclic… [↗](https://ossaihub.com/tool/apache-airflow) |
-| [Streamlit](https://github.com/streamlit/streamlit) | 45,629 | ▲ +50 | Turns Python scripts into interactive web apps in minutes — favorite for ML dashboards, data exploration tool… [↗](https://ossaihub.com/tool/streamlit) |
-| [Ray](https://github.com/ray-project/ray) | 43,638 | ▲ +67 | Distributed computing framework for scaling Python and ML workloads across clusters—unifying parallel computi… [↗](https://ossaihub.com/tool/ray) |
-| [Gradio](https://github.com/gradio-app/gradio) | 43,435 | ▲ +42 | Fastest way to turn any ML model into a beautiful, shareable web interface — supports images, audio, video, t… [↗](https://ossaihub.com/tool/gradio) |
-| [influxdb](https://github.com/influxdata/influxdb) | 31,725 | ▲ +19 | Open-source time series database built in Rust for real-time event ingestion and fast analytical queries. [↗](https://ossaihub.com/tool/influxdata-influxdb) |
-| [Helm](https://github.com/helm/helm) | 30,180 | ▲ +23 | Package manager for Kubernetes that simplifies deployment of complex MLOps applications with versioned charts… [↗](https://ossaihub.com/tool/helm) |
-| [Harbor](https://github.com/goharbor/harbor) | 29,252 | ▲ +56 | Open-source container image registry with vulnerability scanning, replication, and access control for secure… [↗](https://ossaihub.com/tool/harbor) |
-| [Loki](https://github.com/grafana/loki) | 28,798 | ▲ +29 | Grafana's horizontally scalable, cost-effective log aggregation system — go-to for MLOps log management with… [↗](https://ossaihub.com/tool/loki) |
-| [MLflow](https://github.com/mlflow/mlflow) | 27,709 | ▲ +111 | Open ML lifecycle platform with LLM prompt tracking & evaluation [↗](https://ossaihub.com/tool/mlflow-mlflow) |
-| [SHAP](https://github.com/slundberg/shap) | 25,708 | ▲ +15 | Gold-standard library for model interpretability using game-theoretic Shapley values — provides consistent ex… [↗](https://ossaihub.com/tool/shap-slundberg) |
-| [TDengine](https://github.com/taosdata/TDengine) | 25,091 | ▲ +16 | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios [↗](https://ossaihub.com/tool/taosdata-tdengine) |
-| [Argo CD](https://github.com/argoproj/argo-cd) | 24,023 | ▲ +58 | Declarative GitOps continuous delivery for Kubernetes — keeps MLOps infrastructure in sync with Git with zero… [↗](https://ossaihub.com/tool/argo-cd) |
-| [Prefect](https://github.com/prefecthq/prefect) | 23,705 | ▲ +56 | Modern workflow orchestration engine combining Python simplicity with enterprise-grade reliability — dynamic,… [↗](https://ossaihub.com/tool/prefect) |
-| [timescaledb](https://github.com/timescale/timescaledb) | 23,436 | ▲ +51 | A time-series database for high-performance real-time analytics packaged as a Postgres extension [↗](https://ossaihub.com/tool/timescale-timescaledb) |
+| [Ollama](https://github.com/ollama/ollama) | 179,690 | ▲ +553 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama) |
+| [FastAPI](https://github.com/tiangolo/fastapi) | 101,920 | ▲ +175 | Modern, high-performance Python web framework for building production ML APIs — automatic OpenAPI docs, async… [↗](https://ossaihub.com/tool/fastapi-tiangolo) |
+| [vLLM](https://github.com/vllm-project/vllm) | 90,379 | ▲ +708 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm-vllm-project) |
+| [Grafana](https://github.com/grafana/grafana) | 76,465 | ▲ +131 | Open observability platform turning Prometheus metrics into beautiful dashboards for ML model performance, pi… [↗](https://ossaihub.com/tool/grafana) |
+| [Prometheus](https://github.com/prometheus/prometheus) | 65,879 | ▲ +111 | Industry-standard monitoring and alerting toolkit for MLOps infrastructure — collects metrics from models, pi… [↗](https://ossaihub.com/tool/prometheus) |
+| [Made-With-ML](https://github.com/gokumohandas/made-with-ml) | 49,262 | ▲ +86 | Comprehensive MLOps course teaching ML design, development, deployment, and iteration with production-grade b… [↗](https://ossaihub.com/tool/gokumohandas-made-with-ml) |
+| [Apache Airflow](https://github.com/apache/airflow) | 46,631 | ▲ +57 | Platform to programmatically author, schedule, and monitor complex ML and data pipelines as directed acyclic… [↗](https://ossaihub.com/tool/apache-airflow) |
+| [Streamlit](https://github.com/streamlit/streamlit) | 45,631 | ▲ +48 | Turns Python scripts into interactive web apps in minutes — favorite for ML dashboards, data exploration tool… [↗](https://ossaihub.com/tool/streamlit) |
+| [Ray](https://github.com/ray-project/ray) | 43,641 | ▲ +64 | Distributed computing framework for scaling Python and ML workloads across clusters—unifying parallel computi… [↗](https://ossaihub.com/tool/ray) |
+| [Gradio](https://github.com/gradio-app/gradio) | 43,439 | ▲ +38 | Fastest way to turn any ML model into a beautiful, shareable web interface — supports images, audio, video, t… [↗](https://ossaihub.com/tool/gradio) |
+| [influxdb](https://github.com/influxdata/influxdb) | 31,727 | ▲ +18 | Open-source time series database built in Rust for real-time event ingestion and fast analytical queries. [↗](https://ossaihub.com/tool/influxdata-influxdb) |
+| [Helm](https://github.com/helm/helm) | 30,185 | ▲ +22 | Package manager for Kubernetes that simplifies deployment of complex MLOps applications with versioned charts… [↗](https://ossaihub.com/tool/helm) |
+| [Harbor](https://github.com/goharbor/harbor) | 29,253 | ▲ +52 | Open-source container image registry with vulnerability scanning, replication, and access control for secure… [↗](https://ossaihub.com/tool/harbor) |
+| [Loki](https://github.com/grafana/loki) | 28,800 | ▲ +26 | Grafana's horizontally scalable, cost-effective log aggregation system — go-to for MLOps log management with… [↗](https://ossaihub.com/tool/loki) |
+| [MLflow](https://github.com/mlflow/mlflow) | 27,720 | ▲ +106 | Open ML lifecycle platform with LLM prompt tracking & evaluation [↗](https://ossaihub.com/tool/mlflow-mlflow) |
+| [SHAP](https://github.com/slundberg/shap) | 25,709 | ▲ +14 | Gold-standard library for model interpretability using game-theoretic Shapley values — provides consistent ex… [↗](https://ossaihub.com/tool/shap-slundberg) |
+| [TDengine](https://github.com/taosdata/TDengine) | 25,093 | ▲ +15 | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios [↗](https://ossaihub.com/tool/taosdata-tdengine) |
+| [Argo CD](https://github.com/argoproj/argo-cd) | 24,030 | ▲ +61 | Declarative GitOps continuous delivery for Kubernetes — keeps MLOps infrastructure in sync with Git with zero… [↗](https://ossaihub.com/tool/argo-cd) |
+| [Prefect](https://github.com/prefecthq/prefect) | 23,714 | ▲ +64 | Modern workflow orchestration engine combining Python simplicity with enterprise-grade reliability — dynamic,… [↗](https://ossaihub.com/tool/prefect) |
+| [timescaledb](https://github.com/timescale/timescaledb) | 23,438 | ▲ +42 | A time-series database for high-performance real-time analytics packaged as a Postgres extension [↗](https://ossaihub.com/tool/timescale-timescaledb) |
 
 ## Video Generation
 
@@ -208,26 +208,26 @@ Top 20 of [115 tracked Video Generation tools](https://ossaihub.com/categories/v
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [OpenMontage](https://github.com/calesthio/openmontage) | 53,047 | ▲ +3,900 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn y… [↗](https://ossaihub.com/tool/calesthio-openmontage) |
-| [Open-Sora](https://github.com/hpcaitech/open-sora) | 29,316 | ▲ +32 | Open-Sora: Democratizing Efficient Video Production for All [↗](https://ossaihub.com/tool/hpcaitech-open-sora) |
-| [Pixelle-Video](https://github.com/aidc-ai/pixelle-video) | 27,426 | ▲ +312 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine [↗](https://ossaihub.com/tool/aidc-ai-pixelle-video) |
-| [generative-models](https://github.com/stability-ai/generative-models) | 27,272 | ▲ +5 | Generative Models by Stability AI [↗](https://ossaihub.com/tool/stability-ai-generative-models) |
-| [LivePortrait](https://github.com/klingairesearch/liveportrait) | 18,976 | ▲ +29 | Bring portraits to life! [↗](https://ossaihub.com/tool/klingairesearch-liveportrait) |
-| [Wan2.2](https://github.com/wan-video/wan2.2) | 17,314 | ▲ +91 | Wan: Open and Advanced Large-Scale Video Generative Models [↗](https://ossaihub.com/tool/wan-video-wan2-2) |
-| [FramePack](https://github.com/lllyasviel/framepack) | 17,229 | ▲ +6 | Lets make video diffusion practical! [↗](https://ossaihub.com/tool/lllyasviel-framepack) |
-| [Wan2.1](https://github.com/wan-video/wan2.1) | 16,904 | ▲ +32 | Wan: Open and Advanced Large-Scale Video Generative Models [↗](https://ossaihub.com/tool/wan-video-wan2-1) |
-| [Duix-Avatar](https://github.com/duixcom/duix-avatar) | 14,910 | ▲ +150 | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. [↗](https://ossaihub.com/tool/duixcom-duix-avatar) |
-| [Toonflow-app](https://github.com/hbai-ltd/toonflow-app) | 14,795 | ▲ +556 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an op… [↗](https://ossaihub.com/tool/hbai-ltd-toonflow-app) |
-| [waoowaoo](https://github.com/saturndec/waoowaoo) | 13,857 | ▲ +136 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. Fr… [↗](https://ossaihub.com/tool/saturndec-waoowaoo) |
-| [waoowaoo](https://github.com/waooai/waoowaoo) | 13,857 | ▲ +136 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. Fr… [↗](https://ossaihub.com/tool/waooai-waoowaoo) |
-| [DiffSynth-Studio](https://github.com/modelscope/diffsynth-studio) | 13,015 | ▲ +41 | Enjoy the magic of Diffusion models! [↗](https://ossaihub.com/tool/modelscope-diffsynth-studio) |
-| [CogVideo](https://github.com/zai-org/cogvideo) | 12,982 | ▲ +18 | text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) [↗](https://ossaihub.com/tool/thudm-cogvideo) |
-| [HunyuanVideo](https://github.com/tencent-hunyuan/hunyuanvideo) | 12,488 | ▲ +44 | HunyuanVideo: A Systematic Framework For Large Video Generation Model [↗](https://ossaihub.com/tool/tencent-hunyuanvideo) |
-| [AnimateDiff](https://github.com/guoyww/animatediff) | 12,229 | ▲ +14 | Official implementation of AnimateDiff. [↗](https://ossaihub.com/tool/guoyww-animatediff) |
-| [Open-Sora-Plan](https://github.com/pku-yuangroup/open-sora-plan) | 12,174 | ▲ +26 | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this… [↗](https://ossaihub.com/tool/pku-yuangroup-open-sora-plan) |
-| [ViMax](https://github.com/hkuds/vimax) | 12,137 | ▲ +97 | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" [↗](https://ossaihub.com/tool/hkuds-vimax) |
-| [LTX-Video](https://github.com/lightricks/ltx-video) | 10,912 | ▲ +37 | Official repository for LTX-Video [↗](https://ossaihub.com/tool/lightricks-ltx-video) |
-| [magic-animate](https://github.com/magic-research/magic-animate) | 10,898 | ▲ +0 | [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusio… [↗](https://ossaihub.com/tool/magic-research-magic-animate) |
+| [OpenMontage](https://github.com/calesthio/openmontage) | 53,616 | ▲ +4,290 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn y… [↗](https://ossaihub.com/tool/calesthio-openmontage) |
+| [Open-Sora](https://github.com/hpcaitech/open-sora) | 29,320 | ▲ +36 | Open-Sora: Democratizing Efficient Video Production for All [↗](https://ossaihub.com/tool/hpcaitech-open-sora) |
+| [Pixelle-Video](https://github.com/aidc-ai/pixelle-video) | 27,438 | ▲ +289 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine [↗](https://ossaihub.com/tool/aidc-ai-pixelle-video) |
+| [generative-models](https://github.com/stability-ai/generative-models) | 27,273 | ▲ +6 | Generative Models by Stability AI [↗](https://ossaihub.com/tool/stability-ai-generative-models) |
+| [LivePortrait](https://github.com/klingairesearch/liveportrait) | 18,982 | ▲ +32 | Bring portraits to life! [↗](https://ossaihub.com/tool/klingairesearch-liveportrait) |
+| [Wan2.2](https://github.com/wan-video/wan2.2) | 17,320 | ▲ +77 | Wan: Open and Advanced Large-Scale Video Generative Models [↗](https://ossaihub.com/tool/wan-video-wan2-2) |
+| [FramePack](https://github.com/lllyasviel/framepack) | 17,230 | ▲ +6 | Lets make video diffusion practical! [↗](https://ossaihub.com/tool/lllyasviel-framepack) |
+| [Wan2.1](https://github.com/wan-video/wan2.1) | 16,904 | ▲ +29 | Wan: Open and Advanced Large-Scale Video Generative Models [↗](https://ossaihub.com/tool/wan-video-wan2-1) |
+| [Duix-Avatar](https://github.com/duixcom/duix-avatar) | 14,925 | ▲ +139 | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. [↗](https://ossaihub.com/tool/duixcom-duix-avatar) |
+| [Toonflow-app](https://github.com/hbai-ltd/toonflow-app) | 14,825 | ▲ +496 | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an op… [↗](https://ossaihub.com/tool/hbai-ltd-toonflow-app) |
+| [waoowaoo](https://github.com/saturndec/waoowaoo) | 13,872 | ▲ +107 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. Fr… [↗](https://ossaihub.com/tool/saturndec-waoowaoo) |
+| [waoowaoo](https://github.com/waooai/waoowaoo) | 13,872 | ▲ +107 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. Fr… [↗](https://ossaihub.com/tool/waooai-waoowaoo) |
+| [DiffSynth-Studio](https://github.com/modelscope/diffsynth-studio) | 13,017 | ▲ +43 | Enjoy the magic of Diffusion models! [↗](https://ossaihub.com/tool/modelscope-diffsynth-studio) |
+| [CogVideo](https://github.com/zai-org/cogvideo) | 12,983 | ▲ +16 | text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) [↗](https://ossaihub.com/tool/thudm-cogvideo) |
+| [HunyuanVideo](https://github.com/tencent-hunyuan/hunyuanvideo) | 12,490 | ▲ +39 | HunyuanVideo: A Systematic Framework For Large Video Generation Model [↗](https://ossaihub.com/tool/tencent-hunyuanvideo) |
+| [AnimateDiff](https://github.com/guoyww/animatediff) | 12,229 | ▲ +12 | Official implementation of AnimateDiff. [↗](https://ossaihub.com/tool/guoyww-animatediff) |
+| [Open-Sora-Plan](https://github.com/pku-yuangroup/open-sora-plan) | 12,189 | ▲ +41 | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this… [↗](https://ossaihub.com/tool/pku-yuangroup-open-sora-plan) |
+| [ViMax](https://github.com/hkuds/vimax) | 12,144 | ▲ +93 | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" [↗](https://ossaihub.com/tool/hkuds-vimax) |
+| [LTX-Video](https://github.com/lightricks/ltx-video) | 10,912 | ▲ +28 | Official repository for LTX-Video [↗](https://ossaihub.com/tool/lightricks-ltx-video) |
+| [magic-animate](https://github.com/magic-research/magic-animate) | 10,898 | ▲ +1 | [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusio… [↗](https://ossaihub.com/tool/magic-research-magic-animate) |
 
 ## Computer Vision
 
@@ -235,26 +235,26 @@ Top 20 of [113 tracked Computer Vision tools](https://ossaihub.com/categories/co
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Stable Diffusion Web UI (AUTOMATIC1111)](https://github.com/automatic1111/stable-diffusion-webui) | 164,700 | ▲ +108 | Feature-rich browser interface for Stable Diffusion with img2img, inpainting, ControlNet, and 100+ extensions [↗](https://ossaihub.com/tool/stable-diffusion-webui) |
-| [ComfyUI](https://github.com/comfyanonymous/comfyui) | 130,429 | ▲ +1,749 | Node-based visual workflow UI for Stable Diffusion — modular graph interface for advanced image/video generat… [↗](https://ossaihub.com/tool/comfyui) |
-| [OpenCV](https://github.com/opencv/opencv) | 90,635 | ▲ +107 | The world's most widely used open-source computer vision library with 2500+ optimized algorithms for real-tim… [↗](https://ossaihub.com/tool/opencv) |
-| [MobileNetV4](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet) | 77,659 | ▲ +12 | Latest mobile-optimized CNN architecture with improved accuracy-efficiency trade-off for on-device classifica… [↗](https://ossaihub.com/tool/mobilenetv4) |
-| [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) | 61,042 | ▲ +225 | State-of-the-art YOLO family — YOLOv8 through YOLO11 — for real-time object detection, segmentation, pose est… [↗](https://ossaihub.com/tool/ultralytics-yolo) |
-| [yolov5](https://github.com/ultralytics/yolov5) | 57,940 | ▲ +29 | State-of-the-art real-time object detection, segmentation, and classification model based on PyTorch. [↗](https://ossaihub.com/tool/ultralytics-yolov5) |
-| [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) | 54,770 | ▲ +34 | Meta AI's promptable image segmentation model that can segment any object in any image with a single click or… [↗](https://ossaihub.com/tool/segment-anything) |
-| [timm (PyTorch Image Models)](https://github.com/huggingface/pytorch-image-models) | 37,105 | ▲ +29 | PyTorch Image Models — 1000+ pre-trained image classifiers, feature extractors, and backbones in one unified… [↗](https://ossaihub.com/tool/timm) |
-| [mediapipe](https://github.com/google-ai-edge/mediapipe) | 36,759 | ▲ +80 | Cross-platform, customizable ML solutions for live and streaming media. [↗](https://ossaihub.com/tool/google-ai-edge-mediapipe) |
-| [frigate](https://github.com/blakeblackshear/frigate) | 35,458 | ▲ +202 | NVR with realtime local object detection for IP cameras [↗](https://ossaihub.com/tool/blakeblackshear-frigate) |
-| [Detectron2-ViTDet](https://github.com/facebookresearch/detectron2/tree/main/projects/vitdet) | 34,692 | ▲ +12 | Meta AI's plain non-hierarchical ViT as an object detection backbone, bridging NLP-style transformers with de… [↗](https://ossaihub.com/tool/vitdet) |
-| [OpenPose](https://github.com/cmu-perceptual-computing-lab/openpose) | 34,417 | ▲ +42 | Active community forks of OpenPose continue to improve real-time multi-person keypoint detection (body, hand,… [↗](https://ossaihub.com/tool/openpose) |
-| [CLIP](https://github.com/openai/clip) | 34,239 | ▲ +40 | OpenAI's foundational image-text contrastive learning model—enabling zero-shot vision recognition and semanti… [↗](https://ossaihub.com/tool/clip-openai) |
-| [ControlNet](https://github.com/lllyasviel/controlnet) | 34,099 | ▲ +24 | Neural network architecture that adds conditional spatial control to Stable Diffusion — skeleton, edge, depth… [↗](https://ossaihub.com/tool/controlnet) |
-| [MMDetection](https://github.com/open-mmlab/mmdetection) | 32,894 | ▲ +7 | OpenMMLab's comprehensive object detection toolbox with 40+ detection algorithms and 200+ pre-trained models [↗](https://ossaihub.com/tool/mmdetection) |
-| [vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,493 | ▲ +5 | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a singl… [↗](https://ossaihub.com/tool/lucidrains-vit-pytorch) |
-| [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) | 23,593 | ▲ +612 | Real-time novel view synthesis using 3D Gaussian primitives — faster and higher quality than NeRF for scene r… [↗](https://ossaihub.com/tool/3d-gaussian-splatting) |
-| [learnopencv](https://github.com/spmallick/learnopencv) | 23,095 | ▲ +14 | Learn OpenCV : C++ and Python Examples [↗](https://ossaihub.com/tool/spmallick-learnopencv) |
-| [MaaAssistantArknights](https://github.com/maaassistantarknights/maaassistantarknights) | 22,833 | ▲ +158 | 《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. [↗](https://ossaihub.com/tool/maaassistantarknights-maaassistantarknights) |
-| [CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) | 22,795 | ▲ +1 | CVPR 2026 论文和开源项目合集 [↗](https://ossaihub.com/tool/amusi-cvpr2026-papers-with-code) |
+| [Stable Diffusion Web UI (AUTOMATIC1111)](https://github.com/automatic1111/stable-diffusion-webui) | 164,714 | ▲ +103 | Feature-rich browser interface for Stable Diffusion with img2img, inpainting, ControlNet, and 100+ extensions [↗](https://ossaihub.com/tool/stable-diffusion-webui) |
+| [ComfyUI](https://github.com/comfyanonymous/comfyui) | 130,535 | ▲ +1,671 | Node-based visual workflow UI for Stable Diffusion — modular graph interface for advanced image/video generat… [↗](https://ossaihub.com/tool/comfyui) |
+| [OpenCV](https://github.com/opencv/opencv) | 90,640 | ▲ +97 | The world's most widely used open-source computer vision library with 2500+ optimized algorithms for real-tim… [↗](https://ossaihub.com/tool/opencv) |
+| [MobileNetV4](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet) | 77,658 | ▲ +10 | Latest mobile-optimized CNN architecture with improved accuracy-efficiency trade-off for on-device classifica… [↗](https://ossaihub.com/tool/mobilenetv4) |
+| [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) | 61,061 | ▲ +214 | State-of-the-art YOLO family — YOLOv8 through YOLO11 — for real-time object detection, segmentation, pose est… [↗](https://ossaihub.com/tool/ultralytics-yolo) |
+| [yolov5](https://github.com/ultralytics/yolov5) | 57,939 | ▲ +20 | State-of-the-art real-time object detection, segmentation, and classification model based on PyTorch. [↗](https://ossaihub.com/tool/ultralytics-yolov5) |
+| [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) | 54,773 | ▲ +35 | Meta AI's promptable image segmentation model that can segment any object in any image with a single click or… [↗](https://ossaihub.com/tool/segment-anything) |
+| [timm (PyTorch Image Models)](https://github.com/huggingface/pytorch-image-models) | 37,104 | ▲ +27 | PyTorch Image Models — 1000+ pre-trained image classifiers, feature extractors, and backbones in one unified… [↗](https://ossaihub.com/tool/timm) |
+| [mediapipe](https://github.com/google-ai-edge/mediapipe) | 36,766 | ▲ +80 | Cross-platform, customizable ML solutions for live and streaming media. [↗](https://ossaihub.com/tool/google-ai-edge-mediapipe) |
+| [frigate](https://github.com/blakeblackshear/frigate) | 35,479 | ▲ +201 | NVR with realtime local object detection for IP cameras [↗](https://ossaihub.com/tool/blakeblackshear-frigate) |
+| [Detectron2-ViTDet](https://github.com/facebookresearch/detectron2/tree/main/projects/vitdet) | 34,692 | ▲ +7 | Meta AI's plain non-hierarchical ViT as an object detection backbone, bridging NLP-style transformers with de… [↗](https://ossaihub.com/tool/vitdet) |
+| [OpenPose](https://github.com/cmu-perceptual-computing-lab/openpose) | 34,416 | ▲ +41 | Active community forks of OpenPose continue to improve real-time multi-person keypoint detection (body, hand,… [↗](https://ossaihub.com/tool/openpose) |
+| [CLIP](https://github.com/openai/clip) | 34,240 | ▲ +39 | OpenAI's foundational image-text contrastive learning model—enabling zero-shot vision recognition and semanti… [↗](https://ossaihub.com/tool/clip-openai) |
+| [ControlNet](https://github.com/lllyasviel/controlnet) | 34,101 | ▲ +24 | Neural network architecture that adds conditional spatial control to Stable Diffusion — skeleton, edge, depth… [↗](https://ossaihub.com/tool/controlnet) |
+| [MMDetection](https://github.com/open-mmlab/mmdetection) | 32,895 | ▲ +6 | OpenMMLab's comprehensive object detection toolbox with 40+ detection algorithms and 200+ pre-trained models [↗](https://ossaihub.com/tool/mmdetection) |
+| [vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,492 | ▲ +5 | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a singl… [↗](https://ossaihub.com/tool/lucidrains-vit-pytorch) |
+| [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) | 23,640 | ▲ +648 | Real-time novel view synthesis using 3D Gaussian primitives — faster and higher quality than NeRF for scene r… [↗](https://ossaihub.com/tool/3d-gaussian-splatting) |
+| [learnopencv](https://github.com/spmallick/learnopencv) | 23,095 | ▲ +11 | Learn OpenCV : C++ and Python Examples [↗](https://ossaihub.com/tool/spmallick-learnopencv) |
+| [MaaAssistantArknights](https://github.com/maaassistantarknights/maaassistantarknights) | 22,844 | ▲ +156 | 《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. [↗](https://ossaihub.com/tool/maaassistantarknights-maaassistantarknights) |
+| [CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) | 22,794 | ▲ +1 | CVPR 2026 论文和开源项目合集 [↗](https://ossaihub.com/tool/amusi-cvpr2026-papers-with-code) |
 
 ## AI Coding Ide Tools
 
@@ -262,26 +262,26 @@ Top 20 of [107 tracked AI Coding Ide Tools tools](https://ossaihub.com/categorie
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [OpenCode](https://github.com/anomalyco/opencode) | 202,131 | ▲ +2,512 | Open-source coding agent framework with massive adoption for autonomous code generation, refactoring, task ex… [↗](https://ossaihub.com/tool/opencode) |
-| [Ollama](https://github.com/ollama/ollama) | 179,637 | ▲ +565 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-4) |
-| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,196 | ▲ +241 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, M… [↗](https://ossaihub.com/tool/x1xhlol-system-prompts-and-models-of-ai-tools) |
-| [spec-kit](https://github.com/github/spec-kit) | 132,008 | ▲ +1,456 | Spec-driven development toolkit that generates working code from executable specifications using AI coding ag… [↗](https://ossaihub.com/tool/github-spec-kit) |
-| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 122,447 | ▲ +3,544 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms [↗](https://ossaihub.com/tool/nextlevelbuilder-ui-ux-pro-max-skill) |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | 106,720 | ▲ +122 | Official open-source terminal coding agent with full Gemini model access and git-aware workflows [↗](https://ossaihub.com/tool/gemini-cli) |
-| [vLLM](https://github.com/vllm-project/vllm) | 90,313 | ▲ +725 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm-vllm-project-2) |
-| [Zed](https://github.com/zed-industries/zed) | 89,366 | ▲ +392 | High-performance native code editor (Rust/GPU-accelerated) with built-in AI completions — open-source Cursor… [↗](https://ossaihub.com/tool/zed) |
-| [OpenHands](https://github.com/openhands/openhands) | 85,428 | ▲ +777 | Composable AI software development platform for autonomous agents that edit code, run commands, and browse [↗](https://ossaihub.com/tool/openhands-openhands) |
-| [rtk](https://github.com/rtk-ai/rtk) | 77,712 | ▲ +860 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero depen… [↗](https://ossaihub.com/tool/rtk-ai-rtk) |
-| [openinterpreter](https://github.com/openinterpreter/openinterpreter) | 68,175 | ▲ +88 | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen [↗](https://ossaihub.com/tool/openinterpreter-openinterpreter) |
-| [Cline](https://github.com/cline/cline) | 67,063 | ▲ +497 | Autonomous coding agent right in your IDE for file edits, terminal commands, browser use, and multi-step task… [↗](https://ossaihub.com/tool/cline) |
-| [LiteLLM](https://github.com/berriai/litellm) | 57,485 | ▲ +603 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai) |
-| [Goose](https://github.com/block/goose) | 53,610 | ▲ +515 | Terminal orchestration harness for autonomous coding agents with parallel execution and approval flows [↗](https://ossaihub.com/tool/goose) |
-| [dbeaver](https://github.com/dbeaver/dbeaver) | 51,575 | ▲ +84 | Free multi-platform database tool with SQL editor, schema management, and AI completion for 100+ databases. [↗](https://ossaihub.com/tool/dbeaver-dbeaver) |
-| [Aider](https://github.com/aider-ai/aider) | 48,549 | ▲ +181 | Git-native AI pair programming in the terminal with full codebase mapping, auto-commits, and multi-file edits [↗](https://ossaihub.com/tool/aider) |
-| [chatbox](https://github.com/chatboxai/chatbox) | 41,592 | ▲ +94 | Cross-platform desktop client for ChatGPT, Claude, and other LLMs with local data storage. [↗](https://ossaihub.com/tool/chatboxai-chatbox) |
-| [Continue](https://github.com/continuedev/continue) | 35,664 | ▲ +98 | Leading open autopilot for VS Code/JetBrains; AI coding assistant with any LLM backend, local or API. [↗](https://ossaihub.com/tool/continue-continuedev) |
-| [Tabby](https://github.com/tabbyml/tabby) | 33,840 | ▲ +9 | Self-hosted AI coding assistant with code completion, chat, and inline editing that runs entirely on-prem wit… [↗](https://ossaihub.com/tool/tabby) |
-| [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 32,889 | ▲ +116 | Turnkey coding-agent framework that supercharges codex-style setups — TypeScript-first toolkit for prompt sca… [↗](https://ossaihub.com/tool/oh-my-codex) |
+| [OpenCode](https://github.com/anomalyco/opencode) | 202,277 | ▲ +2,245 | Open-source coding agent framework with massive adoption for autonomous code generation, refactoring, task ex… [↗](https://ossaihub.com/tool/opencode) |
+| [Ollama](https://github.com/ollama/ollama) | 179,690 | ▲ +553 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-4) |
+| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,210 | ▲ +219 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, M… [↗](https://ossaihub.com/tool/x1xhlol-system-prompts-and-models-of-ai-tools) |
+| [spec-kit](https://github.com/github/spec-kit) | 132,110 | ▲ +1,406 | Spec-driven development toolkit that generates working code from executable specifications using AI coding ag… [↗](https://ossaihub.com/tool/github-spec-kit) |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 122,713 | ▲ +3,288 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms [↗](https://ossaihub.com/tool/nextlevelbuilder-ui-ux-pro-max-skill) |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | 106,738 | ▲ +130 | Official open-source terminal coding agent with full Gemini model access and git-aware workflows [↗](https://ossaihub.com/tool/gemini-cli) |
+| [vLLM](https://github.com/vllm-project/vllm) | 90,379 | ▲ +708 | Fastest and most memory-efficient inference engine for LLMs with PagedAttention algorithm, 24× higher through… [↗](https://ossaihub.com/tool/vllm-vllm-project-2) |
+| [Zed](https://github.com/zed-industries/zed) | 89,394 | ▲ +369 | High-performance native code editor (Rust/GPU-accelerated) with built-in AI completions — open-source Cursor… [↗](https://ossaihub.com/tool/zed) |
+| [OpenHands](https://github.com/openhands/openhands) | 85,510 | ▲ +764 | Composable AI software development platform for autonomous agents that edit code, run commands, and browse [↗](https://ossaihub.com/tool/openhands-openhands) |
+| [rtk](https://github.com/rtk-ai/rtk) | 77,769 | ▲ +786 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero depen… [↗](https://ossaihub.com/tool/rtk-ai-rtk) |
+| [openinterpreter](https://github.com/openinterpreter/openinterpreter) | 68,179 | ▲ +74 | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen [↗](https://ossaihub.com/tool/openinterpreter-openinterpreter) |
+| [Cline](https://github.com/cline/cline) | 67,105 | ▲ +476 | Autonomous coding agent right in your IDE for file edits, terminal commands, browser use, and multi-step task… [↗](https://ossaihub.com/tool/cline) |
+| [LiteLLM](https://github.com/berriai/litellm) | 57,520 | ▲ +549 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai) |
+| [Goose](https://github.com/block/goose) | 53,639 | ▲ +441 | Terminal orchestration harness for autonomous coding agents with parallel execution and approval flows [↗](https://ossaihub.com/tool/goose) |
+| [dbeaver](https://github.com/dbeaver/dbeaver) | 51,578 | ▲ +80 | Free multi-platform database tool with SQL editor, schema management, and AI completion for 100+ databases. [↗](https://ossaihub.com/tool/dbeaver-dbeaver) |
+| [Aider](https://github.com/aider-ai/aider) | 48,567 | ▲ +172 | Git-native AI pair programming in the terminal with full codebase mapping, auto-commits, and multi-file edits [↗](https://ossaihub.com/tool/aider) |
+| [chatbox](https://github.com/chatboxai/chatbox) | 41,604 | ▲ +88 | Cross-platform desktop client for ChatGPT, Claude, and other LLMs with local data storage. [↗](https://ossaihub.com/tool/chatboxai-chatbox) |
+| [Continue](https://github.com/continuedev/continue) | 35,673 | ▲ +93 | Leading open autopilot for VS Code/JetBrains; AI coding assistant with any LLM backend, local or API. [↗](https://ossaihub.com/tool/continue-continuedev) |
+| [Tabby](https://github.com/tabbyml/tabby) | 33,843 | ▲ +11 | Self-hosted AI coding assistant with code completion, chat, and inline editing that runs entirely on-prem wit… [↗](https://ossaihub.com/tool/tabby) |
+| [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 32,898 | ▲ +111 | Turnkey coding-agent framework that supercharges codex-style setups — TypeScript-first toolkit for prompt sca… [↗](https://ossaihub.com/tool/oh-my-codex) |
 
 ## Browser Computer Use Agents
 
@@ -289,26 +289,26 @@ Top 20 of [105 tracked Browser Computer Use Agents tools](https://ossaihub.com/c
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Auto-GPT](https://github.com/significant-gravitas/autogpt) | 186,964 | ▲ +272 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/auto-gpt) |
-| [Browser Use](https://github.com/browser-use/browser-use) | 111,552 | ▲ +1,643 | Web-browser-controlling agents for automation, research, scraping, interaction; navigates sites and fills for… [↗](https://ossaihub.com/tool/browser-use-browser-use) |
-| [OpenDevin](https://github.com/all-hands-ai/openhands) | 85,428 | ▲ +777 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/openhands-all-hands-ai) |
-| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,175 | ▲ +88 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter) |
-| [OpenManus](https://github.com/foundationagents/openmanus) | 58,103 | ▲ +70 | Open-source AI agent framework for browser automation and computer-use tasks without API restrictions. [↗](https://ossaihub.com/tool/foundationagents-openmanus) |
-| [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 38,731 | ▲ +71 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra [↗](https://ossaihub.com/tool/bytedance-ui-tars-desktop) |
-| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 36,577 | ▲ +258 | Powerful browser automation MCP server based on Playwright — enables reliable web interaction, scraping, and… [↗](https://ossaihub.com/tool/playwright-mcp) |
-| [browser](https://github.com/lightpanda-io/browser) | 34,291 | ▲ +123 | Lightpanda: the headless browser designed for AI and automation [↗](https://ossaihub.com/tool/lightpanda-io-browser) |
-| [CloakBrowser](https://github.com/cloakhq/cloakbrowser) | 30,916 | ▲ +445 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge… [↗](https://ossaihub.com/tool/cloakhq-cloakbrowser) |
-| [page-agent](https://github.com/alibaba/page-agent) | 28,892 | ▲ +114 | JavaScript in-page GUI agent. Control web interfaces with natural language. [↗](https://ossaihub.com/tool/alibaba-page-agent) |
-| [OpenCLI](https://github.com/jackwener/opencli) | 28,681 | ▲ +274 | Make Any Website into CLI & Use your logged-in browser by AI agent. [↗](https://ossaihub.com/tool/jackwener-opencli) |
-| [OmniParser](https://github.com/microsoft/omniparser) | 25,322 | ▲ +32 | A simple screen parsing tool towards pure vision based GUI agent [↗](https://ossaihub.com/tool/microsoft-omniparser) |
-| [stagehand](https://github.com/browserbase/stagehand) | 24,090 | ▲ +79 | The SDK For Browser Agents [↗](https://ossaihub.com/tool/browserbase-stagehand) |
-| [skyvern](https://github.com/skyvern-ai/skyvern) | 22,872 | ▲ +63 | Automate browser based workflows with AI [↗](https://ossaihub.com/tool/skyvern-ai-skyvern) |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | 22,387 | ▲ +496 | The headless browser for AI agents and web scraping [↗](https://ossaihub.com/tool/h4ckf0r0day-obscura) |
-| [cua](https://github.com/trycua/cua) | 21,980 | ▲ +242 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI… [↗](https://ossaihub.com/tool/trycua-cua) |
-| [suna](https://github.com/kortix-ai/suna) | 20,149 | ▲ +23 | The Autonomous Company Operating System [↗](https://ossaihub.com/tool/kortix-ai-suna) |
-| [DeepResearch](https://github.com/alibaba-nlp/deepresearch) | 19,882 | ▲ +26 | Tongyi Deep Research, the Leading Open-source Deep Research Agent [↗](https://ossaihub.com/tool/alibaba-nlp-deepresearch) |
-| [maxun](https://github.com/getmaxun/maxun) | 17,318 | ▲ +86 | 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites… [↗](https://ossaihub.com/tool/getmaxun-maxun) |
-| [web-ui](https://github.com/browser-use/web-ui) | 16,298 | ▲ +9 | 🖥️ Run AI Agent in your browser. [↗](https://ossaihub.com/tool/browser-use-web-ui) |
+| [Auto-GPT](https://github.com/significant-gravitas/autogpt) | 186,969 | ▲ +235 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/auto-gpt) |
+| [Browser Use](https://github.com/browser-use/browser-use) | 111,612 | ▲ +1,579 | Web-browser-controlling agents for automation, research, scraping, interaction; navigates sites and fills for… [↗](https://ossaihub.com/tool/browser-use-browser-use) |
+| [OpenDevin](https://github.com/all-hands-ai/openhands) | 85,510 | ▲ +764 | Open-source autonomous software engineering agent that can write code, run tests, and fix bugs like a human d… [↗](https://ossaihub.com/tool/openhands-all-hands-ai) |
+| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,179 | ▲ +74 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter) |
+| [OpenManus](https://github.com/foundationagents/openmanus) | 58,112 | ▲ +75 | Open-source AI agent framework for browser automation and computer-use tasks without API restrictions. [↗](https://ossaihub.com/tool/foundationagents-openmanus) |
+| [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 38,741 | ▲ +60 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra [↗](https://ossaihub.com/tool/bytedance-ui-tars-desktop) |
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 36,596 | ▲ +251 | Powerful browser automation MCP server based on Playwright — enables reliable web interaction, scraping, and… [↗](https://ossaihub.com/tool/playwright-mcp) |
+| [browser](https://github.com/lightpanda-io/browser) | 34,306 | ▲ +125 | Lightpanda: the headless browser designed for AI and automation [↗](https://ossaihub.com/tool/lightpanda-io-browser) |
+| [CloakBrowser](https://github.com/cloakhq/cloakbrowser) | 30,934 | ▲ +427 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge… [↗](https://ossaihub.com/tool/cloakhq-cloakbrowser) |
+| [page-agent](https://github.com/alibaba/page-agent) | 28,898 | ▲ +106 | JavaScript in-page GUI agent. Control web interfaces with natural language. [↗](https://ossaihub.com/tool/alibaba-page-agent) |
+| [OpenCLI](https://github.com/jackwener/opencli) | 28,702 | ▲ +264 | Make Any Website into CLI & Use your logged-in browser by AI agent. [↗](https://ossaihub.com/tool/jackwener-opencli) |
+| [OmniParser](https://github.com/microsoft/omniparser) | 25,333 | ▲ +36 | A simple screen parsing tool towards pure vision based GUI agent [↗](https://ossaihub.com/tool/microsoft-omniparser) |
+| [stagehand](https://github.com/browserbase/stagehand) | 24,092 | ▲ +73 | The SDK For Browser Agents [↗](https://ossaihub.com/tool/browserbase-stagehand) |
+| [skyvern](https://github.com/skyvern-ai/skyvern) | 22,875 | ▲ +49 | Automate browser based workflows with AI [↗](https://ossaihub.com/tool/skyvern-ai-skyvern) |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | 22,402 | ▲ +371 | The headless browser for AI agents and web scraping [↗](https://ossaihub.com/tool/h4ckf0r0day-obscura) |
+| [cua](https://github.com/trycua/cua) | 22,002 | ▲ +222 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI… [↗](https://ossaihub.com/tool/trycua-cua) |
+| [suna](https://github.com/kortix-ai/suna) | 20,153 | ▲ +25 | The Autonomous Company Operating System [↗](https://ossaihub.com/tool/kortix-ai-suna) |
+| [DeepResearch](https://github.com/alibaba-nlp/deepresearch) | 19,886 | ▲ +28 | Tongyi Deep Research, the Leading Open-source Deep Research Agent [↗](https://ossaihub.com/tool/alibaba-nlp-deepresearch) |
+| [maxun](https://github.com/getmaxun/maxun) | 17,321 | ▲ +69 | 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites… [↗](https://ossaihub.com/tool/getmaxun-maxun) |
+| [web-ui](https://github.com/browser-use/web-ui) | 16,299 | ▲ +9 | 🖥️ Run AI Agent in your browser. [↗](https://ossaihub.com/tool/browser-use-web-ui) |
 
 ## Embodied Robotics
 
@@ -316,26 +316,26 @@ Top 20 of [105 tracked Embodied Robotics tools](https://ossaihub.com/categories/
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [openpilot](https://github.com/commaai/openpilot) | 63,527 | ▲ +67 | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ su… [↗](https://ossaihub.com/tool/commaai-openpilot) |
-| [EasySpider](https://github.com/naibowang/easyspider) | 44,460 | ▲ +80 | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper… [↗](https://ossaihub.com/tool/naibowang-easyspider) |
-| [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 30,402 | ▲ +64 | Python sample codes and textbook for robotics algorithms. [↗](https://ossaihub.com/tool/atsushisakai-pythonrobotics) |
-| [Genesis](https://github.com/genesis-embodied-ai/genesis) | 29,818 | ▲ +36 | High-performance physics simulator with legged robot support and cross-sim unification for RL benchmarking. [↗](https://ossaihub.com/tool/genesis-physics) |
-| [Hugging Face LeRobot](https://github.com/huggingface/lerobot) | 27,012 | ▲ +222 | PyTorch-native library delivering state-of-the-art vision-language-action models, datasets, and real-hardware… [↗](https://ossaihub.com/tool/huggingface-lerobot) |
-| [AirSim Swarm](https://github.com/microsoft/airsim) | 18,427 | ▲ +14 | Microsoft's Unreal Engine-based high-fidelity drone simulator with native multi-UAV swarm support for vision-… [↗](https://ossaihub.com/tool/airsim-swarm) |
-| [nicegui](https://github.com/zauberzeug/nicegui) | 16,168 | ▲ +22 | Python-based web UI framework with browser interface for dashboards, robotics, and smart home apps. [↗](https://ossaihub.com/tool/zauberzeug-nicegui) |
-| [ardupilot](https://github.com/ardupilot/ardupilot) | 15,762 | ▲ +46 | ArduPlane, ArduCopter, ArduRover, ArduSub source [↗](https://ossaihub.com/tool/ardupilot-ardupilot) |
-| [Embodied-AI-Guide](https://github.com/tianxingchen/embodied-ai-guide) | 15,663 | ▲ +117 | Comprehensive Chinese/English guide to embodied AI technologies, with 10k+ stars as the most popular EAI tuto… [↗](https://ossaihub.com/tool/embodied-ai-guide) |
-| [MuJoCo](https://github.com/google-deepmind/mujoco) | 14,746 | ▲ +127 | Industry-standard physics engine for fast, accurate contact-rich robot simulation. [↗](https://ossaihub.com/tool/mujoco-google-deepmind) |
-| [text-to-cad](https://github.com/earthtojake/text-to-cad) | 13,989 | ▲ +260 | A collection of agent skills for CAD, robotics and hardware design [↗](https://ossaihub.com/tool/earthtojake-text-to-cad) |
-| [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) | 13,733 | ▲ +21 | PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. [↗](https://ossaihub.com/tool/dlr-rm-stable-baselines3) |
-| [NVIDIA Cosmos](https://github.com/nvidia/cosmos) | 11,664 | ▲ +93 | NVIDIA's 2026 foundation world-model simulator for massively scalable embodied AI training and sim-to-real tr… [↗](https://ossaihub.com/tool/nvidia-cosmos) |
-| [open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9,612 | ▲ +21 | A build-it-yourself, 6-wheel rover based on the rovers on Mars! [↗](https://ossaihub.com/tool/nasa-jpl-open-source-rover) |
-| [NVIDIA Isaac Lab](https://github.com/isaac-sim/isaaclab) | 7,988 | ▲ +63 | Unified GPU-accelerated framework for scalable robot learning and sim-to-real transfer built on NVIDIA Isaac… [↗](https://ossaihub.com/tool/nvidia-isaac-lab) |
-| [OpenVLA](https://github.com/openvla/openvla) | 6,910 | ▲ +52 | Open-source 7B-parameter vision-language-action model for generalist robotic manipulation with LoRA fine-tuni… [↗](https://ossaihub.com/tool/openvla) |
-| [OpenMower](https://github.com/clemenselflein/openmower) | 6,684 | ▲ +10 | Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots! [↗](https://ossaihub.com/tool/clemenselflein-openmower) |
-| [ROS 2](https://github.com/ros2/ros2) | 5,962 | ▲ +44 | The de-facto open middleware powering real-world AI robotics with standardized perception, planning, and cont… [↗](https://ossaihub.com/tool/ros2) |
-| [newton](https://github.com/newton-physics/newton) | 5,551 | ▲ +48 | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting robo… [↗](https://ossaihub.com/tool/newton-physics-newton) |
-| [OpenCat-Quadruped-Robot](https://github.com/petoicamp/opencat-quadruped-robot) | 5,229 | ▲ +30 | An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are… [↗](https://ossaihub.com/tool/petoicamp-opencat-quadruped-robot) |
+| [openpilot](https://github.com/commaai/openpilot) | 63,527 | ▲ +59 | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ su… [↗](https://ossaihub.com/tool/commaai-openpilot) |
+| [EasySpider](https://github.com/naibowang/easyspider) | 44,468 | ▲ +70 | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper… [↗](https://ossaihub.com/tool/naibowang-easyspider) |
+| [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 30,403 | ▲ +59 | Python sample codes and textbook for robotics algorithms. [↗](https://ossaihub.com/tool/atsushisakai-pythonrobotics) |
+| [Genesis](https://github.com/genesis-embodied-ai/genesis) | 29,825 | ▲ +35 | High-performance physics simulator with legged robot support and cross-sim unification for RL benchmarking. [↗](https://ossaihub.com/tool/genesis-physics) |
+| [Hugging Face LeRobot](https://github.com/huggingface/lerobot) | 27,030 | ▲ +217 | PyTorch-native library delivering state-of-the-art vision-language-action models, datasets, and real-hardware… [↗](https://ossaihub.com/tool/huggingface-lerobot) |
+| [AirSim Swarm](https://github.com/microsoft/airsim) | 18,426 | ▲ +12 | Microsoft's Unreal Engine-based high-fidelity drone simulator with native multi-UAV swarm support for vision-… [↗](https://ossaihub.com/tool/airsim-swarm) |
+| [nicegui](https://github.com/zauberzeug/nicegui) | 16,167 | ▲ +17 | Python-based web UI framework with browser interface for dashboards, robotics, and smart home apps. [↗](https://ossaihub.com/tool/zauberzeug-nicegui) |
+| [ardupilot](https://github.com/ardupilot/ardupilot) | 15,762 | ▲ +40 | ArduPlane, ArduCopter, ArduRover, ArduSub source [↗](https://ossaihub.com/tool/ardupilot-ardupilot) |
+| [Embodied-AI-Guide](https://github.com/tianxingchen/embodied-ai-guide) | 15,669 | ▲ +104 | Comprehensive Chinese/English guide to embodied AI technologies, with 10k+ stars as the most popular EAI tuto… [↗](https://ossaihub.com/tool/embodied-ai-guide) |
+| [MuJoCo](https://github.com/google-deepmind/mujoco) | 14,763 | ▲ +137 | Industry-standard physics engine for fast, accurate contact-rich robot simulation. [↗](https://ossaihub.com/tool/mujoco-google-deepmind) |
+| [text-to-cad](https://github.com/earthtojake/text-to-cad) | 14,009 | ▲ +251 | A collection of agent skills for CAD, robotics and hardware design [↗](https://ossaihub.com/tool/earthtojake-text-to-cad) |
+| [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) | 13,735 | ▲ +18 | PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. [↗](https://ossaihub.com/tool/dlr-rm-stable-baselines3) |
+| [NVIDIA Cosmos](https://github.com/nvidia/cosmos) | 11,668 | ▲ +84 | NVIDIA's 2026 foundation world-model simulator for massively scalable embodied AI training and sim-to-real tr… [↗](https://ossaihub.com/tool/nvidia-cosmos) |
+| [open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9,613 | ▲ +17 | A build-it-yourself, 6-wheel rover based on the rovers on Mars! [↗](https://ossaihub.com/tool/nasa-jpl-open-source-rover) |
+| [NVIDIA Isaac Lab](https://github.com/isaac-sim/isaaclab) | 7,991 | ▲ +60 | Unified GPU-accelerated framework for scalable robot learning and sim-to-real transfer built on NVIDIA Isaac… [↗](https://ossaihub.com/tool/nvidia-isaac-lab) |
+| [OpenVLA](https://github.com/openvla/openvla) | 6,913 | ▲ +42 | Open-source 7B-parameter vision-language-action model for generalist robotic manipulation with LoRA fine-tuni… [↗](https://ossaihub.com/tool/openvla) |
+| [OpenMower](https://github.com/clemenselflein/openmower) | 6,686 | ▲ +9 | Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots! [↗](https://ossaihub.com/tool/clemenselflein-openmower) |
+| [ROS 2](https://github.com/ros2/ros2) | 5,965 | ▲ +42 | The de-facto open middleware powering real-world AI robotics with standardized perception, planning, and cont… [↗](https://ossaihub.com/tool/ros2) |
+| [newton](https://github.com/newton-physics/newton) | 5,554 | ▲ +41 | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting robo… [↗](https://ossaihub.com/tool/newton-physics-newton) |
+| [OpenCat-Quadruped-Robot](https://github.com/petoicamp/opencat-quadruped-robot) | 5,231 | ▲ +31 | An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are… [↗](https://ossaihub.com/tool/petoicamp-opencat-quadruped-robot) |
 
 ## Document Intelligence Parsing
 
@@ -343,26 +343,26 @@ Top 20 of [82 tracked Document Intelligence Parsing tools](https://ossaihub.com/
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [markitdown](https://github.com/microsoft/markitdown) | 176,805 | ▲ +1,789 | Lightweight Python utility converting various document formats to Markdown for LLM consumption. [↗](https://ossaihub.com/tool/microsoft-markitdown) |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 89,504 | ▲ +555 | Open-source RAG engine with advanced document parsing, agentic workflows, and multi-modal capabilities for en… [↗](https://ossaihub.com/tool/ragflow-infiniflow) |
-| [PaddleOCR](https://github.com/paddlepaddle/paddleocr) | 88,399 | ▲ +382 | Baidu's rich, practical OCR tools with 80+ languages, ultra-lightweight models, and document layout analysis [↗](https://ossaihub.com/tool/paddleocr) |
-| [MinerU](https://github.com/opendatalab/mineru) | 78,682 | ▲ +569 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflow… [↗](https://ossaihub.com/tool/opendatalab-mineru) |
-| [tesseract](https://github.com/tesseract-ocr/tesseract) | 76,227 | ▲ +170 | Open-source OCR engine using LSTM neural nets to recognize text in 100+ languages from images. [↗](https://ossaihub.com/tool/tesseract-ocr-tesseract) |
-| [Docling](https://github.com/ds4sd/docling) | 65,694 | ▲ +380 | Universal document parser that turns PDFs/DOCX/PPTX/images/audio/LaTeX into clean structured Markdown/JSON. [↗](https://ossaihub.com/tool/docling-ds4sd) |
-| [Umi-OCR](https://github.com/hiroi-sora/umi-ocr) | 46,939 | ▲ +233 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 [↗](https://ossaihub.com/tool/hiroi-sora-umi-ocr) |
-| [marker](https://github.com/datalab-to/marker) | 39,342 | ▲ +429 | Convert PDFs, images, and documents to markdown, JSON, or HTML with state-of-the-art accuracy. [↗](https://ossaihub.com/tool/datalab-to-marker) |
-| [tesseract.js](https://github.com/naptha/tesseract.js) | 38,675 | ▲ +34 | JavaScript OCR library that extracts text from images in 100+ languages using WebAssembly Tesseract. [↗](https://ossaihub.com/tool/naptha-tesseract-js) |
-| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 36,449 | ▲ +200 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Goo… [↗](https://ossaihub.com/tool/pdfmathtranslate-pdfmathtranslate-2) |
-| [Detectron2](https://github.com/facebookresearch/detectron2) | 34,692 | ▲ +12 | Facebook AI Research's next-generation platform for object detection, segmentation, and keypoint detection bu… [↗](https://ossaihub.com/tool/detectron2) |
-| [OCRmyPDF](https://github.com/ocrmypdf/ocrmypdf) | 34,604 | ▲ +85 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched [↗](https://ossaihub.com/tool/ocrmypdf-ocrmypdf) |
-| [EasyOCR](https://github.com/jaidedai/easyocr) | 29,945 | ▲ +18 | Ready-to-use OCR for 80+ languages with single-line API and GPU support. [↗](https://ossaihub.com/tool/easyocr) |
-| [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,847 | ▲ +225 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. [↗](https://ossaihub.com/tool/opendataloader-project-opendataloader-pdf) |
-| [UDOP](https://github.com/microsoft/unilm) | 22,196 | ▲ +4 | Microsoft's unified document understanding model handling layout, text, and image information in a single fra… [↗](https://ossaihub.com/tool/udop) |
-| [surya](https://github.com/datalab-to/surya) | 21,325 | ▲ +22 | OCR, layout analysis, reading order, table recognition in 90+ languages [↗](https://ossaihub.com/tool/datalab-to-surya) |
-| [pot-desktop](https://github.com/pot-app/pot-desktop) | 19,363 | ▲ +56 | 🌈一个跨平台的划词翻译和OCR软件 \| A cross-platform software for text translation and recognition. [↗](https://ossaihub.com/tool/pot-app-pot-desktop) |
-| [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 16,836 | ▲ +446 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs t… [↗](https://ossaihub.com/tool/firecrawl-pdf-inspector) |
-| [unstructured](https://github.com/unstructured-io/unstructured) | 15,356 | ▲ +28 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming… [↗](https://ossaihub.com/tool/unstructured-io-unstructured) |
-| [Skill_Seekers](https://github.com/yusufkaraaslan/skill_seekers) | 14,846 | ▲ +54 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d… [↗](https://ossaihub.com/tool/yusufkaraaslan-skill-seekers) |
+| [markitdown](https://github.com/microsoft/markitdown) | 176,922 | ▲ +1,616 | Lightweight Python utility converting various document formats to Markdown for LLM consumption. [↗](https://ossaihub.com/tool/microsoft-markitdown) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 89,566 | ▲ +564 | Open-source RAG engine with advanced document parsing, agentic workflows, and multi-modal capabilities for en… [↗](https://ossaihub.com/tool/ragflow-infiniflow) |
+| [PaddleOCR](https://github.com/paddlepaddle/paddleocr) | 88,433 | ▲ +353 | Baidu's rich, practical OCR tools with 80+ languages, ultra-lightweight models, and document layout analysis [↗](https://ossaihub.com/tool/paddleocr) |
+| [MinerU](https://github.com/opendatalab/mineru) | 78,718 | ▲ +535 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflow… [↗](https://ossaihub.com/tool/opendatalab-mineru) |
+| [tesseract](https://github.com/tesseract-ocr/tesseract) | 76,242 | ▲ +145 | Open-source OCR engine using LSTM neural nets to recognize text in 100+ languages from images. [↗](https://ossaihub.com/tool/tesseract-ocr-tesseract) |
+| [Docling](https://github.com/ds4sd/docling) | 65,713 | ▲ +339 | Universal document parser that turns PDFs/DOCX/PPTX/images/audio/LaTeX into clean structured Markdown/JSON. [↗](https://ossaihub.com/tool/docling-ds4sd) |
+| [Umi-OCR](https://github.com/hiroi-sora/umi-ocr) | 46,959 | ▲ +225 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 [↗](https://ossaihub.com/tool/hiroi-sora-umi-ocr) |
+| [marker](https://github.com/datalab-to/marker) | 39,357 | ▲ +390 | Convert PDFs, images, and documents to markdown, JSON, or HTML with state-of-the-art accuracy. [↗](https://ossaihub.com/tool/datalab-to-marker) |
+| [tesseract.js](https://github.com/naptha/tesseract.js) | 38,676 | ▲ +25 | JavaScript OCR library that extracts text from images in 100+ languages using WebAssembly Tesseract. [↗](https://ossaihub.com/tool/naptha-tesseract-js) |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 36,467 | ▲ +202 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Goo… [↗](https://ossaihub.com/tool/pdfmathtranslate-pdfmathtranslate-2) |
+| [Detectron2](https://github.com/facebookresearch/detectron2) | 34,692 | ▲ +7 | Facebook AI Research's next-generation platform for object detection, segmentation, and keypoint detection bu… [↗](https://ossaihub.com/tool/detectron2) |
+| [OCRmyPDF](https://github.com/ocrmypdf/ocrmypdf) | 34,604 | ▲ +81 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched [↗](https://ossaihub.com/tool/ocrmypdf-ocrmypdf) |
+| [EasyOCR](https://github.com/jaidedai/easyocr) | 29,948 | ▲ +17 | Ready-to-use OCR for 80+ languages with single-line API and GPU support. [↗](https://ossaihub.com/tool/easyocr) |
+| [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,855 | ▲ +214 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. [↗](https://ossaihub.com/tool/opendataloader-project-opendataloader-pdf) |
+| [UDOP](https://github.com/microsoft/unilm) | 22,196 | ▲ +3 | Microsoft's unified document understanding model handling layout, text, and image information in a single fra… [↗](https://ossaihub.com/tool/udop) |
+| [surya](https://github.com/datalab-to/surya) | 21,332 | ▲ +26 | OCR, layout analysis, reading order, table recognition in 90+ languages [↗](https://ossaihub.com/tool/datalab-to-surya) |
+| [pot-desktop](https://github.com/pot-app/pot-desktop) | 19,377 | ▲ +69 | 🌈一个跨平台的划词翻译和OCR软件 \| A cross-platform software for text translation and recognition. [↗](https://ossaihub.com/tool/pot-app-pot-desktop) |
+| [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 16,857 | ▲ +410 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs t… [↗](https://ossaihub.com/tool/firecrawl-pdf-inspector) |
+| [unstructured](https://github.com/unstructured-io/unstructured) | 15,361 | ▲ +30 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming… [↗](https://ossaihub.com/tool/unstructured-io-unstructured) |
+| [Skill_Seekers](https://github.com/yusufkaraaslan/skill_seekers) | 14,853 | ▲ +59 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d… [↗](https://ossaihub.com/tool/yusufkaraaslan-skill-seekers) |
 
 ## Audio Music AI
 
@@ -370,26 +370,26 @@ Top 20 of [80 tracked Audio Music AI tools](https://ossaihub.com/categories/audi
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [GPT-SoVITS](https://github.com/rvc-boss/gpt-sovits) | 61,307 | ▲ +207 | Few-shot voice cloning toolkit with TTS and singing support from minimal data (1-min clips). [↗](https://ossaihub.com/tool/gpt-sovits) |
-| [VibeVoice](https://github.com/microsoft/vibevoice) | 53,292 | ▲ +253 | Microsoft's open audio stack for TTS/ASR/voice cloning running locally with long-form support. [↗](https://ossaihub.com/tool/vibevoice) |
-| [Coqui TTS](https://github.com/coqui-ai/tts) | 45,966 | ▲ +42 | Deep learning toolkit for Text-to-Speech synthesis with 1100+ pre-trained voices and fine-tuning support [↗](https://ossaihub.com/tool/coqui-tts) |
-| [ChatTTS](https://github.com/2noise/chattts) | 39,803 | ▲ +28 | Conversational TTS optimized for LLM assistants with natural dialogue, laughter, and multi-speaker support. [↗](https://ossaihub.com/tool/chattts) |
-| [Bark](https://github.com/suno-ai/bark) | 39,254 | ▲ +10 | Expressive audio synthesis with multilingual support, emotion control, and non-verbal sounds [↗](https://ossaihub.com/tool/bark-suno-ai) |
-| [RVC](https://github.com/rvc-project/retrieval-based-voice-conversion-webui) | 37,878 | ▲ +167 | Most popular open-source real-time voice conversion tool with high-quality voice cloning and minimal training… [↗](https://ossaihub.com/tool/rvc) |
-| [OpenVoice](https://github.com/myshell-ai/openvoice) | 37,339 | ▲ +174 | Instant voice cloning with granular control over emotion, accent, rhythm, and intonation—zero-shot and cross-… [↗](https://ossaihub.com/tool/openvoice) |
-| [VoxCPM](https://github.com/openbmb/voxcpm) | 36,214 | ▲ +277 | Tokenizer-free TTS for context-aware generation and true-to-life zero-shot cloning with fine-grained traits. [↗](https://ossaihub.com/tool/voxcpm) |
-| [Fish Speech](https://github.com/fishaudio/fish-speech) | 32,433 | ▲ +130 | High-quality multilingual TTS with excellent Chinese/English support, zero-shot cloning, and fast inference [↗](https://ossaihub.com/tool/fish-speech) |
-| [Chatterbox](https://github.com/resemble-ai/chatterbox) | 26,176 | ▲ +85 | State-of-the-art open TTS family with Turbo (350M efficient) for low-latency production and multilingual vari… [↗](https://ossaihub.com/tool/chatterbox) |
-| [Ultimate Vocal Remover](https://github.com/anjok07/ultimatevocalremovergui) | 26,024 | ▲ +197 | Most popular GUI tool for vocal/instrumental separation combining multiple models (MDX-Net, Demucs, VR) [↗](https://ossaihub.com/tool/ultimate-vocal-remover) |
-| [AudioCraft](https://github.com/facebookresearch/audiocraft) | 23,587 | ▲ +22 | Meta's foundational framework for text-to-music and audio generation (MusicGen family). [↗](https://ossaihub.com/tool/audiocraft) |
-| [IndexTTS-2](https://github.com/index-tts/index-tts) | 23,561 | ▲ +292 | Industrial-level zero-shot TTS with precise duration control and scalable natural generation. [↗](https://ossaihub.com/tool/indextts-2) |
-| [CosyVoice](https://github.com/funaudiollm/cosyvoice) | 22,957 | ▲ +121 | Zero-shot multilingual TTS with excellent expressiveness, emotion, and style transfer support [↗](https://ossaihub.com/tool/cosyvoice) |
-| [ebook2audiobook](https://github.com/drewthomasson/ebook2audiobook) | 20,061 | ▲ +72 | Generate audiobooks from e-books, voice cloning & 1158+ languages! [↗](https://ossaihub.com/tool/drewthomasson-ebook2audiobook) |
-| [Dia2](https://github.com/nari-labs/dia) | 19,385 | ▲ +15 | TTS model for ultra-realistic dialogue generation in one pass with emotion/tone control from audio conditioni… [↗](https://ossaihub.com/tool/dia2) |
-| [VideoLingo](https://github.com/huanshere/videolingo) | 18,280 | ▲ +66 | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video… [↗](https://ossaihub.com/tool/huanshere-videolingo) |
-| [F5-TTS](https://github.com/swivid/f5-tts) | 15,170 | ▲ +32 | Ultra-fast non-autoregressive TTS with strong zero-shot cloning and natural prosody for real-time application… [↗](https://ossaihub.com/tool/f5-tts) |
-| [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) | 14,870 | ▲ +5 | High-quality multi-voice TTS system with zero-shot voice cloning and expressive control via diffusion models [↗](https://ossaihub.com/tool/tortoise-tts-neonbjb) |
-| [Qwen3-TTS](https://github.com/qwenlm/qwen3-tts) | 13,143 | ▲ +101 | Alibaba's Qwen3-series TTS with ultra-high-quality cloning, free-form voice design, vivid multilingual genera… [↗](https://ossaihub.com/tool/qwen3-tts-qwenlm) |
+| [GPT-SoVITS](https://github.com/rvc-boss/gpt-sovits) | 61,313 | ▲ +189 | Few-shot voice cloning toolkit with TTS and singing support from minimal data (1-min clips). [↗](https://ossaihub.com/tool/gpt-sovits) |
+| [VibeVoice](https://github.com/microsoft/vibevoice) | 53,319 | ▲ +231 | Microsoft's open audio stack for TTS/ASR/voice cloning running locally with long-form support. [↗](https://ossaihub.com/tool/vibevoice) |
+| [Coqui TTS](https://github.com/coqui-ai/tts) | 45,966 | ▲ +35 | Deep learning toolkit for Text-to-Speech synthesis with 1100+ pre-trained voices and fine-tuning support [↗](https://ossaihub.com/tool/coqui-tts) |
+| [ChatTTS](https://github.com/2noise/chattts) | 39,803 | ▲ +25 | Conversational TTS optimized for LLM assistants with natural dialogue, laughter, and multi-speaker support. [↗](https://ossaihub.com/tool/chattts) |
+| [Bark](https://github.com/suno-ai/bark) | 39,253 | ▲ +7 | Expressive audio synthesis with multilingual support, emotion control, and non-verbal sounds [↗](https://ossaihub.com/tool/bark-suno-ai) |
+| [RVC](https://github.com/rvc-project/retrieval-based-voice-conversion-webui) | 37,894 | ▲ +149 | Most popular open-source real-time voice conversion tool with high-quality voice cloning and minimal training… [↗](https://ossaihub.com/tool/rvc) |
+| [OpenVoice](https://github.com/myshell-ai/openvoice) | 37,348 | ▲ +180 | Instant voice cloning with granular control over emotion, accent, rhythm, and intonation—zero-shot and cross-… [↗](https://ossaihub.com/tool/openvoice) |
+| [VoxCPM](https://github.com/openbmb/voxcpm) | 36,238 | ▲ +281 | Tokenizer-free TTS for context-aware generation and true-to-life zero-shot cloning with fine-grained traits. [↗](https://ossaihub.com/tool/voxcpm) |
+| [Fish Speech](https://github.com/fishaudio/fish-speech) | 32,449 | ▲ +128 | High-quality multilingual TTS with excellent Chinese/English support, zero-shot cloning, and fast inference [↗](https://ossaihub.com/tool/fish-speech) |
+| [Chatterbox](https://github.com/resemble-ai/chatterbox) | 26,191 | ▲ +95 | State-of-the-art open TTS family with Turbo (350M efficient) for low-latency production and multilingual vari… [↗](https://ossaihub.com/tool/chatterbox) |
+| [Ultimate Vocal Remover](https://github.com/anjok07/ultimatevocalremovergui) | 26,032 | ▲ +167 | Most popular GUI tool for vocal/instrumental separation combining multiple models (MDX-Net, Demucs, VR) [↗](https://ossaihub.com/tool/ultimate-vocal-remover) |
+| [AudioCraft](https://github.com/facebookresearch/audiocraft) | 23,589 | ▲ +20 | Meta's foundational framework for text-to-music and audio generation (MusicGen family). [↗](https://ossaihub.com/tool/audiocraft) |
+| [IndexTTS-2](https://github.com/index-tts/index-tts) | 23,571 | ▲ +255 | Industrial-level zero-shot TTS with precise duration control and scalable natural generation. [↗](https://ossaihub.com/tool/indextts-2) |
+| [CosyVoice](https://github.com/funaudiollm/cosyvoice) | 22,973 | ▲ +121 | Zero-shot multilingual TTS with excellent expressiveness, emotion, and style transfer support [↗](https://ossaihub.com/tool/cosyvoice) |
+| [ebook2audiobook](https://github.com/drewthomasson/ebook2audiobook) | 20,063 | ▲ +64 | Generate audiobooks from e-books, voice cloning & 1158+ languages! [↗](https://ossaihub.com/tool/drewthomasson-ebook2audiobook) |
+| [Dia2](https://github.com/nari-labs/dia) | 19,386 | ▲ +13 | TTS model for ultra-realistic dialogue generation in one pass with emotion/tone control from audio conditioni… [↗](https://ossaihub.com/tool/dia2) |
+| [VideoLingo](https://github.com/huanshere/videolingo) | 18,287 | ▲ +63 | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video… [↗](https://ossaihub.com/tool/huanshere-videolingo) |
+| [F5-TTS](https://github.com/swivid/f5-tts) | 15,172 | ▲ +29 | Ultra-fast non-autoregressive TTS with strong zero-shot cloning and natural prosody for real-time application… [↗](https://ossaihub.com/tool/f5-tts) |
+| [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) | 14,870 | ▲ +4 | High-quality multi-voice TTS system with zero-shot voice cloning and expressive control via diffusion models [↗](https://ossaihub.com/tool/tortoise-tts-neonbjb) |
+| [Qwen3-TTS](https://github.com/qwenlm/qwen3-tts) | 13,165 | ▲ +111 | Alibaba's Qwen3-series TTS with ultra-high-quality cloning, free-form voice design, vivid multilingual genera… [↗](https://ossaihub.com/tool/qwen3-tts-qwenlm) |
 
 ## Mobile On Device AI
 
@@ -397,26 +397,26 @@ Top 20 of [78 tracked Mobile On Device AI tools](https://ossaihub.com/categories
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Ollama](https://github.com/ollama/ollama) | 179,637 | ▲ +565 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama) |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | 126,076 | ▲ +1,160 | Lightweight C/C++ inference engine for LLMs, widely ported and optimized for mobile/edge hardware. [↗](https://ossaihub.com/tool/llama-cpp-ggerganov) |
-| [PyTorch Mobile](https://github.com/pytorch/pytorch) | 102,650 | ▲ +145 | GPU-accelerated tensor library and deep learning framework with dynamic computation graphs. [↗](https://ossaihub.com/tool/pytorch-mobile) |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 77,397 | ▼ -5 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all-nomic-ai-2) |
-| [LocalAI](https://github.com/mudler/localai) | 48,721 | ▲ +120 | Drop-in OpenAI-compatible REST API for running LLMs, images, audio, video entirely locally; no GPU required. [↗](https://ossaihub.com/tool/localai-mudler-2) |
-| [cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28,047 | ▲ +84 | Machine Learning Systems [↗](https://ossaihub.com/tool/harvard-edge-cs249r-book) |
-| [Qwen3-TTS](https://github.com/qwenlm/qwen3) | 27,564 | ▲ +24 | Qwen3 is a family of large language models with dense and MoE variants supporting thinking/non-thinking modes… [↗](https://ossaihub.com/tool/qwen3-tts) |
-| [MiniCPM-o](https://github.com/openbmb/minicpm-o) | 26,247 | ▲ +42 | OpenBMB's Gemini 2.5 Flash-level multimodal LLM for vision, speech, and text—enabling end-to-end speech under… [↗](https://ossaihub.com/tool/minicpm-o-openbmb) |
-| [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) | 26,176 | ▲ +85 | State-of-the-art open TTS family with Turbo (350M efficient) for low-latency production and multilingual vari… [↗](https://ossaihub.com/tool/chatterbox-tts) |
-| [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 23,104 | ▲ +27 | Compile any LLM to run natively on phones, browsers, GPUs, and edge devices with OpenAI-compatible APIs and n… [↗](https://ossaihub.com/tool/mlc-llm-mlc-ai) |
-| [CosyVoice2](https://github.com/funaudiollm/cosyvoice) | 22,957 | ▲ +121 | Zero-shot multilingual TTS with excellent expressiveness, emotion, and style transfer support [↗](https://ossaihub.com/tool/cosyvoice2) |
-| [nats-server](https://github.com/nats-io/nats-server) | 20,624 | ▲ +68 | High-Performance server for NATS.io, the cloud and edge native messaging system. [↗](https://ossaihub.com/tool/nats-io-nats-server) |
-| [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) | 19,855 | ▲ +42 | Alibaba's efficient vision-language model series optimized for on-device image/video understanding. [↗](https://ossaihub.com/tool/qwen2-5-vl) |
-| [TensorRT-LLM Mobile](https://github.com/nvidia/tensorrt-llm) | 14,493 | ▲ +65 | NVIDIA's fastest inference engine for LLMs on GPUs with quantization, in-flight batching, custom kernels, mas… [↗](https://ossaihub.com/tool/tensorrt-llm-mobile) |
-| [Moonshine](https://github.com/moonshine-ai/moonshine) | 10,951 | ▲ +48 | Ultra-compact open-source STT models optimized for mobile/embedded devices with strong accuracy and low laten… [↗](https://ossaihub.com/tool/moonshine) |
-| [RunAnywhere SDK](https://github.com/runanywhereai/runanywhere-sdks) | 10,278 | ▼ -16 | Open-source SDK for running LLMs and multimodal models on-device across iOS/Android. [↗](https://ossaihub.com/tool/runanywhere-sdk) |
-| [MiniCPM-V](https://github.com/openbmb/minicpm) | 10,264 | ▲ +50 | OpenBMB 2B-8B model delivering near-7B performance on mobile with multilingual and multimodal support [↗](https://ossaihub.com/tool/minicpm-v) |
-| [needle](https://github.com/cactus-compute/needle) | 9,531 | ▲ +1,367 | 26m function call model that runs on incredibly small devices [↗](https://ossaihub.com/tool/cactus-compute-needle) |
-| [Nexa SDK](https://github.com/nexaai/nexa-sdk) | 8,330 | ▲ +23 | Cross-platform SDK for running frontier LLMs and VLMs on-device across mobile, PC, and edge. [↗](https://ossaihub.com/tool/nexa-sdk) |
-| [Duix-Mobile](https://github.com/duixcom/duix-mobile) | 8,200 | ▲ +10 | SDK for real-time interactive AI avatars/digital humans on mobile devices. [↗](https://ossaihub.com/tool/duix-mobile) |
+| [Ollama](https://github.com/ollama/ollama) | 179,690 | ▲ +553 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama) |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | 126,176 | ▲ +1,107 | Lightweight C/C++ inference engine for LLMs, widely ported and optimized for mobile/edge hardware. [↗](https://ossaihub.com/tool/llama-cpp-ggerganov) |
+| [PyTorch Mobile](https://github.com/pytorch/pytorch) | 102,651 | ▲ +121 | GPU-accelerated tensor library and deep learning framework with dynamic computation graphs. [↗](https://ossaihub.com/tool/pytorch-mobile) |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 77,396 | ▼ -3 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all-nomic-ai-2) |
+| [LocalAI](https://github.com/mudler/localai) | 48,738 | ▲ +125 | Drop-in OpenAI-compatible REST API for running LLMs, images, audio, video entirely locally; no GPU required. [↗](https://ossaihub.com/tool/localai-mudler-2) |
+| [cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28,051 | ▲ +78 | Machine Learning Systems [↗](https://ossaihub.com/tool/harvard-edge-cs249r-book) |
+| [Qwen3-TTS](https://github.com/qwenlm/qwen3) | 27,567 | ▲ +24 | Qwen3 is a family of large language models with dense and MoE variants supporting thinking/non-thinking modes… [↗](https://ossaihub.com/tool/qwen3-tts) |
+| [MiniCPM-o](https://github.com/openbmb/minicpm-o) | 26,252 | ▲ +38 | OpenBMB's Gemini 2.5 Flash-level multimodal LLM for vision, speech, and text—enabling end-to-end speech under… [↗](https://ossaihub.com/tool/minicpm-o-openbmb) |
+| [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) | 26,191 | ▲ +95 | State-of-the-art open TTS family with Turbo (350M efficient) for low-latency production and multilingual vari… [↗](https://ossaihub.com/tool/chatterbox-tts) |
+| [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 23,108 | ▲ +27 | Compile any LLM to run natively on phones, browsers, GPUs, and edge devices with OpenAI-compatible APIs and n… [↗](https://ossaihub.com/tool/mlc-llm-mlc-ai) |
+| [CosyVoice2](https://github.com/funaudiollm/cosyvoice) | 22,973 | ▲ +121 | Zero-shot multilingual TTS with excellent expressiveness, emotion, and style transfer support [↗](https://ossaihub.com/tool/cosyvoice2) |
+| [nats-server](https://github.com/nats-io/nats-server) | 20,628 | ▲ +69 | High-Performance server for NATS.io, the cloud and edge native messaging system. [↗](https://ossaihub.com/tool/nats-io-nats-server) |
+| [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) | 19,858 | ▲ +39 | Alibaba's efficient vision-language model series optimized for on-device image/video understanding. [↗](https://ossaihub.com/tool/qwen2-5-vl) |
+| [TensorRT-LLM Mobile](https://github.com/nvidia/tensorrt-llm) | 14,496 | ▲ +56 | NVIDIA's fastest inference engine for LLMs on GPUs with quantization, in-flight batching, custom kernels, mas… [↗](https://ossaihub.com/tool/tensorrt-llm-mobile) |
+| [Moonshine](https://github.com/moonshine-ai/moonshine) | 10,960 | ▲ +48 | Ultra-compact open-source STT models optimized for mobile/embedded devices with strong accuracy and low laten… [↗](https://ossaihub.com/tool/moonshine) |
+| [RunAnywhere SDK](https://github.com/runanywhereai/runanywhere-sdks) | 10,279 | ▼ -13 | Open-source SDK for running LLMs and multimodal models on-device across iOS/Android. [↗](https://ossaihub.com/tool/runanywhere-sdk) |
+| [MiniCPM-V](https://github.com/openbmb/minicpm) | 10,268 | ▲ +50 | OpenBMB 2B-8B model delivering near-7B performance on mobile with multilingual and multimodal support [↗](https://ossaihub.com/tool/minicpm-v) |
+| [needle](https://github.com/cactus-compute/needle) | 9,621 | ▲ +1,252 | 26m function call model that runs on incredibly small devices [↗](https://ossaihub.com/tool/cactus-compute-needle) |
+| [Nexa SDK](https://github.com/nexaai/nexa-sdk) | 8,336 | ▲ +21 | Cross-platform SDK for running frontier LLMs and VLMs on-device across mobile, PC, and edge. [↗](https://ossaihub.com/tool/nexa-sdk) |
+| [Duix-Mobile](https://github.com/duixcom/duix-mobile) | 8,202 | ▲ +9 | SDK for real-time interactive AI avatars/digital humans on mobile devices. [↗](https://ossaihub.com/tool/duix-mobile) |
 
 ## Model Training Finetuning
 
@@ -424,26 +424,26 @@ Top 20 of [77 tracked Model Training Finetuning tools](https://ossaihub.com/cate
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) | 103,941 | ▲ +809 | Sebastian Raschka's definitive PyTorch codebase for building a GPT-class LLM step-by-step — tokenization, pre… [↗](https://ossaihub.com/tool/llms-from-scratch) |
-| [Unsloth](https://github.com/unslothai/unsloth) | 75,041 | ▲ +916 | Fine-tune LLMs 2× faster with 70% less VRAM; run 70B models on 24GB GPU or free Colab with LoRA, DPO, GRPO su… [↗](https://ossaihub.com/tool/unsloth) |
-| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | 74,425 | ▲ +159 | Unified fine-tuning framework for 100+ LLMs with LoRA, QLoRA, DPO, full tuning, and a clean web UI; one-click… [↗](https://ossaihub.com/tool/llama-factory) |
-| [nanochat](https://github.com/karpathy/nanochat) | 57,596 | ▲ +230 | Karpathy's minimal, hackable full-stack framework for training a small high-quality LLM from scratch on a sin… [↗](https://ossaihub.com/tool/nanochat) |
-| [DeepSpeed](https://github.com/deepspeedai/deepspeed) | 43,018 | ▲ +47 | Microsoft's distributed training library enabling 100B+ parameter models on commodity hardware via ZeRO optim… [↗](https://ossaihub.com/tool/deepspeed) |
+| [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) | 103,976 | ▲ +786 | Sebastian Raschka's definitive PyTorch codebase for building a GPT-class LLM step-by-step — tokenization, pre… [↗](https://ossaihub.com/tool/llms-from-scratch) |
+| [Unsloth](https://github.com/unslothai/unsloth) | 75,110 | ▲ +820 | Fine-tune LLMs 2× faster with 70% less VRAM; run 70B models on 24GB GPU or free Colab with LoRA, DPO, GRPO su… [↗](https://ossaihub.com/tool/unsloth) |
+| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | 74,435 | ▲ +150 | Unified fine-tuning framework for 100+ LLMs with LoRA, QLoRA, DPO, full tuning, and a clean web UI; one-click… [↗](https://ossaihub.com/tool/llama-factory) |
+| [nanochat](https://github.com/karpathy/nanochat) | 57,614 | ▲ +214 | Karpathy's minimal, hackable full-stack framework for training a small high-quality LLM from scratch on a sin… [↗](https://ossaihub.com/tool/nanochat) |
+| [DeepSpeed](https://github.com/deepspeedai/deepspeed) | 43,020 | ▲ +45 | Microsoft's distributed training library enabling 100B+ parameter models on commodity hardware via ZeRO optim… [↗](https://ossaihub.com/tool/deepspeed) |
 | [ColossalAI](https://github.com/hpcaitech/colossalai) | 41,443 | ▲ +5 | Large-scale distributed training system with ZeRO, tensor parallelism, pipeline parallelism, and auto-paralle… [↗](https://ossaihub.com/tool/colossal-ai) |
-| [airllm](https://github.com/lyogavin/airllm) | 32,925 | ▲ +959 | AirLLM 70B inference with single 4GB GPU [↗](https://ossaihub.com/tool/lyogavin-airllm) |
-| [self-llm](https://github.com/datawhalechina/self-llm) | 31,958 | ▲ +165 | A comprehensive Chinese guide for deploying, using, and fine-tuning 50+ open-source LLMs locally. [↗](https://ossaihub.com/tool/datawhalechina-self-llm) |
-| [gitleaks](https://github.com/gitleaks/gitleaks) | 28,993 | ▲ +124 | Find secrets with Gitleaks 🔑 [↗](https://ossaihub.com/tool/gitleaks-gitleaks) |
-| [verl](https://github.com/volcengine/verl) | 23,177 | ▲ +127 | Volcengine's flexible, scalable RL post-training framework for LLMs — PPO, GRPO, distributed training with pr… [↗](https://ossaihub.com/tool/verl) |
-| [PEFT](https://github.com/huggingface/peft) | 21,604 | ▲ +38 | Parameter-Efficient Fine-Tuning library for Hugging Face; fine-tune billion-parameter models on consumer hard… [↗](https://ossaihub.com/tool/peft) |
-| [TRL](https://github.com/huggingface/trl) | 19,168 | ▲ +55 | Hugging Face library for SFT, DPO, GRPO, reward modeling; bring post-training and RLHF to any Hugging Face mo… [↗](https://ossaihub.com/tool/trl) |
-| [NeMo](https://github.com/NVIDIA/NeMo) | 18,352 | ▲ +161 | NVIDIA's framework for building, pretraining, fine-tuning, and aligning SOTA LLMs with model parallelism, SFT… [↗](https://ossaihub.com/tool/nemo) |
-| [Megatron-LM](https://github.com/nvidia/megatron-lm) | 17,651 | ▲ +150 | NVIDIA's reference implementation for training massive transformers with tensor, pipeline, and sequence paral… [↗](https://ossaihub.com/tool/megatron-lm) |
-| [MS-SWIFT](https://github.com/modelscope/ms-swift) | 15,397 | ▲ +82 | ModelScope's Scalable Lightweight Infrastructure for Fine-Tuning: train 450+ LLMs and 200+ multimodal models… [↗](https://ossaihub.com/tool/ms-swift) |
-| [easy-dataset](https://github.com/conardli/easy-dataset) | 14,846 | ▲ +42 | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval [↗](https://ossaihub.com/tool/conardli-easy-dataset) |
-| [litgpt](https://github.com/lightning-ai/litgpt) | 13,633 | ▲ +13 | Lightning AI's from-scratch implementations and recipes for 20+ LLMs — full control, LoRA/QLoRA, and scalable… [↗](https://ossaihub.com/tool/litgpt) |
-| [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | 12,415 | ▲ +36 | Enterprise-grade LLM fine-tuning via simple YAML configs supporting LoRA, DPO, GRPO, full fine-tuning on sing… [↗](https://ossaihub.com/tool/axolotl-axolotl-ai-cloud) |
-| [OpenRLHF](https://github.com/openrlhf/openrlhf) | 9,957 | ▲ +20 | High-performance RLHF framework built on Ray + vLLM + DeepSpeed; PPO, DPO, KTO, REINFORCE++ for 70B+ models o… [↗](https://ossaihub.com/tool/openrlhf) |
-| [Accelerate](https://github.com/huggingface/accelerate) | 9,841 | ▲ +18 | Hugging Face's boilerplate-free training/inference on any hardware (GPU, TPU, distributed) with automatic opt… [↗](https://ossaihub.com/tool/accelerate-huggingface) |
+| [airllm](https://github.com/lyogavin/airllm) | 33,000 | ▲ +885 | AirLLM 70B inference with single 4GB GPU [↗](https://ossaihub.com/tool/lyogavin-airllm) |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 31,967 | ▲ +161 | A comprehensive Chinese guide for deploying, using, and fine-tuning 50+ open-source LLMs locally. [↗](https://ossaihub.com/tool/datawhalechina-self-llm) |
+| [gitleaks](https://github.com/gitleaks/gitleaks) | 29,004 | ▲ +111 | Find secrets with Gitleaks 🔑 [↗](https://ossaihub.com/tool/gitleaks-gitleaks) |
+| [verl](https://github.com/volcengine/verl) | 23,184 | ▲ +114 | Volcengine's flexible, scalable RL post-training framework for LLMs — PPO, GRPO, distributed training with pr… [↗](https://ossaihub.com/tool/verl) |
+| [PEFT](https://github.com/huggingface/peft) | 21,604 | ▲ +32 | Parameter-Efficient Fine-Tuning library for Hugging Face; fine-tune billion-parameter models on consumer hard… [↗](https://ossaihub.com/tool/peft) |
+| [TRL](https://github.com/huggingface/trl) | 19,174 | ▲ +56 | Hugging Face library for SFT, DPO, GRPO, reward modeling; bring post-training and RLHF to any Hugging Face mo… [↗](https://ossaihub.com/tool/trl) |
+| [NeMo](https://github.com/NVIDIA/NeMo) | 18,355 | ▲ +152 | NVIDIA's framework for building, pretraining, fine-tuning, and aligning SOTA LLMs with model parallelism, SFT… [↗](https://ossaihub.com/tool/nemo) |
+| [Megatron-LM](https://github.com/nvidia/megatron-lm) | 17,662 | ▲ +152 | NVIDIA's reference implementation for training massive transformers with tensor, pipeline, and sequence paral… [↗](https://ossaihub.com/tool/megatron-lm) |
+| [MS-SWIFT](https://github.com/modelscope/ms-swift) | 15,398 | ▲ +75 | ModelScope's Scalable Lightweight Infrastructure for Fine-Tuning: train 450+ LLMs and 200+ multimodal models… [↗](https://ossaihub.com/tool/ms-swift) |
+| [easy-dataset](https://github.com/conardli/easy-dataset) | 14,852 | ▲ +43 | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval [↗](https://ossaihub.com/tool/conardli-easy-dataset) |
+| [litgpt](https://github.com/lightning-ai/litgpt) | 13,636 | ▲ +17 | Lightning AI's from-scratch implementations and recipes for 20+ LLMs — full control, LoRA/QLoRA, and scalable… [↗](https://ossaihub.com/tool/litgpt) |
+| [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | 12,420 | ▲ +34 | Enterprise-grade LLM fine-tuning via simple YAML configs supporting LoRA, DPO, GRPO, full fine-tuning on sing… [↗](https://ossaihub.com/tool/axolotl-axolotl-ai-cloud) |
+| [OpenRLHF](https://github.com/openrlhf/openrlhf) | 9,959 | ▲ +18 | High-performance RLHF framework built on Ray + vLLM + DeepSpeed; PPO, DPO, KTO, REINFORCE++ for 70B+ models o… [↗](https://ossaihub.com/tool/openrlhf) |
+| [Accelerate](https://github.com/huggingface/accelerate) | 9,841 | ▲ +17 | Hugging Face's boilerplate-free training/inference on any hardware (GPU, TPU, distributed) with automatic opt… [↗](https://ossaihub.com/tool/accelerate-huggingface) |
 
 ## Multimodal
 
@@ -451,26 +451,26 @@ Top 20 of [76 tracked Multimodal tools](https://ossaihub.com/categories/multimod
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [CLIP](https://github.com/openai/clip) | 34,239 | ▲ +40 | OpenAI's foundational image-text contrastive learning model—enabling zero-shot vision recognition and semanti… [↗](https://ossaihub.com/tool/clip) |
-| [MiniCPM-o](https://github.com/openbmb/minicpm-o) | 26,247 | ▲ +42 | OpenBMB's Gemini 2.5 Flash-level multimodal LLM for vision, speech, and text—enabling end-to-end speech under… [↗](https://ossaihub.com/tool/minicpm-o) |
-| [MiniCPM-V 2.5](https://github.com/openbmb/minicpm-v) | 26,247 | ▲ +42 | Compact multimodal model with strong document and visual reasoning — efficient for edge and on-device multimo… [↗](https://ossaihub.com/tool/minicpm-v-2-5) |
-| [MiniGPT-4](https://github.com/vision-cair/minigpt-4) | 25,625 | ▼ -2 | Vision-CAIR's early vision-language model leveraging frozen CLIP and language models for efficient visual rea… [↗](https://ossaihub.com/tool/minigpt-4) |
-| [LLaVA](https://github.com/haotian-liu/llava) | 25,005 | ▲ +13 | Large Language and Vision Assistant: visual instruction tuning framework for multimodal AI achieving GPT-4 le… [↗](https://ossaihub.com/tool/llava-haotian-liu) |
-| [Kosmos-2](https://github.com/microsoft/unilm/tree/master/kosmos-2) | 22,196 | ▲ +4 | Microsoft's grounded multimodal large language model combining vision, language, and spatial reasoning for de… [↗](https://ossaihub.com/tool/kosmos-2) |
-| [screenpipe](https://github.com/screenpipe/screenpipe) | 21,274 | ▲ +137 | Run agents that work for you based on what you do. AI finally knows what you are doing [↗](https://ossaihub.com/tool/screenpipe-screenpipe) |
-| [Qwen3-VL](https://github.com/qwenlm/qwen3-vl) | 19,855 | ▲ +42 | Native vision-language series with long-context visual understanding and agentic multimodal reasoning. [↗](https://ossaihub.com/tool/qwen3-vl) |
-| [Qwen2.5-VL-72B](https://github.com/QwenLM/Qwen2.5-VL) | 19,855 | ▲ +42 | Alibaba's efficient vision-language model series optimized for on-device image/video understanding. [↗](https://ossaihub.com/tool/qwen25-vl-72b) |
-| [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) | 19,855 | ▲ +42 | Alibaba latest vision-language model (2B-72B) with exceptional high-resolution image and video understanding [↗](https://ossaihub.com/tool/qwen2-vl-qwenlm) |
-| [OpenCLIP](https://github.com/mlfoundations/open_clip) | 14,101 | ▲ +24 | Mlfoundations' fully open CLIP implementation trained on diverse datasets (OpenAI, LAION, Metadata) with repr… [↗](https://ossaihub.com/tool/open-clip) |
-| [rerun](https://github.com/rerun-io/rerun) | 11,367 | ▲ +35 | An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data [↗](https://ossaihub.com/tool/rerun-io-rerun) |
-| [InstructBLIP](https://github.com/salesforce/lavis) | 11,262 | ▲ +2 | Extends BLIP-2 with instruction-aware fine-tuning for superior visual reasoning, detailed captioning, and con… [↗](https://ossaihub.com/tool/instructblip) |
-| [all-in-rag](https://github.com/datawhalechina/all-in-rag) | 10,662 | ▲ +176 | Comprehensive RAG (Retrieval-Augmented Generation) full-stack tutorial with theory, code, and production-read… [↗](https://ossaihub.com/tool/datawhalechina-all-in-rag) |
-| [InternVL](https://github.com/opengvlab/internvl) | 10,147 | ▲ +7 | OpenGVLab's CVPR 2024 Oral-winning unified vision foundation model for VLMs, object detection, and semantic s… [↗](https://ossaihub.com/tool/internvl) |
-| [seatunnel](https://github.com/apache/seatunnel) | 9,599 | ▲ +30 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. [↗](https://ossaihub.com/tool/apache-seatunnel) |
-| [MobileAgent](https://github.com/x-plug/mobileagent) | 9,147 | ▲ +38 | Mobile-Agent: The Powerful GUI Agent Family [↗](https://ossaihub.com/tool/x-plug-mobileagent) |
-| [ImageBind](https://github.com/facebookresearch/imagebind) | 9,065 | ▼ -1 | Meta's unified embedding space across 6 modalities (image, text, audio, video, thermal, depth) enabling cross… [↗](https://ossaihub.com/tool/imagebind) |
-| [nexa-sdk](https://github.com/qualcomm/nexa-sdk) | 8,330 | ▲ +23 | Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime cove… [↗](https://ossaihub.com/tool/qualcomm-nexa-sdk) |
-| [mlx-audio](https://github.com/blaizzy/mlx-audio) | 7,800 | ▲ +33 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framewor… [↗](https://ossaihub.com/tool/blaizzy-mlx-audio) |
+| [CLIP](https://github.com/openai/clip) | 34,240 | ▲ +39 | OpenAI's foundational image-text contrastive learning model—enabling zero-shot vision recognition and semanti… [↗](https://ossaihub.com/tool/clip) |
+| [MiniCPM-o](https://github.com/openbmb/minicpm-o) | 26,252 | ▲ +38 | OpenBMB's Gemini 2.5 Flash-level multimodal LLM for vision, speech, and text—enabling end-to-end speech under… [↗](https://ossaihub.com/tool/minicpm-o) |
+| [MiniCPM-V 2.5](https://github.com/openbmb/minicpm-v) | 26,252 | ▲ +38 | Compact multimodal model with strong document and visual reasoning — efficient for edge and on-device multimo… [↗](https://ossaihub.com/tool/minicpm-v-2-5) |
+| [MiniGPT-4](https://github.com/vision-cair/minigpt-4) | 25,626 | ▲ +0 | Vision-CAIR's early vision-language model leveraging frozen CLIP and language models for efficient visual rea… [↗](https://ossaihub.com/tool/minigpt-4) |
+| [LLaVA](https://github.com/haotian-liu/llava) | 25,005 | ▲ +9 | Large Language and Vision Assistant: visual instruction tuning framework for multimodal AI achieving GPT-4 le… [↗](https://ossaihub.com/tool/llava-haotian-liu) |
+| [Kosmos-2](https://github.com/microsoft/unilm/tree/master/kosmos-2) | 22,196 | ▲ +3 | Microsoft's grounded multimodal large language model combining vision, language, and spatial reasoning for de… [↗](https://ossaihub.com/tool/kosmos-2) |
+| [screenpipe](https://github.com/screenpipe/screenpipe) | 21,286 | ▲ +122 | Run agents that work for you based on what you do. AI finally knows what you are doing [↗](https://ossaihub.com/tool/screenpipe-screenpipe) |
+| [Qwen3-VL](https://github.com/qwenlm/qwen3-vl) | 19,858 | ▲ +39 | Native vision-language series with long-context visual understanding and agentic multimodal reasoning. [↗](https://ossaihub.com/tool/qwen3-vl) |
+| [Qwen2.5-VL-72B](https://github.com/QwenLM/Qwen2.5-VL) | 19,858 | ▲ +39 | Alibaba's efficient vision-language model series optimized for on-device image/video understanding. [↗](https://ossaihub.com/tool/qwen25-vl-72b) |
+| [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) | 19,858 | ▲ +39 | Alibaba latest vision-language model (2B-72B) with exceptional high-resolution image and video understanding [↗](https://ossaihub.com/tool/qwen2-vl-qwenlm) |
+| [OpenCLIP](https://github.com/mlfoundations/open_clip) | 14,101 | ▲ +22 | Mlfoundations' fully open CLIP implementation trained on diverse datasets (OpenAI, LAION, Metadata) with repr… [↗](https://ossaihub.com/tool/open-clip) |
+| [rerun](https://github.com/rerun-io/rerun) | 11,370 | ▲ +34 | An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data [↗](https://ossaihub.com/tool/rerun-io-rerun) |
+| [InstructBLIP](https://github.com/salesforce/lavis) | 11,262 | ▲ +1 | Extends BLIP-2 with instruction-aware fine-tuning for superior visual reasoning, detailed captioning, and con… [↗](https://ossaihub.com/tool/instructblip) |
+| [all-in-rag](https://github.com/datawhalechina/all-in-rag) | 10,673 | ▲ +161 | Comprehensive RAG (Retrieval-Augmented Generation) full-stack tutorial with theory, code, and production-read… [↗](https://ossaihub.com/tool/datawhalechina-all-in-rag) |
+| [InternVL](https://github.com/opengvlab/internvl) | 10,147 | ▲ +6 | OpenGVLab's CVPR 2024 Oral-winning unified vision foundation model for VLMs, object detection, and semantic s… [↗](https://ossaihub.com/tool/internvl) |
+| [seatunnel](https://github.com/apache/seatunnel) | 9,600 | ▲ +30 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. [↗](https://ossaihub.com/tool/apache-seatunnel) |
+| [MobileAgent](https://github.com/x-plug/mobileagent) | 9,148 | ▲ +32 | Mobile-Agent: The Powerful GUI Agent Family [↗](https://ossaihub.com/tool/x-plug-mobileagent) |
+| [ImageBind](https://github.com/facebookresearch/imagebind) | 9,065 | ▲ +0 | Meta's unified embedding space across 6 modalities (image, text, audio, video, thermal, depth) enabling cross… [↗](https://ossaihub.com/tool/imagebind) |
+| [nexa-sdk](https://github.com/qualcomm/nexa-sdk) | 8,336 | ▲ +21 | Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime cove… [↗](https://ossaihub.com/tool/qualcomm-nexa-sdk) |
+| [mlx-audio](https://github.com/blaizzy/mlx-audio) | 7,802 | ▲ +30 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framewor… [↗](https://ossaihub.com/tool/blaizzy-mlx-audio) |
 
 ## Prompt Engineering Structured Output
 
@@ -478,26 +478,26 @@ Top 20 of [71 tracked Prompt Engineering Structured Output tools](https://ossaih
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | 145,189 | ▲ +513 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-2) |
-| [caveman](https://github.com/juliusbrussee/caveman) | 101,575 | ▲ +1,848 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cav… [↗](https://ossaihub.com/tool/juliusbrussee-caveman) |
-| [Prompt Engineering Guide](https://github.com/dair-ai/prompt-engineering-guide) | 77,868 | ▲ +223 | Comprehensive open-source guide to prompt engineering techniques, applications, and best practices for LLMs. [↗](https://ossaihub.com/tool/prompt-engineering-guide) |
-| [headroom](https://github.com/chopratejas/headroom) | 67,897 | ▲ +877 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answe… [↗](https://ossaihub.com/tool/chopratejas-headroom) |
-| [LlamaIndex Workflows](https://github.com/run-llama/llama_index) | 51,906 | ▲ +131 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-workflows) |
-| [academic-research-skills](https://github.com/imbad0202/academic-research-skills) | 44,064 | ▲ +878 | Academic Research Skills for Claude Code: research → write → review → revise → finalize [↗](https://ossaihub.com/tool/imbad0202-academic-research-skills) |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 40,623 | ▲ +484 | LangChain extension for stateful multi-agent graphs with cycles, branching, persistence, human-in-loop, visua… [↗](https://ossaihub.com/tool/langgraph-langchain-ai-3) |
-| [DSPy](https://github.com/stanfordnlp/dspy) | 37,633 | ▲ +170 | Framework to program (not prompt) LLMs with optimizable modules and pipelines [↗](https://ossaihub.com/tool/dspy-stanfordnlp-3) |
-| [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 33,499 | ▲ +282 | An AI prompt optimizer for writing better prompts and getting better AI results. [↗](https://ossaihub.com/tool/linshenkx-prompt-optimizer) |
-| [SGLang](https://github.com/sgl-project/sglang) | 32,621 | ▲ +410 | Blazing-fast serving framework with RadixAttention, speculative decoding, continuous batching, low-latency in… [↗](https://ossaihub.com/tool/sglang) |
-| [ScrapeGraphAI](https://github.com/scrapegraphai/scrapegraph-ai) | 30,019 | ▲ +242 | LLM-powered web scraping with enforced structured JSON outputs [↗](https://ossaihub.com/tool/scrapegraphai) |
-| [Haystack](https://github.com/deepset-ai/haystack) | 26,349 | ▲ +84 | Open-source orchestration for LLM pipelines with prompt templating & structured RAG [↗](https://ossaihub.com/tool/haystack-deepset-ai-5) |
-| [Promptfoo](https://github.com/promptfoo/promptfoo) | 24,641 | ▲ +222 | Leading tool for testing, evaluating, and red-teaming LLM prompts at scale with CI/CD integration [↗](https://ossaihub.com/tool/promptfoo-promptfoo) |
-| [Guidance](https://github.com/guidance-ai/guidance) | 21,728 | ▲ +17 | Microsoft library for controlling LLM generation with templates and constraints [↗](https://ossaihub.com/tool/guidance-guidance-ai-2) |
-| [agency-agents-zh](https://github.com/jnmetacode/agency-agents-zh) | 20,043 | ▲ +376 | 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原… [↗](https://ossaihub.com/tool/jnmetacode-agency-agents-zh) |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | 19,554 | ▲ +131 | Type-safe agent framework enforcing structured outputs, tool calls, and safety with Pydantic models. [↗](https://ossaihub.com/tool/pydantic-ai-pydantic-3) |
-| [DeepEval](https://github.com/confident-ai/deepeval) | 17,935 | ▲ +189 | Developer-favorite LLM evaluation framework with 20+ production-grade metrics, synthetic test data, CI/CD int… [↗](https://ossaihub.com/tool/deepeval-confident-ai-2) |
-| [Outlines](https://github.com/dottxt-ai/outlines) | 15,706 | ▲ +49 | Guaranteed structured generation (JSON, regex, CFG) during inference for any LLM backend [↗](https://ossaihub.com/tool/outlines-dottxt-ai) |
-| [Instructor](https://github.com/jxnl/instructor) | 13,793 | ▲ +35 | Pydantic-powered library for reliable, type-safe structured outputs from any LLM [↗](https://ossaihub.com/tool/instructor-jxnl) |
-| [LangGPT](https://github.com/langgptai/langgpt) | 12,471 | ▲ +26 | LangGPT: Empowering everyone to become a prompt expert! 🚀 📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Promp… [↗](https://ossaihub.com/tool/langgptai-langgpt) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 145,230 | ▲ +488 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai-2) |
+| [caveman](https://github.com/juliusbrussee/caveman) | 101,688 | ▲ +1,500 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cav… [↗](https://ossaihub.com/tool/juliusbrussee-caveman) |
+| [Prompt Engineering Guide](https://github.com/dair-ai/prompt-engineering-guide) | 77,877 | ▲ +205 | Comprehensive open-source guide to prompt engineering techniques, applications, and best practices for LLMs. [↗](https://ossaihub.com/tool/prompt-engineering-guide) |
+| [headroom](https://github.com/chopratejas/headroom) | 67,963 | ▲ +838 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answe… [↗](https://ossaihub.com/tool/chopratejas-headroom) |
+| [LlamaIndex Workflows](https://github.com/run-llama/llama_index) | 51,909 | ▲ +118 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-workflows) |
+| [academic-research-skills](https://github.com/imbad0202/academic-research-skills) | 44,134 | ▲ +874 | Academic Research Skills for Claude Code: research → write → review → revise → finalize [↗](https://ossaihub.com/tool/imbad0202-academic-research-skills) |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 40,649 | ▲ +443 | LangChain extension for stateful multi-agent graphs with cycles, branching, persistence, human-in-loop, visua… [↗](https://ossaihub.com/tool/langgraph-langchain-ai-3) |
+| [DSPy](https://github.com/stanfordnlp/dspy) | 37,647 | ▲ +159 | Framework to program (not prompt) LLMs with optimizable modules and pipelines [↗](https://ossaihub.com/tool/dspy-stanfordnlp-3) |
+| [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 33,615 | ▲ +381 | An AI prompt optimizer for writing better prompts and getting better AI results. [↗](https://ossaihub.com/tool/linshenkx-prompt-optimizer) |
+| [SGLang](https://github.com/sgl-project/sglang) | 32,652 | ▲ +408 | Blazing-fast serving framework with RadixAttention, speculative decoding, continuous batching, low-latency in… [↗](https://ossaihub.com/tool/sglang) |
+| [ScrapeGraphAI](https://github.com/scrapegraphai/scrapegraph-ai) | 30,028 | ▲ +225 | LLM-powered web scraping with enforced structured JSON outputs [↗](https://ossaihub.com/tool/scrapegraphai) |
+| [Haystack](https://github.com/deepset-ai/haystack) | 26,354 | ▲ +81 | Open-source orchestration for LLM pipelines with prompt templating & structured RAG [↗](https://ossaihub.com/tool/haystack-deepset-ai-5) |
+| [Promptfoo](https://github.com/promptfoo/promptfoo) | 24,655 | ▲ +206 | Leading tool for testing, evaluating, and red-teaming LLM prompts at scale with CI/CD integration [↗](https://ossaihub.com/tool/promptfoo-promptfoo) |
+| [Guidance](https://github.com/guidance-ai/guidance) | 21,730 | ▲ +17 | Microsoft library for controlling LLM generation with templates and constraints [↗](https://ossaihub.com/tool/guidance-guidance-ai-2) |
+| [agency-agents-zh](https://github.com/jnmetacode/agency-agents-zh) | 20,061 | ▲ +358 | 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原… [↗](https://ossaihub.com/tool/jnmetacode-agency-agents-zh) |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | 19,567 | ▲ +131 | Type-safe agent framework enforcing structured outputs, tool calls, and safety with Pydantic models. [↗](https://ossaihub.com/tool/pydantic-ai-pydantic-3) |
+| [DeepEval](https://github.com/confident-ai/deepeval) | 17,945 | ▲ +176 | Developer-favorite LLM evaluation framework with 20+ production-grade metrics, synthetic test data, CI/CD int… [↗](https://ossaihub.com/tool/deepeval-confident-ai-2) |
+| [Outlines](https://github.com/dottxt-ai/outlines) | 15,711 | ▲ +47 | Guaranteed structured generation (JSON, regex, CFG) during inference for any LLM backend [↗](https://ossaihub.com/tool/outlines-dottxt-ai) |
+| [Instructor](https://github.com/jxnl/instructor) | 13,797 | ▲ +36 | Pydantic-powered library for reliable, type-safe structured outputs from any LLM [↗](https://ossaihub.com/tool/instructor-jxnl) |
+| [LangGPT](https://github.com/langgptai/langgpt) | 12,476 | ▲ +28 | LangGPT: Empowering everyone to become a prompt expert! 🚀 📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Promp… [↗](https://ossaihub.com/tool/langgptai-langgpt) |
 
 ## Reinforcement Learning Simulators
 
@@ -505,26 +505,26 @@ Top 20 of [64 tracked Reinforcement Learning Simulators tools](https://ossaihub.
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50,508 | ▲ +3,092 | Learn it. Build it. Ship it for others. [↗](https://ossaihub.com/tool/rohitg00-ai-engineering-from-scratch) |
-| [Genesis](https://github.com/genesis-embodied-ai/genesis) | 29,818 | ▲ +36 | High-performance physics simulator with legged robot support and cross-sim unification for RL benchmarking. [↗](https://ossaihub.com/tool/genesis) |
-| [ml-agents](https://github.com/unity-technologies/ml-agents) | 19,651 | ▲ +10 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simula… [↗](https://ossaihub.com/tool/unity-technologies-ml-agents) |
-| [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 16,237 | ▲ +316 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. [↗](https://ossaihub.com/tool/owainlewis-awesome-artificial-intelligence) |
-| [MuJoCo](https://github.com/google-deepmind/mujoco) | 14,746 | ▲ +127 | Industry-standard physics engine for fast, accurate contact-rich robot simulation. [↗](https://ossaihub.com/tool/mujoco) |
-| [PyBullet](https://github.com/bulletphysics/bullet3) | 14,703 | ▲ +20 | Lightweight, Python-friendly physics simulator widely used for RL robotics prototyping. [↗](https://ossaihub.com/tool/pybullet) |
-| [Gymnasium](https://github.com/farama-foundation/gymnasium) | 12,421 | ▲ +60 | The standard API for reinforcement learning environments — formerly OpenAI Gym, now maintained by Farama Foun… [↗](https://ossaihub.com/tool/gymnasium) |
-| [NVIDIA Cosmos](https://github.com/nvidia/cosmos) | 11,664 | ▲ +93 | NVIDIA's 2026 foundation world-model simulator for massively scalable embodied AI training and sim-to-real tr… [↗](https://ossaihub.com/tool/nvidia-cosmos-rl) |
-| [ART](https://github.com/openpipe/art) | 10,674 | ▲ +67 | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the… [↗](https://ossaihub.com/tool/openpipe-art) |
-| [cleanrl](https://github.com/vwxyzjn/cleanrl) | 10,332 | ▲ +32 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly feat… [↗](https://ossaihub.com/tool/vwxyzjn-cleanrl) |
+| [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50,768 | ▲ +3,204 | Learn it. Build it. Ship it for others. [↗](https://ossaihub.com/tool/rohitg00-ai-engineering-from-scratch) |
+| [Genesis](https://github.com/genesis-embodied-ai/genesis) | 29,825 | ▲ +35 | High-performance physics simulator with legged robot support and cross-sim unification for RL benchmarking. [↗](https://ossaihub.com/tool/genesis) |
+| [ml-agents](https://github.com/unity-technologies/ml-agents) | 19,653 | ▲ +8 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simula… [↗](https://ossaihub.com/tool/unity-technologies-ml-agents) |
+| [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 16,242 | ▲ +268 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. [↗](https://ossaihub.com/tool/owainlewis-awesome-artificial-intelligence) |
+| [MuJoCo](https://github.com/google-deepmind/mujoco) | 14,763 | ▲ +137 | Industry-standard physics engine for fast, accurate contact-rich robot simulation. [↗](https://ossaihub.com/tool/mujoco) |
+| [PyBullet](https://github.com/bulletphysics/bullet3) | 14,703 | ▲ +18 | Lightweight, Python-friendly physics simulator widely used for RL robotics prototyping. [↗](https://ossaihub.com/tool/pybullet) |
+| [Gymnasium](https://github.com/farama-foundation/gymnasium) | 12,428 | ▲ +63 | The standard API for reinforcement learning environments — formerly OpenAI Gym, now maintained by Farama Foun… [↗](https://ossaihub.com/tool/gymnasium) |
+| [NVIDIA Cosmos](https://github.com/nvidia/cosmos) | 11,668 | ▲ +84 | NVIDIA's 2026 foundation world-model simulator for massively scalable embodied AI training and sim-to-real tr… [↗](https://ossaihub.com/tool/nvidia-cosmos-rl) |
+| [ART](https://github.com/openpipe/art) | 10,679 | ▲ +57 | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the… [↗](https://ossaihub.com/tool/openpipe-art) |
+| [cleanrl](https://github.com/vwxyzjn/cleanrl) | 10,337 | ▲ +34 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly feat… [↗](https://ossaihub.com/tool/vwxyzjn-cleanrl) |
 | [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) | 8,916 | ▲ +5 | A collection of machine learning examples and tutorials. [↗](https://ossaihub.com/tool/lazyprogrammer-machine-learning-examples) |
 | [vowpal_wabbit](https://github.com/vowpalwabbit/vowpal_wabbit) | 8,706 | ▲ +1 | Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such… [↗](https://ossaihub.com/tool/vowpalwabbit-vowpal-wabbit) |
-| [Isaac Lab](https://github.com/isaac-sim/isaaclab) | 7,988 | ▲ +63 | Unified GPU-accelerated framework for scalable robot learning and sim-to-real transfer built on NVIDIA Isaac… [↗](https://ossaihub.com/tool/isaac-lab) |
-| [Practical_RL](https://github.com/yandexdataschool/practical_rl) | 6,565 | ▲ +7 | Open-source RL course with hands-on assignments covering value-based, policy-based, and model-based methods. [↗](https://ossaihub.com/tool/yandexdataschool-practical-rl) |
-| [Mooncake](https://github.com/kvcache-ai/mooncake) | 6,426 | ▲ +96 | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. [↗](https://ossaihub.com/tool/kvcache-ai-mooncake) |
-| [PufferLib](https://github.com/pufferai/pufferlib) | 6,308 | ▲ +16 | Puffing up reinforcement learning [↗](https://ossaihub.com/tool/pufferai-pufferlib) |
-| [VLM-R1](https://github.com/om-ai-lab/vlm-r1) | 6,016 | ▲ +2 | Solve Visual Understanding with Reinforced VLMs [↗](https://ossaihub.com/tool/om-ai-lab-vlm-r1) |
-| [rllm](https://github.com/rllm-org/rllm) | 5,805 | ▲ +13 | Democratizing Reinforcement Learning for LLMs [↗](https://ossaihub.com/tool/rllm-org-rllm) |
-| [AReaL](https://github.com/inclusionai/areal) | 5,700 | ▲ +17 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. [↗](https://ossaihub.com/tool/inclusionai-areal) |
-| [AReaL](https://github.com/areal-project/areal) | 5,700 | ▲ +17 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. [↗](https://ossaihub.com/tool/areal-project-areal) |
+| [Isaac Lab](https://github.com/isaac-sim/isaaclab) | 7,991 | ▲ +60 | Unified GPU-accelerated framework for scalable robot learning and sim-to-real transfer built on NVIDIA Isaac… [↗](https://ossaihub.com/tool/isaac-lab) |
+| [Practical_RL](https://github.com/yandexdataschool/practical_rl) | 6,566 | ▲ +8 | Open-source RL course with hands-on assignments covering value-based, policy-based, and model-based methods. [↗](https://ossaihub.com/tool/yandexdataschool-practical-rl) |
+| [Mooncake](https://github.com/kvcache-ai/mooncake) | 6,430 | ▲ +90 | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. [↗](https://ossaihub.com/tool/kvcache-ai-mooncake) |
+| [PufferLib](https://github.com/pufferai/pufferlib) | 6,313 | ▲ +20 | Puffing up reinforcement learning [↗](https://ossaihub.com/tool/pufferai-pufferlib) |
+| [VLM-R1](https://github.com/om-ai-lab/vlm-r1) | 6,014 | ▲ +0 | Solve Visual Understanding with Reinforced VLMs [↗](https://ossaihub.com/tool/om-ai-lab-vlm-r1) |
+| [rllm](https://github.com/rllm-org/rllm) | 5,808 | ▲ +14 | Democratizing Reinforcement Learning for LLMs [↗](https://ossaihub.com/tool/rllm-org-rllm) |
+| [AReaL](https://github.com/inclusionai/areal) | 5,702 | ▲ +18 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. [↗](https://ossaihub.com/tool/inclusionai-areal) |
+| [AReaL](https://github.com/areal-project/areal) | 5,702 | ▲ +18 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. [↗](https://ossaihub.com/tool/areal-project-areal) |
 
 ## LLM Evaluation Benchmarks
 
@@ -532,26 +532,26 @@ Top 20 of [61 tracked LLM Evaluation Benchmarks tools](https://ossaihub.com/cate
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Vicuna](https://github.com/lm-sys/fastchat) | 39,526 | ▲ +11 | LMSYS' fine-tuned LLaMA model achieving ChatGPT-like performance via instruction-following data synthesis [↗](https://ossaihub.com/tool/vicuna) |
-| [Langfuse](https://github.com/langfuse/langfuse) | 33,860 | ▲ +364 | Self-hosted LLM observability platform — tracing prompts, completions, costs, latency, and custom evaluations… [↗](https://ossaihub.com/tool/langfuse-langfuse) |
-| [Promptfoo](https://github.com/promptfoo/promptfoo) | 24,641 | ▲ +222 | Leading tool for testing, evaluating, and red-teaming LLM prompts at scale with CI/CD integration [↗](https://ossaihub.com/tool/promptfoo) |
-| [Opik](https://github.com/comet-ml/opik) | 21,654 | ▲ +148 | End-to-end LLM evaluation & tracing platform with prompt experimentation [↗](https://ossaihub.com/tool/opik) |
-| [evals](https://github.com/openai/evals) | 19,293 | ▲ +81 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. [↗](https://ossaihub.com/tool/openai-evals) |
-| [DeepEval](https://github.com/confident-ai/deepeval) | 17,935 | ▲ +189 | Developer-favorite LLM evaluation framework with 20+ production-grade metrics, synthetic test data, CI/CD int… [↗](https://ossaihub.com/tool/deepeval) |
-| [ragas](https://github.com/vibrantlabsai/ragas) | 15,518 | ▲ +113 | Leading RAG evaluation toolkit with LLM-as-judge, hallucination detection, faithfulness metrics, test generat… [↗](https://ossaihub.com/tool/ragas) |
-| [Ragas](https://github.com/explodinggradients/ragas) | 15,518 | ▲ +113 | Open-source evaluation framework for RAG pipelines and LLM apps [↗](https://ossaihub.com/tool/ragas-explodinggradients) |
-| [RAGAS](https://github.com/explodinggradients/ragas) | 15,518 | ▲ +113 | Open-source evaluation framework for RAG pipelines and LLM apps [↗](https://ossaihub.com/tool/ragas-explodinggradients-2) |
-| [lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness) | 13,819 | ▲ +88 | A framework for few-shot evaluation of language models. [↗](https://ossaihub.com/tool/eleutherai-lm-evaluation-harness) |
-| [Phoenix](https://github.com/arize-ai/phoenix) | 11,225 | ▲ +93 | Arize's open-source LLM observability platform; visualize traces, embeddings, hallucinations, retrieval quali… [↗](https://ossaihub.com/tool/phoenix) |
-| [garak](https://github.com/nvidia/garak) | 9,058 | ▲ +180 | the LLM vulnerability scanner [↗](https://ossaihub.com/tool/nvidia-garak) |
-| [opencompass](https://github.com/open-compass/opencompass) | 7,373 | ▲ +51 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-… [↗](https://ossaihub.com/tool/open-compass-opencompass) |
-| [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6,405 | ▲ +21 | ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括359个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-… [↗](https://ossaihub.com/tool/jeinlee1991-chinese-llm-benchmark) |
-| [Helicone](https://github.com/helicone/helicone) | 6,107 | ▲ +16 | Open-source observability platform for LLM applications with caching, cost tracking, and performance monitori… [↗](https://ossaihub.com/tool/helicone-helicone-2) |
-| [AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) | 6,031 | ▲ +986 | A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Sc… [↗](https://ossaihub.com/tool/tencent-ai-infra-guard) |
-| [AgentOps](https://github.com/agentops-ai/agentops) | 5,803 | ▲ +14 | Production-grade observability, monitoring, and debugging for LLM agents — tracing every tool call, step, cos… [↗](https://ossaihub.com/tool/agentops) |
-| [SWE-bench](https://github.com/swe-bench/swe-bench) | 5,730 | ▲ +55 | SWE-bench: Can Language Models Resolve Real-world Github Issues? [↗](https://ossaihub.com/tool/swe-bench-swe-bench) |
-| [LLM-Engineers-Handbook](https://github.com/packtpublishing/llm-engineers-handbook) | 5,301 | ▲ +15 | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps b… [↗](https://ossaihub.com/tool/packtpublishing-llm-engineers-handbook) |
-| [AutoRAG](https://github.com/marker-inc-korea/autorag) | 5,056 | ▲ +5 | AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with Aut… [↗](https://ossaihub.com/tool/marker-inc-korea-autorag) |
+| [Vicuna](https://github.com/lm-sys/fastchat) | 39,526 | ▲ +10 | LMSYS' fine-tuned LLaMA model achieving ChatGPT-like performance via instruction-following data synthesis [↗](https://ossaihub.com/tool/vicuna) |
+| [Langfuse](https://github.com/langfuse/langfuse) | 33,890 | ▲ +354 | Self-hosted LLM observability platform — tracing prompts, completions, costs, latency, and custom evaluations… [↗](https://ossaihub.com/tool/langfuse-langfuse) |
+| [Promptfoo](https://github.com/promptfoo/promptfoo) | 24,655 | ▲ +206 | Leading tool for testing, evaluating, and red-teaming LLM prompts at scale with CI/CD integration [↗](https://ossaihub.com/tool/promptfoo) |
+| [Opik](https://github.com/comet-ml/opik) | 21,662 | ▲ +137 | End-to-end LLM evaluation & tracing platform with prompt experimentation [↗](https://ossaihub.com/tool/opik) |
+| [evals](https://github.com/openai/evals) | 19,303 | ▲ +86 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. [↗](https://ossaihub.com/tool/openai-evals) |
+| [DeepEval](https://github.com/confident-ai/deepeval) | 17,945 | ▲ +176 | Developer-favorite LLM evaluation framework with 20+ production-grade metrics, synthetic test data, CI/CD int… [↗](https://ossaihub.com/tool/deepeval) |
+| [ragas](https://github.com/vibrantlabsai/ragas) | 15,527 | ▲ +109 | Leading RAG evaluation toolkit with LLM-as-judge, hallucination detection, faithfulness metrics, test generat… [↗](https://ossaihub.com/tool/ragas) |
+| [Ragas](https://github.com/explodinggradients/ragas) | 15,527 | ▲ +109 | Open-source evaluation framework for RAG pipelines and LLM apps [↗](https://ossaihub.com/tool/ragas-explodinggradients) |
+| [RAGAS](https://github.com/explodinggradients/ragas) | 15,527 | ▲ +109 | Open-source evaluation framework for RAG pipelines and LLM apps [↗](https://ossaihub.com/tool/ragas-explodinggradients-2) |
+| [lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness) | 13,825 | ▲ +87 | A framework for few-shot evaluation of language models. [↗](https://ossaihub.com/tool/eleutherai-lm-evaluation-harness) |
+| [Phoenix](https://github.com/arize-ai/phoenix) | 11,236 | ▲ +95 | Arize's open-source LLM observability platform; visualize traces, embeddings, hallucinations, retrieval quali… [↗](https://ossaihub.com/tool/phoenix) |
+| [garak](https://github.com/nvidia/garak) | 9,069 | ▲ +179 | the LLM vulnerability scanner [↗](https://ossaihub.com/tool/nvidia-garak) |
+| [opencompass](https://github.com/open-compass/opencompass) | 7,374 | ▲ +48 | OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-… [↗](https://ossaihub.com/tool/open-compass-opencompass) |
+| [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6,408 | ▲ +19 | ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括359个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-… [↗](https://ossaihub.com/tool/jeinlee1991-chinese-llm-benchmark) |
+| [Helicone](https://github.com/helicone/helicone) | 6,111 | ▲ +18 | Open-source observability platform for LLM applications with caching, cost tracking, and performance monitori… [↗](https://ossaihub.com/tool/helicone-helicone-2) |
+| [AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) | 6,042 | ▲ +697 | A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Sc… [↗](https://ossaihub.com/tool/tencent-ai-infra-guard) |
+| [AgentOps](https://github.com/agentops-ai/agentops) | 5,804 | ▲ +15 | Production-grade observability, monitoring, and debugging for LLM agents — tracing every tool call, step, cos… [↗](https://ossaihub.com/tool/agentops) |
+| [SWE-bench](https://github.com/swe-bench/swe-bench) | 5,734 | ▲ +54 | SWE-bench: Can Language Models Resolve Real-world Github Issues? [↗](https://ossaihub.com/tool/swe-bench-swe-bench) |
+| [LLM-Engineers-Handbook](https://github.com/packtpublishing/llm-engineers-handbook) | 5,302 | ▲ +14 | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps b… [↗](https://ossaihub.com/tool/packtpublishing-llm-engineers-handbook) |
+| [AutoRAG](https://github.com/marker-inc-korea/autorag) | 5,057 | ▲ +7 | AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with Aut… [↗](https://ossaihub.com/tool/marker-inc-korea-autorag) |
 
 ## Ethics Safety
 
@@ -559,26 +559,26 @@ Top 20 of [53 tracked Ethics Safety tools](https://ossaihub.com/categories/ethic
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) | 47,193 | ▲ +126 | LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SY… [↗](https://ossaihub.com/tool/elder-plinius-cl4r1t4s) |
-| [SHAP](https://github.com/shap/shap) | 25,708 | ▲ +15 | SHapley Additive exPlanations—a game-theoretic approach to explain machine learning model predictions using S… [↗](https://ossaihub.com/tool/shap) |
-| [L1B3RT4S](https://github.com/elder-plinius/l1b3rt4s) | 21,220 | ▲ +195 | TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*CLEAR YOU… [↗](https://ossaihub.com/tool/elder-plinius-l1b3rt4s) |
-| [Llama Guard](https://github.com/meta-llama/llama-recipes) | 18,559 | ▲ +1 | Open safety classifiers for content moderation and harm detection built on Llama. [↗](https://ossaihub.com/tool/llama-guard) |
-| [parlant](https://github.com/emcie-co/parlant) | 18,269 | ▲ +13 | The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent… [↗](https://ossaihub.com/tool/emcie-co-parlant) |
-| [dirsearch](https://github.com/maurosoria/dirsearch) | 14,668 | ▲ +19 | Web path scanner [↗](https://ossaihub.com/tool/maurosoria-dirsearch) |
-| [LIME](https://github.com/marcotcr/lime) | 12,163 | ▼ -2 | Local Interpretable Model-Agnostic Explanations—explaining predictions of any black-box classifier by approxi… [↗](https://ossaihub.com/tool/lime) |
-| [sliver](https://github.com/bishopfox/sliver) | 11,739 | ▲ +34 | Adversary Emulation Framework [↗](https://ossaihub.com/tool/bishopfox-sliver) |
-| [Phoenix Safety Views](https://github.com/arize-ai/phoenix) | 11,225 | ▲ +93 | Arize's open-source LLM observability platform; visualize traces, embeddings, hallucinations, retrieval quali… [↗](https://ossaihub.com/tool/phoenix-safety) |
-| [presidio](https://github.com/microsoft/presidio) | 10,667 | ▲ +92 | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text,… [↗](https://ossaihub.com/tool/microsoft-presidio) |
-| [Garak](https://github.com/leondz/garak) | 9,058 | ▲ +180 | NVIDIA's comprehensive LLM vulnerability scanner with 20,000+ automated attacks across 100+ vectors [↗](https://ossaihub.com/tool/garak) |
-| [Guardrails AI](https://github.com/guardrails-ai/guardrails) | 7,331 | ▲ +28 | Framework for adding safety guardrails to LLM applications [↗](https://ossaihub.com/tool/guardrails-guardrails-ai) |
-| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | 7,025 | ▲ +36 | NVIDIA's conversational guardrails with structured dialogue and safety controls [↗](https://ossaihub.com/tool/nemo-guardrails-nvidia) |
-| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | 6,209 | ▲ +22 | IBM's toolkit with LLM-specific adversarial attacks, defenses, and evaluation suites [↗](https://ossaihub.com/tool/adversarial-robustness-toolbox) |
-| [agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6,141 | ▲ +69 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability… [↗](https://ossaihub.com/tool/microsoft-agent-governance-toolkit) |
-| [Captum](https://github.com/meta-pytorch/captum) | 5,694 | ▲ +7 | PyTorch model interpretability framework providing feature attribution methods to understand and debug neural… [↗](https://ossaihub.com/tool/captum) |
-| [afrog](https://github.com/zan8in/afrog) | 4,372 | ▲ +4 | A Security Tool for Bug Bounty, Pentest and Red Teaming. [↗](https://ossaihub.com/tool/zan8in-afrog) |
+| [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) | 47,197 | ▲ +107 | LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SY… [↗](https://ossaihub.com/tool/elder-plinius-cl4r1t4s) |
+| [SHAP](https://github.com/shap/shap) | 25,709 | ▲ +14 | SHapley Additive exPlanations—a game-theoretic approach to explain machine learning model predictions using S… [↗](https://ossaihub.com/tool/shap) |
+| [L1B3RT4S](https://github.com/elder-plinius/l1b3rt4s) | 21,227 | ▲ +190 | TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*CLEAR YOU… [↗](https://ossaihub.com/tool/elder-plinius-l1b3rt4s) |
+| [Llama Guard](https://github.com/meta-llama/llama-recipes) | 18,559 | ▼ -2 | Open safety classifiers for content moderation and harm detection built on Llama. [↗](https://ossaihub.com/tool/llama-guard) |
+| [parlant](https://github.com/emcie-co/parlant) | 18,270 | ▲ +11 | The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent… [↗](https://ossaihub.com/tool/emcie-co-parlant) |
+| [dirsearch](https://github.com/maurosoria/dirsearch) | 14,670 | ▲ +16 | Web path scanner [↗](https://ossaihub.com/tool/maurosoria-dirsearch) |
+| [LIME](https://github.com/marcotcr/lime) | 12,164 | ▼ -1 | Local Interpretable Model-Agnostic Explanations—explaining predictions of any black-box classifier by approxi… [↗](https://ossaihub.com/tool/lime) |
+| [sliver](https://github.com/bishopfox/sliver) | 11,744 | ▲ +31 | Adversary Emulation Framework [↗](https://ossaihub.com/tool/bishopfox-sliver) |
+| [Phoenix Safety Views](https://github.com/arize-ai/phoenix) | 11,236 | ▲ +95 | Arize's open-source LLM observability platform; visualize traces, embeddings, hallucinations, retrieval quali… [↗](https://ossaihub.com/tool/phoenix-safety) |
+| [presidio](https://github.com/microsoft/presidio) | 10,673 | ▲ +93 | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text,… [↗](https://ossaihub.com/tool/microsoft-presidio) |
+| [Garak](https://github.com/leondz/garak) | 9,069 | ▲ +179 | NVIDIA's comprehensive LLM vulnerability scanner with 20,000+ automated attacks across 100+ vectors [↗](https://ossaihub.com/tool/garak) |
+| [Guardrails AI](https://github.com/guardrails-ai/guardrails) | 7,334 | ▲ +24 | Framework for adding safety guardrails to LLM applications [↗](https://ossaihub.com/tool/guardrails-guardrails-ai) |
+| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | 7,028 | ▲ +34 | NVIDIA's conversational guardrails with structured dialogue and safety controls [↗](https://ossaihub.com/tool/nemo-guardrails-nvidia) |
+| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | 6,209 | ▲ +19 | IBM's toolkit with LLM-specific adversarial attacks, defenses, and evaluation suites [↗](https://ossaihub.com/tool/adversarial-robustness-toolbox) |
+| [agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6,145 | ▲ +67 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability… [↗](https://ossaihub.com/tool/microsoft-agent-governance-toolkit) |
+| [Captum](https://github.com/meta-pytorch/captum) | 5,695 | ▲ +6 | PyTorch model interpretability framework providing feature attribution methods to understand and debug neural… [↗](https://ossaihub.com/tool/captum) |
+| [afrog](https://github.com/zan8in/afrog) | 4,372 | ▲ +2 | A Security Tool for Bug Bounty, Pentest and Red Teaming. [↗](https://ossaihub.com/tool/zan8in-afrog) |
 | [JailbreakBench](https://github.com/verazuo/jailbreak_llms) | 3,794 | ▲ +5 | Standardized benchmark for evaluating LLM jailbreak resistance with 100+ curated attack prompts and success-r… [↗](https://ossaihub.com/tool/jailbreakbench) |
-| [blackarch](https://github.com/blackarch/blackarch) | 3,473 | ▲ +8 | An ArchLinux based distribution for penetration testers and security researchers. [↗](https://ossaihub.com/tool/blackarch-blackarch) |
-| [TextAttack](https://github.com/qdata/textattack) | 3,472 | ▲ +4 | Leading framework for adversarial attacks, robustness testing, and data augmentation in NLP with 50+ attack r… [↗](https://ossaihub.com/tool/textattack-qdata) |
+| [blackarch](https://github.com/blackarch/blackarch) | 3,474 | ▲ +8 | An ArchLinux based distribution for penetration testers and security researchers. [↗](https://ossaihub.com/tool/blackarch-blackarch) |
+| [TextAttack](https://github.com/qdata/textattack) | 3,473 | ▲ +5 | Leading framework for adversarial attacks, robustness testing, and data augmentation in NLP with 50+ attack r… [↗](https://ossaihub.com/tool/textattack-qdata) |
 
 ## Synthetic Data Generation
 
@@ -586,26 +586,26 @@ Top 20 of [51 tracked Synthetic Data Generation tools](https://ossaihub.com/cate
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,246 | ▲ +4 | Code and documentation to train Stanford's Alpaca models, and generate the data. [↗](https://ossaihub.com/tool/tatsu-lab-stanford-alpaca) |
+| [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,246 | ▲ +1 | Code and documentation to train Stanford's Alpaca models, and generate the data. [↗](https://ossaihub.com/tool/tatsu-lab-stanford-alpaca) |
 | [WizardLM 2](https://github.com/nlpxucan/wizardlm) | 9,482 | ▲ +0 | Microsoft's instruction-following LLM using Evol-Instruct for superior complex task performance [↗](https://ossaihub.com/tool/wizardlm-2) |
-| [DataFlow](https://github.com/opendcai/dataflow) | 7,792 | ▲ +172 | Easy Data Preparation with latest LLMs-based Operators and Pipelines. [↗](https://ossaihub.com/tool/opendcai-dataflow) |
-| [data-juicer](https://github.com/datajuicer/data-juicer) | 6,947 | ▲ +28 | Data processing for and with foundation models! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷 [↗](https://ossaihub.com/tool/datajuicer-data-juicer) |
+| [DataFlow](https://github.com/opendcai/dataflow) | 7,817 | ▲ +156 | Easy Data Preparation with latest LLMs-based Operators and Pipelines. [↗](https://ossaihub.com/tool/opendcai-dataflow) |
+| [data-juicer](https://github.com/datajuicer/data-juicer) | 6,948 | ▲ +27 | Data processing for and with foundation models! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷 [↗](https://ossaihub.com/tool/datajuicer-data-juicer) |
 | [snorkel](https://github.com/snorkel-team/snorkel) | 6,003 | ▲ +4 | A system for quickly generating training data with weak supervision [↗](https://ossaihub.com/tool/snorkel-team-snorkel) |
-| [Kiln](https://github.com/kiln-ai/kiln) | 5,037 | ▲ +8 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation… [↗](https://ossaihub.com/tool/kiln-ai-kiln) |
+| [Kiln](https://github.com/kiln-ai/kiln) | 5,037 | ▲ +7 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation… [↗](https://ossaihub.com/tool/kiln-ai-kiln) |
 | [self-instruct](https://github.com/yizhongw/self-instruct) | 4,609 | ▼ -1 | Aligning pretrained language models with instruction data generated by themselves. [↗](https://ossaihub.com/tool/yizhongw-self-instruct) |
-| [open-instruct](https://github.com/allenai/open-instruct) | 3,852 | ▲ +15 | Framework for instruction-tuning and post-training language models with SFT, DPO, and RLVR techniques. [↗](https://ossaihub.com/tool/allenai-open-instruct) |
-| [BlenderProc](https://github.com/dlr-rm/blenderproc) | 3,688 | ▲ +10 | Procedural Blender pipeline for generating photorealistic synthetic training data at scale. [↗](https://ossaihub.com/tool/dlr-rm-blenderproc) |
-| [SDV](https://github.com/sdv-dev/sdv) | 3,551 | ▲ +4 | Synthetic data generation for tabular data [↗](https://ossaihub.com/tool/sdv-dev-sdv) |
-| [Distilabel](https://github.com/argilla-io/distilabel) | 3,381 | ▲ +6 | Build synthetic datasets and preference data for post-training (SFT, DPO) with modular pipelines and integrat… [↗](https://ossaihub.com/tool/distilabel) |
-| [pgmpy](https://github.com/pgmpy/pgmpy) | 3,319 | ▲ +4 | Python Toolkit for Causal and Probabilistic Reasoning [↗](https://ossaihub.com/tool/pgmpy-pgmpy) |
-| [synthea](https://github.com/synthetichealth/synthea) | 3,318 | ▲ +16 | Generates synthetic patient populations with realistic medical records in FHIR, C-CDA, and CSV formats. [↗](https://ossaihub.com/tool/synthetichealth-synthea) |
+| [open-instruct](https://github.com/allenai/open-instruct) | 3,853 | ▲ +15 | Framework for instruction-tuning and post-training language models with SFT, DPO, and RLVR techniques. [↗](https://ossaihub.com/tool/allenai-open-instruct) |
+| [BlenderProc](https://github.com/dlr-rm/blenderproc) | 3,688 | ▲ +8 | Procedural Blender pipeline for generating photorealistic synthetic training data at scale. [↗](https://ossaihub.com/tool/dlr-rm-blenderproc) |
+| [SDV](https://github.com/sdv-dev/sdv) | 3,551 | ▲ +3 | Synthetic data generation for tabular data [↗](https://ossaihub.com/tool/sdv-dev-sdv) |
+| [Distilabel](https://github.com/argilla-io/distilabel) | 3,381 | ▲ +5 | Build synthetic datasets and preference data for post-training (SFT, DPO) with modular pipelines and integrat… [↗](https://ossaihub.com/tool/distilabel) |
+| [pgmpy](https://github.com/pgmpy/pgmpy) | 3,321 | ▲ +5 | Python Toolkit for Causal and Probabilistic Reasoning [↗](https://ossaihub.com/tool/pgmpy-pgmpy) |
+| [synthea](https://github.com/synthetichealth/synthea) | 3,318 | ▲ +14 | Generates synthetic patient populations with realistic medical records in FHIR, C-CDA, and CSV formats. [↗](https://ossaihub.com/tool/synthetichealth-synthea) |
 | [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) | 2,435 | ▲ +1 | SDG is a specialized framework designed to generate high-quality structured tabular data. [↗](https://ossaihub.com/tool/hitsz-ids-synthetic-data-generator) |
-| [DataDesigner](https://github.com/nvidia-nemo/datadesigner) | 2,190 | ▲ +21 | 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data. [↗](https://ossaihub.com/tool/nvidia-nemo-datadesigner) |
-| [NeMo Curator](https://github.com/NVIDIA/NeMo-Curator) | 1,739 | ▲ +14 | NVIDIA's toolkit for cleaning datasets with bias/toxicity detectors and PII redaction [↗](https://ossaihub.com/tool/nemo-curator) |
-| [curator](https://github.com/bespokelabsai/curator) | 1,720 | ▲ +2 | Bulk inference and scalable data curation framework for generating and processing synthetic training data wit… [↗](https://ossaihub.com/tool/bespokelabsai-curator) |
+| [DataDesigner](https://github.com/nvidia-nemo/datadesigner) | 2,190 | ▲ +18 | 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data. [↗](https://ossaihub.com/tool/nvidia-nemo-datadesigner) |
+| [NeMo Curator](https://github.com/NVIDIA/NeMo-Curator) | 1,740 | ▲ +12 | NVIDIA's toolkit for cleaning datasets with bias/toxicity detectors and PII redaction [↗](https://ossaihub.com/tool/nemo-curator) |
+| [curator](https://github.com/bespokelabsai/curator) | 1,720 | ▲ +3 | Bulk inference and scalable data curation framework for generating and processing synthetic training data wit… [↗](https://ossaihub.com/tool/bespokelabsai-curator) |
 | [ydata-synthetic](https://github.com/Data-Centric-AI-Community/ydata-synthetic) | 1,654 | ▲ +1 | Synthetic data generators for tabular and time-series data [↗](https://ossaihub.com/tool/data-centric-ai-community-ydata-synthetic) |
-| [aisheets](https://github.com/huggingface/aisheets) | 1,642 | ▲ +3 | No-code AI-powered spreadsheet tool to build, enrich, and transform datasets using open-source models from Hu… [↗](https://ossaihub.com/tool/huggingface-aisheets) |
-| [CTGAN](https://github.com/sdv-dev/ctgan) | 1,562 | ▲ +3 | Deep learning GAN model for generating high-fidelity synthetic tabular data from real datasets. [↗](https://ossaihub.com/tool/sdv-dev-ctgan) |
+| [aisheets](https://github.com/huggingface/aisheets) | 1,642 | ▲ +2 | No-code AI-powered spreadsheet tool to build, enrich, and transform datasets using open-source models from Hu… [↗](https://ossaihub.com/tool/huggingface-aisheets) |
+| [CTGAN](https://github.com/sdv-dev/ctgan) | 1,562 | ▲ +2 | Deep learning GAN model for generating high-fidelity synthetic tabular data from real datasets. [↗](https://ossaihub.com/tool/sdv-dev-ctgan) |
 
 ## RAG Knowledge Graphs
 
@@ -613,25 +613,25 @@ Top 20 of [49 tracked RAG Knowledge Graphs tools](https://ossaihub.com/categorie
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Graphify](https://github.com/safishamsi/graphify) | 111,869 | ▲ +3,123 | Turns your files into a visual knowledge graph so AI assistants (Claude, Cursor, etc.) can understand your co… [↗](https://ossaihub.com/tool/graphify) |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 89,504 | ▲ +555 | Open-source RAG engine combining retrieval-augmented generation with agentic workflows for enterprise-scale A… [↗](https://ossaihub.com/tool/ragflow) |
-| [Understand-Anything](https://github.com/lum1104/understand-anything) | 80,850 | ▲ +896 | Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an intera… [↗](https://ossaihub.com/tool/lum1104-understand-anything) |
-| [Understand-Anything](https://github.com/egonex-ai/understand-anything) | 80,850 | ▲ +896 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, s… [↗](https://ossaihub.com/tool/egonex-ai-understand-anything) |
-| [AnythingLLM](https://github.com/mintplex-labs/anything-llm) | 65,334 | ▲ +345 | Turn documents/PDFs/web into private RAG-powered chat with any LLM; multi-user, workspaces, agents, no-code. [↗](https://ossaihub.com/tool/anythingllm) |
-| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 64,200 | ▲ +672 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US… [↗](https://ossaihub.com/tool/zhulinsen-daily-stock-analysis) |
-| [logseq](https://github.com/logseq/logseq) | 44,664 | ▲ +127 | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://githu… [↗](https://ossaihub.com/tool/logseq-logseq) |
-| [LightRAG](https://github.com/HKUDS/LightRAG) | 39,248 | ▲ +213 | Simple, fast graph-based RAG with dual-level retrieval (local + global) and incremental updates. [↗](https://ossaihub.com/tool/lightrag) |
-| [Trilium](https://github.com/TriliumNext/Trilium) | 37,622 | ▲ +96 | Free, open-source hierarchical note-taking app for building large personal knowledge bases with rich features. [↗](https://ossaihub.com/tool/triliumnext-trilium) |
-| [khoj](https://github.com/khoj-ai/khoj) | 36,751 | ▲ +142 | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule aut… [↗](https://ossaihub.com/tool/khoj-ai-khoj) |
-| [GraphRAG](https://github.com/microsoft/graphrag) | 35,716 | ▲ +118 | Microsoft's modular graph-based RAG: builds entity + community knowledge graphs from raw text for hierarchica… [↗](https://ossaihub.com/tool/graphrag) |
-| [happy-llm](https://github.com/datawhalechina/happy-llm) | 33,323 | ▲ +218 | Comprehensive free Chinese tutorial for learning and building large language models from scratch. [↗](https://ossaihub.com/tool/datawhalechina-happy-llm) |
-| [onyx](https://github.com/onyx-dot-app/onyx) | 31,811 | ▲ +117 | Open Source AI Platform - AI Chat with advanced features that works with every LLM [↗](https://ossaihub.com/tool/onyx-dot-app-onyx) |
-| [graphiti](https://github.com/getzep/graphiti) | 30,378 | ▲ +232 | Build Real-Time Knowledge Graphs for AI Agents [↗](https://ossaihub.com/tool/getzep-graphiti) |
-| [FastGPT](https://github.com/labring/FastGPT) | 29,492 | ▲ +81 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capab… [↗](https://ossaihub.com/tool/labring-fastgpt) |
-| [sim](https://github.com/simstudioai/sim) | 29,486 | ▲ +39 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [↗](https://ossaihub.com/tool/simstudioai-sim) |
-| [qmd](https://github.com/tobi/qmd) | 29,318 | ▲ +307 | Tobi's local-first CLI search engine — hybrid BM25 + vector + LLM reranking over your docs, notes, and knowle… [↗](https://ossaihub.com/tool/qmd) |
-| [kotaemon](https://github.com/cinnamon/kotaemon) | 25,724 | ▲ +17 | An open-source RAG-based tool for chatting with your documents. [↗](https://ossaihub.com/tool/cinnamon-kotaemon) |
-| [RAG-Anything](https://github.com/hkuds/rag-anything) | 23,094 | ▲ +87 | "RAG-Anything: All-in-One RAG Framework" [↗](https://ossaihub.com/tool/hkuds-rag-anything) |
+| [Graphify](https://github.com/safishamsi/graphify) | 112,132 | ▲ +2,836 | Turns your files into a visual knowledge graph so AI assistants (Claude, Cursor, etc.) can understand your co… [↗](https://ossaihub.com/tool/graphify) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 89,566 | ▲ +564 | Open-source RAG engine combining retrieval-augmented generation with agentic workflows for enterprise-scale A… [↗](https://ossaihub.com/tool/ragflow) |
+| [Understand-Anything](https://github.com/lum1104/understand-anything) | 80,939 | ▲ +891 | Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an intera… [↗](https://ossaihub.com/tool/lum1104-understand-anything) |
+| [Understand-Anything](https://github.com/egonex-ai/understand-anything) | 80,939 | ▲ +891 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, s… [↗](https://ossaihub.com/tool/egonex-ai-understand-anything) |
+| [AnythingLLM](https://github.com/mintplex-labs/anything-llm) | 65,354 | ▲ +322 | Turn documents/PDFs/web into private RAG-powered chat with any LLM; multi-user, workspaces, agents, no-code. [↗](https://ossaihub.com/tool/anythingllm) |
+| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 64,240 | ▲ +656 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US… [↗](https://ossaihub.com/tool/zhulinsen-daily-stock-analysis) |
+| [logseq](https://github.com/logseq/logseq) | 44,674 | ▲ +121 | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://githu… [↗](https://ossaihub.com/tool/logseq-logseq) |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | 39,259 | ▲ +185 | Simple, fast graph-based RAG with dual-level retrieval (local + global) and incremental updates. [↗](https://ossaihub.com/tool/lightrag) |
+| [Trilium](https://github.com/TriliumNext/Trilium) | 37,625 | ▲ +87 | Free, open-source hierarchical note-taking app for building large personal knowledge bases with rich features. [↗](https://ossaihub.com/tool/triliumnext-trilium) |
+| [khoj](https://github.com/khoj-ai/khoj) | 36,768 | ▲ +130 | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule aut… [↗](https://ossaihub.com/tool/khoj-ai-khoj) |
+| [GraphRAG](https://github.com/microsoft/graphrag) | 35,731 | ▲ +110 | Microsoft's modular graph-based RAG: builds entity + community knowledge graphs from raw text for hierarchica… [↗](https://ossaihub.com/tool/graphrag) |
+| [happy-llm](https://github.com/datawhalechina/happy-llm) | 33,338 | ▲ +219 | Comprehensive free Chinese tutorial for learning and building large language models from scratch. [↗](https://ossaihub.com/tool/datawhalechina-happy-llm) |
+| [onyx](https://github.com/onyx-dot-app/onyx) | 31,815 | ▲ +109 | Open Source AI Platform - AI Chat with advanced features that works with every LLM [↗](https://ossaihub.com/tool/onyx-dot-app-onyx) |
+| [graphiti](https://github.com/getzep/graphiti) | 30,393 | ▲ +212 | Build Real-Time Knowledge Graphs for AI Agents [↗](https://ossaihub.com/tool/getzep-graphiti) |
+| [FastGPT](https://github.com/labring/FastGPT) | 29,496 | ▲ +76 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capab… [↗](https://ossaihub.com/tool/labring-fastgpt) |
+| [sim](https://github.com/simstudioai/sim) | 29,488 | ▲ +37 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [↗](https://ossaihub.com/tool/simstudioai-sim) |
+| [qmd](https://github.com/tobi/qmd) | 29,338 | ▲ +284 | Tobi's local-first CLI search engine — hybrid BM25 + vector + LLM reranking over your docs, notes, and knowle… [↗](https://ossaihub.com/tool/qmd) |
+| [kotaemon](https://github.com/cinnamon/kotaemon) | 25,722 | ▲ +13 | An open-source RAG-based tool for chatting with your documents. [↗](https://ossaihub.com/tool/cinnamon-kotaemon) |
+| [RAG-Anything](https://github.com/hkuds/rag-anything) | 23,099 | ▲ +82 | "RAG-Anything: All-in-One RAG Framework" [↗](https://ossaihub.com/tool/hkuds-rag-anything) |
 | [dgraph](https://github.com/dgraph-io/dgraph) | 21,781 | ▲ +3 | high-performance graph database for real-time use cases [↗](https://ossaihub.com/tool/dgraph-io-dgraph) |
 
 ## Vector Databases Embeddings
@@ -640,25 +640,25 @@ Top 20 of [49 tracked Vector Databases Embeddings tools](https://ossaihub.com/ca
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [supabase](https://github.com/supabase/supabase) | 108,523 | ▲ +300 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile… [↗](https://ossaihub.com/tool/supabase-supabase) |
-| [meilisearch](https://github.com/meilisearch/meilisearch) | 59,113 | ▲ +79 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. [↗](https://ossaihub.com/tool/meilisearch-meilisearch) |
-| [Milvus](https://github.com/milvus-io/milvus) | 45,849 | ▲ +131 | High-performance distributed vector database for AI-powered semantic search and retrieval at scale. [↗](https://ossaihub.com/tool/milvus) |
-| [Faiss](https://github.com/facebookresearch/faiss) | 40,813 | ▲ +33 | Meta's battle-tested library for efficient similarity search and clustering of dense vectors — billion-scale… [↗](https://ossaihub.com/tool/faiss) |
-| [Qdrant](https://github.com/qdrant/qdrant) | 34,244 | ▲ +140 | Fast Rust-based vector search engine for semantic matching, similarity search, and AI applications. [↗](https://ossaihub.com/tool/qdrant) |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | 31,051 | ▲ +34 | A modern replacement for Redis and Memcached [↗](https://ossaihub.com/tool/dragonflydb-dragonfly) |
-| [Chroma](https://github.com/chroma-core/chroma) | 29,175 | ▲ +64 | Lightweight Python embedding database for fast prototyping. [↗](https://ossaihub.com/tool/chroma) |
-| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28,265 | ▲ +70 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job desc… [↗](https://ossaihub.com/tool/srbhr-resume-matcher) |
-| [typesense](https://github.com/typesense/typesense) | 26,484 | ▲ +21 | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast,… [↗](https://ossaihub.com/tool/typesense-typesense) |
-| [pgvector](https://github.com/pgvector/pgvector) | 22,799 | ▲ +111 | Postgres extension for vector similarity search — use your existing database for embeddings with IVFFlat and… [↗](https://ossaihub.com/tool/pgvector) |
-| [WeKnora](https://github.com/tencent/weknora) | 20,850 | ▲ +645 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RA… [↗](https://ossaihub.com/tool/tencent-weknora) |
-| [Weaviate](https://github.com/weaviate/weaviate) | 16,758 | ▲ +15 | AI-native vector DB with modules, hybrid search, and GraphQL API. [↗](https://ossaihub.com/tool/weaviate) |
-| [turbovec](https://github.com/ryancodrai/turbovec) | 16,488 | ▲ +496 | A vector index built on TurboQuant, written in Rust with Python bindings [↗](https://ossaihub.com/tool/ryancodrai-turbovec) |
-| [langchain4j](https://github.com/langchain4j/langchain4j) | 12,973 | ▲ +52 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It of… [↗](https://ossaihub.com/tool/langchain4j-langchain4j) |
-| [LEANN](https://github.com/yichuan-w/leann) | 12,841 | ▲ +20 | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100%… [↗](https://ossaihub.com/tool/yichuan-w-leann) |
-| [claude-context](https://github.com/zilliztech/claude-context) | 12,452 | ▲ +27 | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. [↗](https://ossaihub.com/tool/zilliztech-claude-context) |
-| [FlagEmbedding](https://github.com/flagopen/flagembedding) | 12,098 | ▲ +33 | Retrieval and Retrieval-augmented LLMs [↗](https://ossaihub.com/tool/flagopen-flagembedding) |
-| [LanceDB](https://github.com/lancedb/lancedb) | 11,301 | ▲ +82 | Developer-friendly serverless vector DB in Rust: embedded, multimodal, with zero-copy versioning over Parquet… [↗](https://ossaihub.com/tool/lancedb) |
-| [orama](https://github.com/oramasearch/orama) | 10,536 | ▲ +13 | 🌌 A complete search engine and RAG pipeline in your browser, server or edge network with support for full-te… [↗](https://ossaihub.com/tool/oramasearch-orama) |
+| [supabase](https://github.com/supabase/supabase) | 108,556 | ▲ +306 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile… [↗](https://ossaihub.com/tool/supabase-supabase) |
+| [meilisearch](https://github.com/meilisearch/meilisearch) | 59,118 | ▲ +71 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. [↗](https://ossaihub.com/tool/meilisearch-meilisearch) |
+| [Milvus](https://github.com/milvus-io/milvus) | 45,866 | ▲ +138 | High-performance distributed vector database for AI-powered semantic search and retrieval at scale. [↗](https://ossaihub.com/tool/milvus) |
+| [Faiss](https://github.com/facebookresearch/faiss) | 40,817 | ▲ +29 | Meta's battle-tested library for efficient similarity search and clustering of dense vectors — billion-scale… [↗](https://ossaihub.com/tool/faiss) |
+| [Qdrant](https://github.com/qdrant/qdrant) | 34,252 | ▲ +133 | Fast Rust-based vector search engine for semantic matching, similarity search, and AI applications. [↗](https://ossaihub.com/tool/qdrant) |
+| [dragonfly](https://github.com/dragonflydb/dragonfly) | 31,050 | ▲ +31 | A modern replacement for Redis and Memcached [↗](https://ossaihub.com/tool/dragonflydb-dragonfly) |
+| [Chroma](https://github.com/chroma-core/chroma) | 29,178 | ▲ +56 | Lightweight Python embedding database for fast prototyping. [↗](https://ossaihub.com/tool/chroma) |
+| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28,269 | ▲ +56 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job desc… [↗](https://ossaihub.com/tool/srbhr-resume-matcher) |
+| [typesense](https://github.com/typesense/typesense) | 26,488 | ▲ +15 | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast,… [↗](https://ossaihub.com/tool/typesense-typesense) |
+| [pgvector](https://github.com/pgvector/pgvector) | 22,809 | ▲ +113 | Postgres extension for vector similarity search — use your existing database for embeddings with IVFFlat and… [↗](https://ossaihub.com/tool/pgvector) |
+| [WeKnora](https://github.com/tencent/weknora) | 20,883 | ▲ +565 | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RA… [↗](https://ossaihub.com/tool/tencent-weknora) |
+| [Weaviate](https://github.com/weaviate/weaviate) | 16,759 | ▲ +14 | AI-native vector DB with modules, hybrid search, and GraphQL API. [↗](https://ossaihub.com/tool/weaviate) |
+| [turbovec](https://github.com/ryancodrai/turbovec) | 16,501 | ▲ +291 | A vector index built on TurboQuant, written in Rust with Python bindings [↗](https://ossaihub.com/tool/ryancodrai-turbovec) |
+| [langchain4j](https://github.com/langchain4j/langchain4j) | 12,973 | ▲ +49 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It of… [↗](https://ossaihub.com/tool/langchain4j-langchain4j) |
+| [LEANN](https://github.com/yichuan-w/leann) | 12,844 | ▲ +18 | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100%… [↗](https://ossaihub.com/tool/yichuan-w-leann) |
+| [claude-context](https://github.com/zilliztech/claude-context) | 12,455 | ▲ +28 | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. [↗](https://ossaihub.com/tool/zilliztech-claude-context) |
+| [FlagEmbedding](https://github.com/flagopen/flagembedding) | 12,099 | ▲ +29 | Retrieval and Retrieval-augmented LLMs [↗](https://ossaihub.com/tool/flagopen-flagembedding) |
+| [LanceDB](https://github.com/lancedb/lancedb) | 11,309 | ▲ +76 | Developer-friendly serverless vector DB in Rust: embedded, multimodal, with zero-copy versioning over Parquet… [↗](https://ossaihub.com/tool/lancedb) |
+| [orama](https://github.com/oramasearch/orama) | 10,537 | ▲ +13 | 🌌 A complete search engine and RAG pipeline in your browser, server or edge network with support for full-te… [↗](https://ossaihub.com/tool/oramasearch-orama) |
 | [oceanbase](https://github.com/oceanbase/oceanbase) | 10,257 | ▲ +5 | The Fastest Distributed Database for Transactional, Analytical, and AI Workloads. [↗](https://ossaihub.com/tool/oceanbase-oceanbase) |
 
 ## Agent Memory Systems
@@ -667,26 +667,26 @@ Top 20 of [46 tracked Agent Memory Systems tools](https://ossaihub.com/categorie
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [claude-mem](https://github.com/thedotmack/claude-mem) | 92,473 | ▲ +1,095 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compress… [↗](https://ossaihub.com/tool/thedotmack-claude-mem) |
-| [MiroFish](https://github.com/666ghj/mirofish) | 71,644 | ▲ +355 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 [↗](https://ossaihub.com/tool/666ghj-mirofish) |
-| [Mem0](https://github.com/mem0ai/mem0) | 64,258 | ▲ +533 | Intelligent long-term memory layer for AI agents with personalization and evolution. [↗](https://ossaihub.com/tool/mem0-mem0ai) |
-| [MemPalace](https://github.com/mempalace/mempalace) | 58,703 | ▲ +195 | Memory palace system for AI agents — long-term episodic memory with spatial retrieval metaphors; tackles the… [↗](https://ossaihub.com/tool/mempalace) |
-| [Cognee](https://github.com/topoteretes/cognee) | 30,315 | ▲ +157 | Knowledge graph + memory layer for structured, queryable agent understanding. [↗](https://ossaihub.com/tool/cognee) |
-| [supermemory](https://github.com/supermemoryai/supermemory) | 29,119 | ▲ +146 | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. [↗](https://ossaihub.com/tool/supermemoryai-supermemory) |
-| [TencentDB-Agent-Memory](https://github.com/tencent/tencentdb-agent-memory) | 24,999 | ▲ +1,483 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,… [↗](https://ossaihub.com/tool/tencent-tencentdb-agent-memory) |
-| [TencentDB-Agent-Memory](https://github.com/tencentcloud/tencentdb-agent-memory) | 24,999 | ▲ +1,483 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,… [↗](https://ossaihub.com/tool/tencentcloud-tencentdb-agent-memory) |
-| [Letta](https://github.com/letta-ai/letta) | 24,476 | ▲ +151 | Stateful, memory-rich LLM agents with persistent memory, self-editing, archival storage, and adaptive reasoni… [↗](https://ossaihub.com/tool/letta) |
-| [dolt](https://github.com/dolthub/dolt) | 24,286 | ▲ +52 | Git-like version control for SQL databases with branching, merging, and collaborative data workflows. [↗](https://ossaihub.com/tool/dolthub-dolt) |
-| [zvec](https://github.com/alibaba/zvec) | 15,531 | ▲ +37 | A lightweight, lightning-fast, in-process vector database [↗](https://ossaihub.com/tool/alibaba-zvec) |
-| [memU](https://github.com/nevamind-ai/memu) | 14,352 | ▲ +27 | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). [↗](https://ossaihub.com/tool/nevamind-ai-memu) |
-| [EverOS](https://github.com/evermind-ai/everos) | 12,512 | ▲ +237 | Long-term memory operating system for AI agents with structured knowledge extraction and retrieval. [↗](https://ossaihub.com/tool/evermind-ai-everos) |
-| [MemOS](https://github.com/memtensor/memos) | 11,065 | ▲ +210 | AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross… [↗](https://ossaihub.com/tool/memtensor-memos) |
-| [honcho](https://github.com/plastic-labs/honcho) | 6,905 | ▲ +155 | Memory library for building stateful agents [↗](https://ossaihub.com/tool/plastic-labs-honcho) |
-| [Zep](https://github.com/getzep/zep) | 4,871 | ▲ +16 | Fast, scalable memory store for conversational agents with summarization and fact extraction. [↗](https://ossaihub.com/tool/zep) |
-| [OpenMemory](https://github.com/caviraoss/openmemory) | 4,470 | ▲ +13 | Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravi… [↗](https://ossaihub.com/tool/caviraoss-openmemory) |
-| [HippoRAG](https://github.com/osu-nlp-group/hipporag) | 3,968 | ▲ +14 | Neurobiologically-inspired long-term memory for LLMs using personalized PageRank over a knowledge graph of en… [↗](https://ossaihub.com/tool/hipporag) |
-| [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) | 3,856 | ▲ +192 | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observabilit… [↗](https://ossaihub.com/tool/ai-boost-awesome-harness-engineering) |
-| [MIRIX](https://github.com/mirix-ai/mirix) | 3,435 | ▲ +1 | Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions in… [↗](https://ossaihub.com/tool/mirix-ai-mirix) |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 92,539 | ▲ +1,072 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compress… [↗](https://ossaihub.com/tool/thedotmack-claude-mem) |
+| [MiroFish](https://github.com/666ghj/mirofish) | 71,715 | ▲ +348 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 [↗](https://ossaihub.com/tool/666ghj-mirofish) |
+| [Mem0](https://github.com/mem0ai/mem0) | 64,299 | ▲ +519 | Intelligent long-term memory layer for AI agents with personalization and evolution. [↗](https://ossaihub.com/tool/mem0-mem0ai) |
+| [MemPalace](https://github.com/mempalace/mempalace) | 58,717 | ▲ +179 | Memory palace system for AI agents — long-term episodic memory with spatial retrieval metaphors; tackles the… [↗](https://ossaihub.com/tool/mempalace) |
+| [Cognee](https://github.com/topoteretes/cognee) | 30,332 | ▲ +157 | Knowledge graph + memory layer for structured, queryable agent understanding. [↗](https://ossaihub.com/tool/cognee) |
+| [supermemory](https://github.com/supermemoryai/supermemory) | 29,126 | ▲ +133 | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. [↗](https://ossaihub.com/tool/supermemoryai-supermemory) |
+| [TencentDB-Agent-Memory](https://github.com/tencent/tencentdb-agent-memory) | 25,097 | ▲ +1,396 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,… [↗](https://ossaihub.com/tool/tencent-tencentdb-agent-memory) |
+| [TencentDB-Agent-Memory](https://github.com/tencentcloud/tencentdb-agent-memory) | 25,097 | ▲ +1,396 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,… [↗](https://ossaihub.com/tool/tencentcloud-tencentdb-agent-memory) |
+| [Letta](https://github.com/letta-ai/letta) | 24,485 | ▲ +146 | Stateful, memory-rich LLM agents with persistent memory, self-editing, archival storage, and adaptive reasoni… [↗](https://ossaihub.com/tool/letta) |
+| [dolt](https://github.com/dolthub/dolt) | 24,295 | ▲ +52 | Git-like version control for SQL databases with branching, merging, and collaborative data workflows. [↗](https://ossaihub.com/tool/dolthub-dolt) |
+| [zvec](https://github.com/alibaba/zvec) | 15,534 | ▲ +36 | A lightweight, lightning-fast, in-process vector database [↗](https://ossaihub.com/tool/alibaba-zvec) |
+| [memU](https://github.com/nevamind-ai/memu) | 14,357 | ▲ +28 | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). [↗](https://ossaihub.com/tool/nevamind-ai-memu) |
+| [EverOS](https://github.com/evermind-ai/everos) | 12,532 | ▲ +213 | Long-term memory operating system for AI agents with structured knowledge extraction and retrieval. [↗](https://ossaihub.com/tool/evermind-ai-everos) |
+| [MemOS](https://github.com/memtensor/memos) | 11,076 | ▲ +175 | AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross… [↗](https://ossaihub.com/tool/memtensor-memos) |
+| [honcho](https://github.com/plastic-labs/honcho) | 6,913 | ▲ +147 | Memory library for building stateful agents [↗](https://ossaihub.com/tool/plastic-labs-honcho) |
+| [Zep](https://github.com/getzep/zep) | 4,875 | ▲ +18 | Fast, scalable memory store for conversational agents with summarization and fact extraction. [↗](https://ossaihub.com/tool/zep) |
+| [OpenMemory](https://github.com/caviraoss/openmemory) | 4,474 | ▲ +15 | Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravi… [↗](https://ossaihub.com/tool/caviraoss-openmemory) |
+| [HippoRAG](https://github.com/osu-nlp-group/hipporag) | 3,969 | ▲ +13 | Neurobiologically-inspired long-term memory for LLMs using personalized PageRank over a knowledge graph of en… [↗](https://ossaihub.com/tool/hipporag) |
+| [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) | 3,879 | ▲ +194 | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observabilit… [↗](https://ossaihub.com/tool/ai-boost-awesome-harness-engineering) |
+| [MIRIX](https://github.com/mirix-ai/mirix) | 3,437 | ▲ +5 | Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions in… [↗](https://ossaihub.com/tool/mirix-ai-mirix) |
 
 ## LLM Observability Tracing
 
@@ -694,26 +694,26 @@ Top 20 of [44 tracked LLM Observability Tracing tools](https://ossaihub.com/cate
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [LiteLLM](https://github.com/berriai/litellm) | 57,485 | ▲ +603 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai-3) |
-| [Langfuse](https://github.com/langfuse/langfuse) | 33,860 | ▲ +364 | Self-hosted LLM observability platform — tracing prompts, completions, costs, latency, and custom evaluations… [↗](https://ossaihub.com/tool/langfuse) |
-| [signoz](https://github.com/signoz/signoz) | 31,956 | ▲ +59 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a si… [↗](https://ossaihub.com/tool/signoz-signoz) |
-| [MLflow](https://github.com/mlflow/mlflow) | 27,709 | ▲ +111 | Open ML lifecycle platform with LLM prompt tracking & evaluation [↗](https://ossaihub.com/tool/mlflow) |
-| [llm-action](https://github.com/liguodongiot/llm-action) | 24,968 | ▲ +45 | Comprehensive LLM engineering knowledge base covering training, inference, compression, and deployment techni… [↗](https://ossaihub.com/tool/liguodongiot-llm-action) |
-| [opik](https://github.com/comet-ml/opik) | 21,654 | ▲ +148 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tra… [↗](https://ossaihub.com/tool/comet-ml-opik) |
-| [RagaAI-Catalyst](https://github.com/raga-ai-hub/ragaai-catalyst) | 16,150 | ▲ +2 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm… [↗](https://ossaihub.com/tool/raga-ai-hub-ragaai-catalyst) |
-| [Portkey](https://github.com/portkey-ai/gateway) | 12,844 | ▲ +67 | Production-grade AI gateway: 250+ LLMs unified, guardrails, caching, load balancing, PII redaction, cost cont… [↗](https://ossaihub.com/tool/portkey) |
-| [Weights & Biases](https://github.com/wandb/wandb) | 11,243 | ▲ +8 | AI developer platform for experiment tracking, hyperparameter optimization, and model management—building and… [↗](https://ossaihub.com/tool/wandb) |
-| [Evidently](https://github.com/evidentlyai/evidently) | 7,859 | ▲ +32 | Open-source ML/LLM observability for evaluating, testing, monitoring with drift detection, quality metrics, i… [↗](https://ossaihub.com/tool/evidently) |
-| [Bifrost](https://github.com/maximhq/bifrost) | 7,623 | ▲ +153 | Enterprise AI gateway from Maxim — adaptive load balancer, cluster mode, guardrails, semantic caching, and un… [↗](https://ossaihub.com/tool/bifrost) |
-| [manifest](https://github.com/mnfst/manifest) | 7,482 | ▲ +18 | Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚 [↗](https://ossaihub.com/tool/mnfst-manifest) |
-| [OpenLLMetry](https://github.com/traceloop/openllmetry) | 7,404 | ▲ +17 | OpenTelemetry-based observability SDK for LLM applications with automatic instrumentation for 30+ LLM provide… [↗](https://ossaihub.com/tool/openllmetry) |
-| [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) | 6,547 | ▲ +8 | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evalua… [↗](https://ossaihub.com/tool/googlecloudplatform-agent-starter-pack) |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 5,779 | ▲ +20 | Evaluation & testing toolkit for ML/LLM models with automatic dataset generation and bias detection [↗](https://ossaihub.com/tool/giskard) |
-| [coze-loop](https://github.com/coze-dev/coze-loop) | 5,705 | ▲ +7 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by prov… [↗](https://ossaihub.com/tool/coze-dev-coze-loop) |
+| [LiteLLM](https://github.com/berriai/litellm) | 57,520 | ▲ +549 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai-3) |
+| [Langfuse](https://github.com/langfuse/langfuse) | 33,890 | ▲ +354 | Self-hosted LLM observability platform — tracing prompts, completions, costs, latency, and custom evaluations… [↗](https://ossaihub.com/tool/langfuse) |
+| [signoz](https://github.com/signoz/signoz) | 31,959 | ▲ +51 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a si… [↗](https://ossaihub.com/tool/signoz-signoz) |
+| [MLflow](https://github.com/mlflow/mlflow) | 27,720 | ▲ +106 | Open ML lifecycle platform with LLM prompt tracking & evaluation [↗](https://ossaihub.com/tool/mlflow) |
+| [llm-action](https://github.com/liguodongiot/llm-action) | 24,971 | ▲ +43 | Comprehensive LLM engineering knowledge base covering training, inference, compression, and deployment techni… [↗](https://ossaihub.com/tool/liguodongiot-llm-action) |
+| [opik](https://github.com/comet-ml/opik) | 21,662 | ▲ +137 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tra… [↗](https://ossaihub.com/tool/comet-ml-opik) |
+| [RagaAI-Catalyst](https://github.com/raga-ai-hub/ragaai-catalyst) | 16,151 | ▲ +1 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm… [↗](https://ossaihub.com/tool/raga-ai-hub-ragaai-catalyst) |
+| [Portkey](https://github.com/portkey-ai/gateway) | 12,849 | ▲ +57 | Production-grade AI gateway: 250+ LLMs unified, guardrails, caching, load balancing, PII redaction, cost cont… [↗](https://ossaihub.com/tool/portkey) |
+| [Weights & Biases](https://github.com/wandb/wandb) | 11,245 | ▲ +9 | AI developer platform for experiment tracking, hyperparameter optimization, and model management—building and… [↗](https://ossaihub.com/tool/wandb) |
+| [Evidently](https://github.com/evidentlyai/evidently) | 7,861 | ▲ +32 | Open-source ML/LLM observability for evaluating, testing, monitoring with drift detection, quality metrics, i… [↗](https://ossaihub.com/tool/evidently) |
+| [Bifrost](https://github.com/maximhq/bifrost) | 7,637 | ▲ +150 | Enterprise AI gateway from Maxim — adaptive load balancer, cluster mode, guardrails, semantic caching, and un… [↗](https://ossaihub.com/tool/bifrost) |
+| [manifest](https://github.com/mnfst/manifest) | 7,483 | ▲ +17 | Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚 [↗](https://ossaihub.com/tool/mnfst-manifest) |
+| [OpenLLMetry](https://github.com/traceloop/openllmetry) | 7,406 | ▲ +19 | OpenTelemetry-based observability SDK for LLM applications with automatic instrumentation for 30+ LLM provide… [↗](https://ossaihub.com/tool/openllmetry) |
+| [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) | 6,548 | ▲ +9 | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evalua… [↗](https://ossaihub.com/tool/googlecloudplatform-agent-starter-pack) |
+| [Giskard](https://github.com/Giskard-AI/giskard) | 5,790 | ▲ +29 | Evaluation & testing toolkit for ML/LLM models with automatic dataset generation and bias detection [↗](https://ossaihub.com/tool/giskard) |
+| [coze-loop](https://github.com/coze-dev/coze-loop) | 5,705 | ▲ +6 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by prov… [↗](https://ossaihub.com/tool/coze-dev-coze-loop) |
 | [cube-studio](https://github.com/tencentmusic/cube-studio) | 5,075 | ▼ -2 | cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGP… [↗](https://ossaihub.com/tool/tencentmusic-cube-studio) |
-| [latitude-llm](https://github.com/latitude-dev/latitude-llm) | 4,605 | ▲ +9 | Latitude is the open-source agent engineering platform [↗](https://ossaihub.com/tool/latitude-dev-latitude-llm) |
-| [Agenta](https://github.com/agenta-ai/agenta) | 4,580 | ▲ +76 | End-to-end LLM app builder with playground, eval, and deployment — open-source focus on dev iteration. [↗](https://ossaihub.com/tool/agenta-agenta-ai) |
-| [logfire](https://github.com/pydantic/logfire) | 4,443 | ▲ +13 | AI observability platform for production LLM and agent systems. [↗](https://ossaihub.com/tool/pydantic-logfire) |
+| [Agenta](https://github.com/agenta-ai/agenta) | 4,635 | ▲ +126 | End-to-end LLM app builder with playground, eval, and deployment — open-source focus on dev iteration. [↗](https://ossaihub.com/tool/agenta-agenta-ai) |
+| [latitude-llm](https://github.com/latitude-dev/latitude-llm) | 4,606 | ▲ +10 | Latitude is the open-source agent engineering platform [↗](https://ossaihub.com/tool/latitude-dev-latitude-llm) |
+| [logfire](https://github.com/pydantic/logfire) | 4,444 | ▲ +12 | AI observability platform for production LLM and agent systems. [↗](https://ossaihub.com/tool/pydantic-logfire) |
 
 ## AI Devops Deployment
 
@@ -721,26 +721,26 @@ Top 20 of [44 tracked AI Devops Deployment tools](https://ossaihub.com/categorie
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [n8n](https://github.com/n8n-io/n8n) | 202,689 | ▲ +1,269 | Powerful workflow automation with native LLM nodes; build AI agents, RAG, integrations visually; 1000+ connec… [↗](https://ossaihub.com/tool/n8n) |
-| [AutoGPT](https://github.com/significant-gravitas/autogpt) | 186,964 | ▲ +272 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/autogpt) |
-| [Ollama](https://github.com/ollama/ollama) | 179,637 | ▲ +565 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-3) |
-| [Langflow](https://github.com/langflow-ai/langflow) | 153,793 | ▲ +272 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow-langflow-ai-2) |
-| [Dify](https://github.com/langgenius/dify) | 153,760 | ▲ +681 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify-langgenius) |
-| [Open WebUI](https://github.com/open-webui/open-webui) | 150,222 | ▲ +815 | Self-hosted ChatGPT-style interface for local/remote LLMs with RAG, voice I/O, custom personas, and OpenAI-co… [↗](https://ossaihub.com/tool/open-webui) |
-| [LangChain](https://github.com/langchain-ai/langchain) | 145,189 | ▲ +513 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai) |
-| [ComfyUI](https://github.com/comfyanonymous/comfyui) | 130,429 | ▲ +1,749 | Node-based visual workflow UI for Stable Diffusion — modular graph interface for advanced image/video generat… [↗](https://ossaihub.com/tool/comfyui-comfyanonymous) |
-| [OpenDevin](https://github.com/opendevin/opendevin) | 85,428 | ▲ +777 | AI-driven development platform with agents that can code, debug, and deploy autonomously across CLI, SDK, and… [↗](https://ossaihub.com/tool/opendevin-opendevin) |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | 81,054 | ▲ +621 | ByteDance's high-velocity multi-agent orchestration with real-time collaboration [↗](https://ossaihub.com/tool/deerflow) |
-| [GPT4All](https://github.com/nomic-ai/gpt4all) | 77,397 | ▼ -5 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all-nomic-ai) |
-| [MetaGPT](https://github.com/geekan/metagpt) | 70,081 | ▲ +162 | Multi-agent framework simulating software company roles for task decomposition and execution [↗](https://ossaihub.com/tool/metagpt-geekan) |
-| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,175 | ▲ +88 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-4) |
-| [Mem0](https://github.com/mem0ai/mem0) | 64,258 | ▲ +533 | Intelligent long-term memory layer for AI agents with personalization and evolution [↗](https://ossaihub.com/tool/mem0-mem0ai-2) |
-| [AutoGen](https://github.com/microsoft/autogen) | 60,671 | ▲ +123 | Microsoft's conversational multi-agent systems with event-driven architecture, tool use, code execution, grou… [↗](https://ossaihub.com/tool/autogen-microsoft) |
-| [CrewAI](https://github.com/crewaiinc/crewai) | 57,739 | ▲ +337 | Python framework for building multi-agent AI systems with autonomous crews and event-driven flows. [↗](https://ossaihub.com/tool/crewai-crewaiinc-2) |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | 51,906 | ▲ +131 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-run-llama) |
-| [LocalAI](https://github.com/mudler/localai) | 48,721 | ▲ +120 | Drop-in OpenAI-compatible REST API for running LLMs, images, audio, video entirely locally; no GPU required. [↗](https://ossaihub.com/tool/localai) |
-| [Milvus](https://github.com/milvus-io/milvus) | 45,849 | ▲ +131 | High-performance open-source vector database for AI applications at scale with GPU acceleration. [↗](https://ossaihub.com/tool/milvus-milvus-io) |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 40,623 | ▲ +484 | LangChain extension for stateful multi-agent graphs with cycles, branching, persistence, human-in-loop, visua… [↗](https://ossaihub.com/tool/langgraph-langchain-ai-2) |
+| [n8n](https://github.com/n8n-io/n8n) | 202,757 | ▲ +1,199 | Powerful workflow automation with native LLM nodes; build AI agents, RAG, integrations visually; 1000+ connec… [↗](https://ossaihub.com/tool/n8n) |
+| [AutoGPT](https://github.com/significant-gravitas/autogpt) | 186,969 | ▲ +235 | Iconic autonomous agent with think→plan→act→observe→critique loop; internet access, file I/O, long-term memor… [↗](https://ossaihub.com/tool/autogpt) |
+| [Ollama](https://github.com/ollama/ollama) | 179,690 | ▲ +553 | Simplest way to run powerful LLMs locally with one-line installer, OpenAI-compatible API, and zero-config sup… [↗](https://ossaihub.com/tool/ollama-ollama-3) |
+| [Langflow](https://github.com/langflow-ai/langflow) | 153,838 | ▲ +299 | Powerful low-code visual builder for LLM agents/workflows; drag-drop on LangChain with export to code. [↗](https://ossaihub.com/tool/langflow-langflow-ai-2) |
+| [Dify](https://github.com/langgenius/dify) | 153,800 | ▲ +646 | Self-hosted visual platform for building agents, RAG, and workflows with proven enterprise adoption. [↗](https://ossaihub.com/tool/dify-langgenius) |
+| [Open WebUI](https://github.com/open-webui/open-webui) | 150,287 | ▲ +759 | Self-hosted ChatGPT-style interface for local/remote LLMs with RAG, voice I/O, custom personas, and OpenAI-co… [↗](https://ossaihub.com/tool/open-webui) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 145,230 | ▲ +488 | Cornerstone framework for production LLM applications; abstracts chains, agents, RAG, tools, memory into modu… [↗](https://ossaihub.com/tool/langchain-langchain-ai) |
+| [ComfyUI](https://github.com/comfyanonymous/comfyui) | 130,535 | ▲ +1,671 | Node-based visual workflow UI for Stable Diffusion — modular graph interface for advanced image/video generat… [↗](https://ossaihub.com/tool/comfyui-comfyanonymous) |
+| [OpenDevin](https://github.com/opendevin/opendevin) | 85,510 | ▲ +764 | AI-driven development platform with agents that can code, debug, and deploy autonomously across CLI, SDK, and… [↗](https://ossaihub.com/tool/opendevin-opendevin) |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | 81,074 | ▲ +561 | ByteDance's high-velocity multi-agent orchestration with real-time collaboration [↗](https://ossaihub.com/tool/deerflow) |
+| [GPT4All](https://github.com/nomic-ai/gpt4all) | 77,396 | ▼ -3 | Ecosystem for running optimized open LLMs locally with desktop app, bindings, fine-tuned models; consumer har… [↗](https://ossaihub.com/tool/gpt4all-nomic-ai) |
+| [MetaGPT](https://github.com/geekan/metagpt) | 70,091 | ▲ +149 | Multi-agent framework simulating software company roles for task decomposition and execution [↗](https://ossaihub.com/tool/metagpt-geekan) |
+| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,179 | ▲ +74 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter-openinterpreter-4) |
+| [Mem0](https://github.com/mem0ai/mem0) | 64,299 | ▲ +519 | Intelligent long-term memory layer for AI agents with personalization and evolution [↗](https://ossaihub.com/tool/mem0-mem0ai-2) |
+| [AutoGen](https://github.com/microsoft/autogen) | 60,686 | ▲ +120 | Microsoft's conversational multi-agent systems with event-driven architecture, tool use, code execution, grou… [↗](https://ossaihub.com/tool/autogen-microsoft) |
+| [CrewAI](https://github.com/crewaiinc/crewai) | 57,780 | ▲ +337 | Python framework for building multi-agent AI systems with autonomous crews and event-driven flows. [↗](https://ossaihub.com/tool/crewai-crewaiinc-2) |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 51,909 | ▲ +118 | The leading data framework for connecting LLMs to your data with powerful indexing, RAG, and agentic pipelines [↗](https://ossaihub.com/tool/llama-index-run-llama) |
+| [LocalAI](https://github.com/mudler/localai) | 48,738 | ▲ +125 | Drop-in OpenAI-compatible REST API for running LLMs, images, audio, video entirely locally; no GPU required. [↗](https://ossaihub.com/tool/localai) |
+| [Milvus](https://github.com/milvus-io/milvus) | 45,866 | ▲ +138 | High-performance open-source vector database for AI applications at scale with GPU acceleration. [↗](https://ossaihub.com/tool/milvus-milvus-io) |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 40,649 | ▲ +443 | LangChain extension for stateful multi-agent graphs with cycles, branching, persistence, human-in-loop, visua… [↗](https://ossaihub.com/tool/langgraph-langchain-ai-2) |
 
 ## Data Labeling Annotation
 
@@ -748,19 +748,19 @@ Top 20 of [34 tracked Data Labeling Annotation tools](https://ossaihub.com/categ
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Supervision](https://github.com/roboflow/supervision) | 49,773 | ▲ +171 | Modern reusable utilities for annotation, visualization, detection pipelines, and model evaluation in product… [↗](https://ossaihub.com/tool/supervision) |
-| [label-studio](https://github.com/HumanSignal/label-studio) | 28,165 | ▲ +66 | Label Studio is a multi-type data labeling and annotation tool with standardized output format [↗](https://ossaihub.com/tool/humansignal-label-studio) |
-| [cleanlab](https://github.com/cleanlab/cleanlab) | 11,638 | ▲ +7 | Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning… [↗](https://ossaihub.com/tool/cleanlab-cleanlab) |
-| [doccano](https://github.com/doccano/doccano) | 10,760 | ▲ +8 | Open source annotation tool for machine learning practitioners. [↗](https://ossaihub.com/tool/doccano-doccano) |
+| [Supervision](https://github.com/roboflow/supervision) | 49,784 | ▲ +142 | Modern reusable utilities for annotation, visualization, detection pipelines, and model evaluation in product… [↗](https://ossaihub.com/tool/supervision) |
+| [label-studio](https://github.com/HumanSignal/label-studio) | 28,163 | ▲ +57 | Label Studio is a multi-type data labeling and annotation tool with standardized output format [↗](https://ossaihub.com/tool/humansignal-label-studio) |
+| [cleanlab](https://github.com/cleanlab/cleanlab) | 11,640 | ▲ +10 | Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning… [↗](https://ossaihub.com/tool/cleanlab-cleanlab) |
+| [doccano](https://github.com/doccano/doccano) | 10,760 | ▲ +7 | Open source annotation tool for machine learning practitioners. [↗](https://ossaihub.com/tool/doccano-doccano) |
 | [argilla](https://github.com/argilla-io/argilla) | 5,088 | ▲ +7 | Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets [↗](https://ossaihub.com/tool/argilla-io-argilla) |
-| [anylabeling](https://github.com/vietanhdev/anylabeling) | 3,465 | ▲ +10 | Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileS… [↗](https://ossaihub.com/tool/vietanhdev-anylabeling) |
+| [anylabeling](https://github.com/vietanhdev/anylabeling) | 3,465 | ▲ +9 | Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileS… [↗](https://ossaihub.com/tool/vietanhdev-anylabeling) |
 | [coco-annotator](https://github.com/jsbroks/coco-annotator) | 2,279 | ▲ +1 | :pencil2: Web-based image segmentation tool for object detection, localization, and keypoints [↗](https://ossaihub.com/tool/jsbroks-coco-annotator) |
-| [ISAT_with_segment_anything](https://github.com/yatenglg/isat_with_segment_anything) | 2,168 | ▲ +1 | Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动… [↗](https://ossaihub.com/tool/yatenglg-isat-with-segment-anything) |
+| [ISAT_with_segment_anything](https://github.com/yatenglg/isat_with_segment_anything) | 2,168 | ▲ +0 | Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动… [↗](https://ossaihub.com/tool/yatenglg-isat-with-segment-anything) |
 | [universal-data-tool](https://github.com/universaldatatool/universal-data-tool) | 2,072 | ▲ +1 | Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app. [↗](https://ossaihub.com/tool/universaldatatool-universal-data-tool) |
 | [gromit-mpx](https://github.com/bk138/gromit-mpx) | 1,385 | ▲ +8 | Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as… [↗](https://ossaihub.com/tool/bk138-gromit-mpx) |
 | [audino](https://github.com/midas-research/audino) | 1,146 | ▲ +0 | Open-source audio annotation tool for transcription, labeling, and speech recognition tasks. [↗](https://ossaihub.com/tool/midas-research-audino) |
 | [OpenLabeling](https://github.com/cartucho/openlabeling) | 965 | ▲ +0 | Open-source GUI tool for annotating images and videos with bounding boxes in YOLO and PASCAL VOC formats. [↗](https://ossaihub.com/tool/cartucho-openlabeling) |
-| [expressive-code](https://github.com/expressive-code/expressive-code) | 962 | ▲ +3 | A text marking & annotation engine for presenting source code on the web. [↗](https://ossaihub.com/tool/expressive-code-expressive-code) |
+| [expressive-code](https://github.com/expressive-code/expressive-code) | 962 | ▲ +2 | A text marking & annotation engine for presenting source code on the web. [↗](https://ossaihub.com/tool/expressive-code-expressive-code) |
 | [inception](https://github.com/inception-project/inception) | 712 | ▲ +1 | INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge ma… [↗](https://ossaihub.com/tool/inception-project-inception) |
 | [Yolo_Label](https://github.com/developer0hye/yolo_label) | 707 | ▲ +2 | GUI for marking bounded boxes of objects in images for training neural network YOLO [↗](https://ossaihub.com/tool/developer0hye-yolo-label) |
 | [semi-auto-image-annotation-tool](https://github.com/virajmavani/semi-auto-image-annotation-tool) | 595 | ▲ +1 | Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you anno… [↗](https://ossaihub.com/tool/virajmavani-semi-auto-image-annotation-tool) |
@@ -775,26 +775,26 @@ Top 20 of [33 tracked LLM Gateways Routing tools](https://ossaihub.com/categorie
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [LiteLLM](https://github.com/berriai/litellm) | 57,485 | ▲ +603 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai-2) |
-| [OmniRoute](https://github.com/diegosouzapw/omniroute) | 57,364 | ▲ +5,301 | Universal LLM proxy with smart routing, load balancing, retries, fallbacks, and OpenAI-compatible endpoint fo… [↗](https://ossaihub.com/tool/omniroute) |
-| [new-api](https://github.com/QuantumNous/new-api) | 46,692 | ▲ +914 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-… [↗](https://ossaihub.com/tool/quantumnous-new-api) |
-| [apisix](https://github.com/apache/apisix) | 17,046 | ▲ +34 | The Cloud-Native API Gateway and AI Gateway [↗](https://ossaihub.com/tool/apache-apisix) |
-| [casdoor](https://github.com/casdoor/casdoor) | 14,284 | ▲ +45 | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with… [↗](https://ossaihub.com/tool/casdoor-casdoor) |
-| [coai](https://github.com/coaidev/coai) | 9,296 | ▲ +15 | 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unifie… [↗](https://ossaihub.com/tool/coaidev-coai) |
-| [higress](https://github.com/higress-group/higress) | 9,229 | ▲ +75 | Cloud-native AI gateway based on Envoy with Wasm plugin extensibility for LLM routing and MCP server hosting. [↗](https://ossaihub.com/tool/higress-group-higress) |
-| [plano](https://github.com/katanemo/plano) | 7,020 | ▲ +11 | Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observabil… [↗](https://ossaihub.com/tool/katanemo-plano) |
-| [Helicone](https://github.com/helicone/helicone) | 6,107 | ▲ +16 | Open-source observability platform for LLM applications with caching, cost tracking, and performance monitori… [↗](https://ossaihub.com/tool/helicone) |
-| [vLLM Semantic Router](https://github.com/vllm-project/semantic-router) | 5,377 | ▲ +177 | Signal-driven semantic router from the vLLM project — mixture-of-models routing across local/cloud LLMs optim… [↗](https://ossaihub.com/tool/vllm-semantic-router) |
+| [OmniRoute](https://github.com/diegosouzapw/omniroute) | 57,768 | ▲ +5,000 | Universal LLM proxy with smart routing, load balancing, retries, fallbacks, and OpenAI-compatible endpoint fo… [↗](https://ossaihub.com/tool/omniroute) |
+| [LiteLLM](https://github.com/berriai/litellm) | 57,520 | ▲ +549 | Universal proxy/router for 100+ LLM providers with unified OpenAI-compatible API, load balancing, fallbacks,… [↗](https://ossaihub.com/tool/litellm-berriai-2) |
+| [new-api](https://github.com/QuantumNous/new-api) | 46,721 | ▲ +839 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-… [↗](https://ossaihub.com/tool/quantumnous-new-api) |
+| [apisix](https://github.com/apache/apisix) | 17,050 | ▲ +34 | The Cloud-Native API Gateway and AI Gateway [↗](https://ossaihub.com/tool/apache-apisix) |
+| [casdoor](https://github.com/casdoor/casdoor) | 14,289 | ▲ +42 | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with… [↗](https://ossaihub.com/tool/casdoor-casdoor) |
+| [coai](https://github.com/coaidev/coai) | 9,297 | ▲ +14 | 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unifie… [↗](https://ossaihub.com/tool/coaidev-coai) |
+| [higress](https://github.com/higress-group/higress) | 9,236 | ▲ +78 | Cloud-native AI gateway based on Envoy with Wasm plugin extensibility for LLM routing and MCP server hosting. [↗](https://ossaihub.com/tool/higress-group-higress) |
+| [plano](https://github.com/katanemo/plano) | 7,020 | ▲ +7 | Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observabil… [↗](https://ossaihub.com/tool/katanemo-plano) |
+| [Helicone](https://github.com/helicone/helicone) | 6,111 | ▲ +18 | Open-source observability platform for LLM applications with caching, cost tracking, and performance monitori… [↗](https://ossaihub.com/tool/helicone) |
+| [vLLM Semantic Router](https://github.com/vllm-project/semantic-router) | 5,394 | ▲ +179 | Signal-driven semantic router from the vLLM project — mixture-of-models routing across local/cloud LLMs optim… [↗](https://ossaihub.com/tool/vllm-semantic-router) |
 | [Thunderbolt](https://github.com/thunderbird/thunderbolt) | 4,764 | ▼ -2 | TypeScript-based model routing + control layer — own your data, eliminate vendor lock-in, route across any LL… [↗](https://ossaihub.com/tool/thunderbolt) |
-| [agentgateway](https://github.com/agentgateway/agentgateway) | 4,625 | ▲ +167 | Next-gen AI-native proxy/gateway — routes to OpenAI/Anthropic/Gemini/Bedrock with load balancing, failover, g… [↗](https://ossaihub.com/tool/agentgateway) |
-| [octelium](https://github.com/octelium/octelium) | 4,029 | ▲ +15 | A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN… [↗](https://ossaihub.com/tool/octelium-octelium) |
-| [goclaw](https://github.com/nextlevelbuilder/goclaw) | 3,574 | ▲ +29 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurr… [↗](https://ossaihub.com/tool/nextlevelbuilder-goclaw) |
-| [claude-tap](https://github.com/liaohch3/claude-tap) | 3,139 | ▲ +40 | Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode,… [↗](https://ossaihub.com/tool/liaohch3-claude-tap) |
-| [WindsurfAPI](https://github.com/dwgx/windsurfapi) | 2,953 | ▲ +13 | Windsurf-to-OpenAI compatible API proxy [↗](https://ossaihub.com/tool/dwgx-windsurfapi) |
-| [ccs](https://github.com/kaitranntt/ccs) | 2,832 | ▲ +10 | Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual… [↗](https://ossaihub.com/tool/kaitranntt-ccs) |
-| [krakend-ce](https://github.com/krakend/krakend-ce) | 2,668 | ▲ +1 | KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. [↗](https://ossaihub.com/tool/krakend-krakend-ce) |
-| [LLMRouter](https://github.com/ulab-uiuc/llmrouter) | 2,613 | ▲ +214 | Intelligent LLM router with 16+ strategies for dynamic model selection by task complexity, cost, latency, and… [↗](https://ossaihub.com/tool/llmrouter-ulab) |
-| [octopus](https://github.com/bestruirui/octopus) | 2,547 | ▲ +86 | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合服务 [↗](https://ossaihub.com/tool/bestruirui-octopus) |
+| [agentgateway](https://github.com/agentgateway/agentgateway) | 4,633 | ▲ +161 | Next-gen AI-native proxy/gateway — routes to OpenAI/Anthropic/Gemini/Bedrock with load balancing, failover, g… [↗](https://ossaihub.com/tool/agentgateway) |
+| [octelium](https://github.com/octelium/octelium) | 4,029 | ▲ +13 | A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN… [↗](https://ossaihub.com/tool/octelium-octelium) |
+| [goclaw](https://github.com/nextlevelbuilder/goclaw) | 3,576 | ▲ +27 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurr… [↗](https://ossaihub.com/tool/nextlevelbuilder-goclaw) |
+| [claude-tap](https://github.com/liaohch3/claude-tap) | 3,144 | ▲ +42 | Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode,… [↗](https://ossaihub.com/tool/liaohch3-claude-tap) |
+| [WindsurfAPI](https://github.com/dwgx/windsurfapi) | 2,954 | ▲ +14 | Windsurf-to-OpenAI compatible API proxy [↗](https://ossaihub.com/tool/dwgx-windsurfapi) |
+| [ccs](https://github.com/kaitranntt/ccs) | 2,832 | ▲ +8 | Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual… [↗](https://ossaihub.com/tool/kaitranntt-ccs) |
+| [krakend-ce](https://github.com/krakend/krakend-ce) | 2,668 | ▲ +0 | KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. [↗](https://ossaihub.com/tool/krakend-krakend-ce) |
+| [LLMRouter](https://github.com/ulab-uiuc/llmrouter) | 2,630 | ▲ +170 | Intelligent LLM router with 16+ strategies for dynamic model selection by task complexity, cost, latency, and… [↗](https://ossaihub.com/tool/llmrouter-ulab) |
+| [octopus](https://github.com/bestruirui/octopus) | 2,556 | ▲ +85 | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合服务 [↗](https://ossaihub.com/tool/bestruirui-octopus) |
 
 ## Desktop Personal Agents
 
@@ -802,19 +802,19 @@ Top 13 of [13 tracked Desktop Personal Agents tools](https://ossaihub.com/catego
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [OpenClaw](https://github.com/openclaw/openclaw) | 387,916 | ▲ +976 | Local-first personal AI assistant for any OS — lives in your chat/voice channels, keeps your data on-device,… [↗](https://ossaihub.com/tool/openclaw) |
-| [Browser Use](https://github.com/browser-use/browser-use) | 111,552 | ▲ +1,643 | Web-browser-controlling agents for automation, research, scraping, interaction; navigates sites and fills for… [↗](https://ossaihub.com/tool/browser-use) |
-| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,175 | ▲ +88 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter) |
-| [siyuan](https://github.com/siyuan-note/siyuan) | 46,020 | ▲ +110 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript… [↗](https://ossaihub.com/tool/siyuan-note-siyuan) |
-| [browser-harness](https://github.com/browser-use/browser-harness) | 17,203 | ▲ +289 | Browser Harness \| Self-healing harness that enables LLMs to complete any task. [↗](https://ossaihub.com/tool/browser-use-browser-harness) |
-| [eigent](https://github.com/eigent-ai/eigent) | 15,149 | ▲ +89 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to… [↗](https://ossaihub.com/tool/eigent-ai-eigent) |
-| [UI-TARS](https://github.com/bytedance/ui-tars) | 11,399 | ▲ +33 | ByteDance's multimodal GUI agent with fine-tuned vision model for screenshot-based desktop control — state-of… [↗](https://ossaihub.com/tool/ui-tars) |
-| [Self-Operating Computer](https://github.com/othersideai/self-operating-computer) | 10,291 | ▲ +4 | Multimodal AI agent that operates your computer by taking screenshots and generating mouse/keyboard actions. [↗](https://ossaihub.com/tool/self-operating-computer) |
-| [BitFun](https://github.com/gcwing/bitfun) | 1,849 | ▲ +48 | BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in C… [↗](https://ossaihub.com/tool/gcwing-bitfun) |
-| [open-codex-computer-use](https://github.com/ifuryst/open-codex-computer-use) | 1,806 | ▲ +67 | Open-source Computer Use service for macOS, Linux, and Windows exposed via MCP protocol for AI agents. [↗](https://ossaihub.com/tool/ifuryst-open-codex-computer-use) |
-| [workany](https://github.com/workany-ai/workany) | 1,507 | ▼ -1 | Desktop AI agent that executes natural language tasks with real-time code generation and artifact preview. [↗](https://ossaihub.com/tool/workany-ai-workany) |
-| [BrowserGym](https://github.com/servicenow/browsergym) | 1,333 | ▲ +9 | ServiceNow's benchmark + environment for browser-automation agents — standardized web tasks with GUI groundin… [↗](https://ossaihub.com/tool/browsergym-servicenow) |
-| [desktop](https://github.com/browser-use/desktop) | 668 | ▲ +4 | Browser Use Desktop App [↗](https://ossaihub.com/tool/browser-use-desktop) |
+| [OpenClaw](https://github.com/openclaw/openclaw) | 387,953 | ▲ +897 | Local-first personal AI assistant for any OS — lives in your chat/voice channels, keeps your data on-device,… [↗](https://ossaihub.com/tool/openclaw) |
+| [Browser Use](https://github.com/browser-use/browser-use) | 111,612 | ▲ +1,579 | Web-browser-controlling agents for automation, research, scraping, interaction; navigates sites and fills for… [↗](https://ossaihub.com/tool/browser-use) |
+| [Open Interpreter](https://github.com/openinterpreter/open-interpreter) | 68,179 | ▲ +74 | Natural language interface that lets LLMs run code, manipulate files, and control your machine locally in the… [↗](https://ossaihub.com/tool/open-interpreter) |
+| [siyuan](https://github.com/siyuan-note/siyuan) | 46,028 | ▲ +107 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript… [↗](https://ossaihub.com/tool/siyuan-note-siyuan) |
+| [browser-harness](https://github.com/browser-use/browser-harness) | 17,218 | ▲ +244 | Browser Harness \| Self-healing harness that enables LLMs to complete any task. [↗](https://ossaihub.com/tool/browser-use-browser-harness) |
+| [eigent](https://github.com/eigent-ai/eigent) | 15,152 | ▲ +85 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to… [↗](https://ossaihub.com/tool/eigent-ai-eigent) |
+| [UI-TARS](https://github.com/bytedance/ui-tars) | 11,402 | ▲ +32 | ByteDance's multimodal GUI agent with fine-tuned vision model for screenshot-based desktop control — state-of… [↗](https://ossaihub.com/tool/ui-tars) |
+| [Self-Operating Computer](https://github.com/othersideai/self-operating-computer) | 10,291 | ▲ +1 | Multimodal AI agent that operates your computer by taking screenshots and generating mouse/keyboard actions. [↗](https://ossaihub.com/tool/self-operating-computer) |
+| [BitFun](https://github.com/gcwing/bitfun) | 1,857 | ▲ +54 | BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in C… [↗](https://ossaihub.com/tool/gcwing-bitfun) |
+| [open-codex-computer-use](https://github.com/ifuryst/open-codex-computer-use) | 1,810 | ▲ +61 | Open-source Computer Use service for macOS, Linux, and Windows exposed via MCP protocol for AI agents. [↗](https://ossaihub.com/tool/ifuryst-open-codex-computer-use) |
+| [workany](https://github.com/workany-ai/workany) | 1,507 | ▲ +0 | Desktop AI agent that executes natural language tasks with real-time code generation and artifact preview. [↗](https://ossaihub.com/tool/workany-ai-workany) |
+| [BrowserGym](https://github.com/servicenow/browsergym) | 1,333 | ▲ +8 | ServiceNow's benchmark + environment for browser-automation agents — standardized web tasks with GUI groundin… [↗](https://ossaihub.com/tool/browsergym-servicenow) |
+| [desktop](https://github.com/browser-use/desktop) | 668 | ▲ +3 | Browser Use Desktop App [↗](https://ossaihub.com/tool/browser-use-desktop) |
 
 ## AI Search Engines
 
@@ -822,15 +822,15 @@ Top 10 of [10 tracked AI Search Engines tools](https://ossaihub.com/categories/a
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [khoj (AI Search)](https://github.com/khoj-ai/khoj) | 36,751 | ▲ +142 | Self-hostable AI second brain with semantic search — search your notes, docs, and the web with any local or c… [↗](https://ossaihub.com/tool/khoj-ai-khoj-search) |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 36,523 | ▲ +215 | Open-source AI-powered search engine and Perplexity alternative — semantic search with source citations, loca… [↗](https://ossaihub.com/tool/itzcrzykns-perplexica) |
-| [SearXNG](https://github.com/searxng/searxng) | 36,196 | ▲ +362 | Privacy-respecting, hackable metasearch engine — aggregates results from 70+ sources with no tracking, no ads… [↗](https://ossaihub.com/tool/searxng-searxng) |
-| [STORM](https://github.com/stanford-oval/storm) | 31,149 | ▲ +62 | Stanford research system that writes long-form Wikipedia-style articles from scratch by doing iterative web s… [↗](https://ossaihub.com/tool/stanford-oval-storm) |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 29,186 | ▲ +127 | Autonomous deep research agent — generates comprehensive, cited research reports on any topic by searching th… [↗](https://ossaihub.com/tool/assafelovic-gpt-researcher) |
-| [Morphic](https://github.com/miurla/morphic) | 9,069 | ▲ +17 | AI-powered search with generative UI — Perplexity-style answer engine built with Next.js, Vercel AI SDK, and… [↗](https://ossaihub.com/tool/miurla-morphic) |
-| [MindSearch](https://github.com/internlm/mindsearch) | 6,919 | ▲ +9 | Multi-agent web search framework — decomposes complex queries into a search graph, uses multiple agents to fi… [↗](https://ossaihub.com/tool/internlm-mindsearch) |
+| [khoj (AI Search)](https://github.com/khoj-ai/khoj) | 36,768 | ▲ +130 | Self-hostable AI second brain with semantic search — search your notes, docs, and the web with any local or c… [↗](https://ossaihub.com/tool/khoj-ai-khoj-search) |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 36,535 | ▲ +179 | Open-source AI-powered search engine and Perplexity alternative — semantic search with source citations, loca… [↗](https://ossaihub.com/tool/itzcrzykns-perplexica) |
+| [SearXNG](https://github.com/searxng/searxng) | 36,224 | ▲ +325 | Privacy-respecting, hackable metasearch engine — aggregates results from 70+ sources with no tracking, no ads… [↗](https://ossaihub.com/tool/searxng-searxng) |
+| [STORM](https://github.com/stanford-oval/storm) | 31,154 | ▲ +55 | Stanford research system that writes long-form Wikipedia-style articles from scratch by doing iterative web s… [↗](https://ossaihub.com/tool/stanford-oval-storm) |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 29,195 | ▲ +119 | Autonomous deep research agent — generates comprehensive, cited research reports on any topic by searching th… [↗](https://ossaihub.com/tool/assafelovic-gpt-researcher) |
+| [Morphic](https://github.com/miurla/morphic) | 9,067 | ▲ +13 | AI-powered search with generative UI — Perplexity-style answer engine built with Next.js, Vercel AI SDK, and… [↗](https://ossaihub.com/tool/miurla-morphic) |
+| [MindSearch](https://github.com/internlm/mindsearch) | 6,919 | ▲ +7 | Multi-agent web search framework — decomposes complex queries into a search graph, uses multiple agents to fi… [↗](https://ossaihub.com/tool/internlm-mindsearch) |
 | [LLM Answer Engine](https://github.com/developersdigest/llm-answer-engine) | 5,035 | ▼ -2 | Full-stack Perplexity-style answer engine — Next.js + Groq + Brave Search with streaming responses, citations… [↗](https://ossaihub.com/tool/developersdigest-llm-answer-engine) |
-| [Farfalle](https://github.com/rashadphz/farfalle) | 3,543 | ▲ +4 | Open-source AI search with local or cloud LLMs — Perplexity alternative supporting Groq, Ollama, and standard… [↗](https://ossaihub.com/tool/rashadphz-farfalle) |
+| [Farfalle](https://github.com/rashadphz/farfalle) | 3,543 | ▲ +3 | Open-source AI search with local or cloud LLMs — Perplexity alternative supporting Groq, Ollama, and standard… [↗](https://ossaihub.com/tool/rashadphz-farfalle) |
 | [TurboSeek](https://github.com/nutlope/turboseek) | 1,656 | ▲ +1 | AI search engine powered by Together AI and Mixtral — open-source Perplexity clone with web search, citations… [↗](https://ossaihub.com/tool/nutlope-turboseek) |
 
 ## AI Security Red Teaming
@@ -839,17 +839,17 @@ Top 7 of [7 tracked AI Security Red Teaming tools](https://ossaihub.com/categori
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
-| [Promptfoo (Security)](https://github.com/promptfoo/promptfoo) | 24,641 | ▲ +222 | LLM red-teaming and security testing — automated vulnerability scanning for prompt injection, jailbreaks, PII… [↗](https://ossaihub.com/tool/promptfoo-promptfoo-security) |
-| [LM Evaluation Harness (Security)](https://github.com/eleutherai/lm-evaluation-harness) | 13,819 | ▲ +88 | EleutherAI's evaluation harness cross-listed for AI safety benchmarks — TruthfulQA, ToxiGen, BBQ, and safety-… [↗](https://ossaihub.com/tool/eleutherai-lm-eval-security) |
-| [Garak (AI Security)](https://github.com/nvidia/garak) | 9,058 | ▲ +180 | LLM vulnerability scanner — probes language models for prompt injection, jailbreaks, hallucination, toxicity,… [↗](https://ossaihub.com/tool/nvidia-garak-security) |
+| [Promptfoo (Security)](https://github.com/promptfoo/promptfoo) | 24,655 | ▲ +206 | LLM red-teaming and security testing — automated vulnerability scanning for prompt injection, jailbreaks, PII… [↗](https://ossaihub.com/tool/promptfoo-promptfoo-security) |
+| [LM Evaluation Harness (Security)](https://github.com/eleutherai/lm-evaluation-harness) | 13,825 | ▲ +87 | EleutherAI's evaluation harness cross-listed for AI safety benchmarks — TruthfulQA, ToxiGen, BBQ, and safety-… [↗](https://ossaihub.com/tool/eleutherai-lm-eval-security) |
+| [Garak (AI Security)](https://github.com/nvidia/garak) | 9,069 | ▲ +179 | LLM vulnerability scanner — probes language models for prompt injection, jailbreaks, hallucination, toxicity,… [↗](https://ossaihub.com/tool/nvidia-garak-security) |
 | [PromptBench](https://github.com/microsoft/promptbench) | 2,807 | ▲ +0 | Microsoft's LLM robustness evaluation framework — tests model resilience to adversarial prompts, typos, attac… [↗](https://ossaihub.com/tool/microsoft-promptbench) |
-| [LLM Security Research](https://github.com/greshake/llm-security) | 2,130 | ▲ +1 | Foundational LLM security research repo — original indirect prompt injection attack papers, PoC exploits, and… [↗](https://ossaihub.com/tool/greshake-llm-security) |
-| [JailbreakBench](https://github.com/jailbreakbench/jailbreakbench) | 661 | ▲ +6 | Standardized open-source benchmark for evaluating LLM jailbreak attacks — unified dataset, attack implementat… [↗](https://ossaihub.com/tool/jailbreakbench-jailbreakbench) |
+| [LLM Security Research](https://github.com/greshake/llm-security) | 2,132 | ▲ +3 | Foundational LLM security research repo — original indirect prompt injection attack papers, PoC exploits, and… [↗](https://ossaihub.com/tool/greshake-llm-security) |
+| [JailbreakBench](https://github.com/jailbreakbench/jailbreakbench) | 660 | ▲ +4 | Standardized open-source benchmark for evaluating LLM jailbreak attacks — unified dataset, attack implementat… [↗](https://ossaihub.com/tool/jailbreakbench-jailbreakbench) |
 | [Vigil LLM (Security)](https://github.com/deadbits/vigil-llm) | 496 | ▲ +0 | Real-time LLM security scanner — detects prompt injection, jailbreaks, and malicious payloads via vector simi… [↗](https://ossaihub.com/tool/deadbits-vigil-llm-security) |
 
 ## Methodology
 
-Star counts and 7-day velocity come from the GitHub API in a fixed nightly measurement window (21:53 CST), so week-over-week trends compare like-for-like. Rankings are math — stars and measured momentum — with the pipeline public at [ossaihub-cron](https://github.com/chadcorp/ossaihub-cron) and the receipts at [ossaihub.com/data-health](https://ossaihub.com/data-health). Last sweep: 2026-08-28.
+Star counts and 7-day velocity come from the GitHub API in a fixed nightly measurement window (21:53 CST), so week-over-week trends compare like-for-like. Rankings are math — stars and measured momentum — with the pipeline public at [ossaihub-cron](https://github.com/chadcorp/ossaihub-cron) and the receipts at [ossaihub.com/data-health](https://ossaihub.com/data-health). Last sweep: 2026-08-29.
 
 ## Contributing
 
