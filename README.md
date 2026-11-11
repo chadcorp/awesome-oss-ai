@@ -1,21 +1,21 @@
 # Awesome Open-Source AI
 
-![tools](https://img.shields.io/badge/tools_tracked-2%2C389-a3e635) ![sweep](https://img.shields.io/badge/nightly_sweep-21%3A53_CST-5b8cff) ![data](https://img.shields.io/badge/last_sweep-2026--11--11-8b5cf6)
+![tools](https://img.shields.io/badge/tools_tracked-2%2C393-a3e635) ![sweep](https://img.shields.io/badge/nightly_sweep-21%3A53_CST-5b8cff) ![data](https://img.shields.io/badge/last_sweep-2026--11--11-8b5cf6)
 
 > The **measured** awesome list: every entry below is ranked by real GitHub stars with live 7-day velocity from a fixed nightly sweep — not editorial taste, and never pay-to-rank. Maintained by [OSS AI Hub](https://ossaihub.com), the signal layer for open-source AI.
 
-**2,389 tools tracked** across 31 categories — this list shows the top 20 per category. Browse everything (plus a 1,009-term plain-English glossary, 473 code starters, VRAM & API-cost calculators) at **[ossaihub.com](https://ossaihub.com)**.
+**2,393 tools tracked** across 31 categories — this list shows the top 20 per category. Browse everything (plus a 1,009-term plain-English glossary, 473 code starters, VRAM & API-cost calculators) at **[ossaihub.com](https://ossaihub.com)**.
 
 ## Contents
 
-- [Agent Frameworks](#agent-frameworks) · 166 tools
+- [Agent Frameworks](#agent-frameworks) · 167 tools
 - [NLP & Speech](#nlp--speech) · 155 tools
 - [Time-Series Forecasting](#timeseries-forecasting) · 154 tools
 - [AI Coding & IDE Tools](#ai-coding--ide-tools) · 131 tools
 - [LLMs & Foundation Models](#llms--foundation-models) · 125 tools
 - [Computer Vision](#computer-vision) · 120 tools
 - [MLOps & Deployment](#mlops--deployment) · 119 tools
-- [MCP & Tool Infrastructure](#mcp--tool-infrastructure) · 116 tools
+- [MCP & Tool Infrastructure](#mcp--tool-infrastructure) · 117 tools
 - [Video Generation](#video-generation) · 111 tools
 - [Browser & Computer-Use Agents](#browser--computeruse-agents) · 101 tools
 - [Embodied AI & Robotics](#embodied-ai--robotics) · 100 tools
@@ -24,7 +24,7 @@
 - [Document Intelligence & Parsing](#document-intelligence--parsing) · 77 tools
 - [Audio & Music AI](#audio--music-ai) · 73 tools
 - [LLM Evaluation & Benchmarks](#llm-evaluation--benchmarks) · 70 tools
-- [RAG & Knowledge Graphs](#rag--knowledge-graphs) · 69 tools
+- [RAG & Knowledge Graphs](#rag--knowledge-graphs) · 70 tools
 - [Mobile & On-Device AI](#mobile--ondevice-ai) · 68 tools
 - [Vector Databases & Embeddings](#vector-databases--embeddings) · 62 tools
 - [Prompt Engineering & Structured Output](#prompt-engineering--structured-output) · 57 tools
@@ -36,13 +36,13 @@
 - [Data Labeling & Annotation](#data-labeling--annotation) · 34 tools
 - [LLM Gateways & Routing](#llm-gateways--routing) · 33 tools
 - [Desktop & Personal Agents](#desktop--personal-agents) · 25 tools
-- [AI DevOps & Deployment](#ai-devops--deployment) · 13 tools
+- [AI DevOps & Deployment](#ai-devops--deployment) · 14 tools
 - [AI Search Engines](#ai-search-engines) · 9 tools
 - [AI Security & Red Teaming](#ai-security--red-teaming) · 9 tools
 
 ## Agent Frameworks
 
-Top 20 of [166 tracked Agent Frameworks tools](https://ossaihub.com/categories/agent-frameworks), by stars.
+Top 20 of [167 tracked Agent Frameworks tools](https://ossaihub.com/categories/agent-frameworks), by stars.
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
@@ -231,7 +231,7 @@ Top 20 of [119 tracked MLOps & Deployment tools](https://ossaihub.com/categories
 
 ## MCP & Tool Infrastructure
 
-Top 20 of [116 tracked MCP & Tool Infrastructure tools](https://ossaihub.com/categories/mcp-tool-infrastructure), by stars.
+Top 20 of [117 tracked MCP & Tool Infrastructure tools](https://ossaihub.com/categories/mcp-tool-infrastructure), by stars.
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
@@ -250,7 +250,7 @@ Top 20 of [116 tracked MCP & Tool Infrastructure tools](https://ossaihub.com/cat
 | [Novu MCP](https://github.com/novuhq/novu) | 40,319 | ▲ +58 | Complete notification infrastructure MCP server — multi-channel (email, SMS, push, chat) notifications with p… [↗](https://ossaihub.com/tool/novu-mcp) |
 | [MindsDB](https://github.com/mindsdb/mindshub) | 39,855 | ▲ +21 | AI database layer with native MCP integration - lets agents query ML models, time-series data, and databases… [↗](https://ossaihub.com/tool/mindsdb) |
 | [Directus MCP](https://github.com/directus/directus) | 38,693 | ▼ -123 | Instant REST + GraphQL API MCP server over any SQL database — dynamic data access and admin for agents. [↗](https://ossaihub.com/tool/directus-mcp) |
-| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 38,365 | ▲ +179 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Goo… [↗](https://ossaihub.com/tool/pdfmathtranslate-pdfmathtranslate) |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 38,365 | ▲ +179 | \[EMNLP 2025 Demo\] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Goo… [↗](https://ossaihub.com/tool/pdfmathtranslate-pdfmathtranslate) |
 | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 36,882 | — | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Cod… [↗](https://ossaihub.com/tool/next-ai-draw-io) |
 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | 34,387 | ▲ +172 | Official MCP server for GitHub — gives agents secure read/write access to repos, issues, PRs, and workflows w… [↗](https://ossaihub.com/tool/github-mcp-server) |
 | [nacos](https://github.com/alibaba/nacos) | 33,517 | ▲ +21 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud… [↗](https://ossaihub.com/tool/alibaba-nacos) |
@@ -474,13 +474,13 @@ Top 20 of [70 tracked LLM Evaluation & Benchmarks tools](https://ossaihub.com/ca
 
 ## RAG & Knowledge Graphs
 
-Top 20 of [69 tracked RAG & Knowledge Graphs tools](https://ossaihub.com/categories/rag-knowledge-graphs), by stars.
+Top 20 of [70 tracked RAG & Knowledge Graphs tools](https://ossaihub.com/categories/rag-knowledge-graphs), by stars.
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
 | [Graphify](https://github.com/Graphify-Labs/graphify) | 145,892 | ▲ +3,791 | Turns your files into a visual knowledge graph so AI assistants (Claude, Cursor, etc.) can understand your co… [↗](https://ossaihub.com/tool/graphify) |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 94,020 | ▲ +535 | Open-source RAG engine combining retrieval-augmented generation with agentic workflows for enterprise-scale A… [↗](https://ossaihub.com/tool/ragflow) |
-| [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 91,988 | ▲ +1,549 | Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an intera… [↗](https://ossaihub.com/tool/lum1104-understand-anything) |
+| [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 91,988 | ▲ +1,549 | Graphs that teach \> graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an intera… [↗](https://ossaihub.com/tool/lum1104-understand-anything) |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | 87,208 | ▲ +327 | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP… [↗](https://ossaihub.com/tool/crawl4ai) |
 | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 69,704 | ▲ +2,167 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US… [↗](https://ossaihub.com/tool/zhulinsen-daily-stock-analysis) |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | 68,175 | ▲ +253 | Turn documents/PDFs/web into private RAG-powered chat with any LLM; multi-user, workspaces, agents, no-code. [↗](https://ossaihub.com/tool/anythingllm) |
@@ -547,7 +547,7 @@ Top 20 of [62 tracked Vector Databases & Embeddings tools](https://ossaihub.com/
 | [pgvector](https://github.com/pgvector/pgvector) | 23,648 | ▲ +69 | Postgres extension for vector similarity search — use your existing database for embeddings with IVFFlat and… [↗](https://ossaihub.com/tool/pgvector) |
 | [turbovec](https://github.com/ryancodrai/turbovec) | 17,488 | ▲ +31 | A vector index built on TurboQuant, written in Rust with Python bindings [↗](https://ossaihub.com/tool/ryancodrai-turbovec) |
 | [Weaviate](https://github.com/weaviate/weaviate) | 16,943 | ▲ +7 | AI-native vector DB with modules, hybrid search, and GraphQL API. [↗](https://ossaihub.com/tool/weaviate) |
-| [LEANN](https://github.com/StarTrail-org/LEANN) | 13,789 | ▲ +21 | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100%… [↗](https://ossaihub.com/tool/yichuan-w-leann) |
+| [LEANN](https://github.com/StarTrail-org/LEANN) | 13,789 | ▲ +21 | \[MLsys2026\]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100%… [↗](https://ossaihub.com/tool/yichuan-w-leann) |
 | [langchain4j](https://github.com/langchain4j/langchain4j) | 13,391 | ▲ +37 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It of… [↗](https://ossaihub.com/tool/langchain4j-langchain4j) |
 | [claude-context](https://github.com/zilliztech/claude-context) | 12,687 | ▲ +20 | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. [↗](https://ossaihub.com/tool/zilliztech-claude-context) |
 | [FlagEmbedding](https://github.com/flagopen/flagembedding) | 12,316 | ▲ +19 | Retrieval and Retrieval-augmented LLMs [↗](https://ossaihub.com/tool/flagopen-flagembedding) |
@@ -798,7 +798,7 @@ Top 20 of [25 tracked Desktop & Personal Agents tools](https://ossaihub.com/cate
 
 ## AI DevOps & Deployment
 
-Top 13 of [13 tracked AI DevOps & Deployment tools](https://ossaihub.com/categories/ai-devops-deployment), by stars.
+Top 14 of [14 tracked AI DevOps & Deployment tools](https://ossaihub.com/categories/ai-devops-deployment), by stars.
 
 | Tool | Stars | 7-day | What it does |
 |---|---:|---:|---|
@@ -808,6 +808,7 @@ Top 13 of [13 tracked AI DevOps & Deployment tools](https://ossaihub.com/categor
 | [Haystack](https://github.com/deepset-ai/haystack) | 26,989 | ▲ +63 | Open-source orchestration for LLM pipelines with prompt templating & structured RAG [↗](https://ossaihub.com/tool/haystack-deepset-ai) |
 | [Letta](https://github.com/letta-ai/letta) | 25,415 | ▲ +69 | Stateful, memory-rich LLM agents with persistent memory, self-editing, archival storage, and adaptive reasoni… [↗](https://ossaihub.com/tool/letta-letta-ai-2) |
 | [semantica](https://github.com/semantica-agi/semantica) | 14,531 | ▲ +103 | Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems wi… [↗](https://ossaihub.com/tool/hawksight-ai-semantica) |
+| [opensre](https://github.com/Tracer-Cloud/opensre) | 12,810 | — | The open-source agent for CI/CD reliability. [↗](https://ossaihub.com/tool/opensre) |
 | [Hive](https://github.com/aden-hive/hive) | 11,152 | ▲ +11 | Goal-driven autonomous agent framework with self-improving evolution loops [↗](https://ossaihub.com/tool/hive-agent) |
 | [Superagent](https://github.com/superagent-ai/superagent) | 6,866 | ▲ +41 | Modular, plugin-based framework for building autonomous LLM agents [↗](https://ossaihub.com/tool/superagent) |
 | [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) | 3,723 | ▼ -1 | High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle [↗](https://ossaihub.com/tool/fastdeploy) |
